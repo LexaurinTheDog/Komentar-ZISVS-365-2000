@@ -2560,6 +2560,3 @@ je třeba komentář **interpretovat v kontextu aktuálního znění** všech na
 
 Pro jednotlivé sektory veřejné správy (zejména obce, kraje, ministerstva) jsou často relevantní **specifické rezortní metodiky** — tyto je třeba aplikovat **kumulativně** s ZISVS, nikoli alternativně.
 
-
-
-
