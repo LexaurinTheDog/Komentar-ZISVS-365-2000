@@ -12,7 +12,7 @@
 
 > **§ 1**
 >
-> *(1) Tento zákon stanoví práva a povinnosti, které souvisejí s vytvářením, správou, provozem, užíváním a rozvojem informačních systémů veřejné správy spravovaných státními orgány, orgány územních samosprávných celků nebo státními právnickými osobami (dále jen „orgán veřejné správy").*
+> *(1) Tento zákon stanoví práva a povinnosti, které souvisejí s vytvářením, správou, provozem, užíváním a rozvojem informačních systémů veřejné správy spravovaných státními orgány, orgány územních samosprávných celků nebo státními právnickými osobami (dále jen „orgán veřejné správy“).*
 >
 > *(2) Tento zákon se nevztahuje na informační systémy veřejné správy spravované*
 >
@@ -38,7 +38,7 @@
 >
 > *- f) Českou národní bankou,*
 >
-> *- g) Finančním analytickým úřadem pro potřeby boje proti legalizaci výnosů z trestné činnosti nebo provádění mezinárodních sankcí (...),*
+> *- g) Finančním analytickým úřadem pro potřeby boje proti legalizaci výnosů z trestné činnosti nebo provádění mezinárodních sankcí za účelem udržování mezinárodního míru a bezpečnosti, ochrany základních lidských práv a boje proti terorismu,*
 >
 > *- h) Ministerstvem vnitra pro potřeby provádění bezpečnostního řízení a vedení evidencí podle zákona upravujícího ochranu utajovaných informací a bezpečnostní způsobilost,*
 >
@@ -111,15 +111,15 @@ Toto vyjmutí má pragmatický důvod — typický kancelářský IT provoz kraj
 >
 > *- d) provozovatelem informačního systému veřejné správy osoba nebo její součást, která zajišťuje funkčnost technických a programových prostředků tvořících informační systém veřejné správy. Provozováním informačního systému veřejné správy může správce pověřit jiné osoby nebo jejich součásti, pokud to jiný zákon nevylučuje,*
 >
-> *- e) uživatelem informačního systému veřejné správy osoba nebo její součást, která do informačního systému veřejné správy zapisuje data nebo data, případně i provozní údaje obsažené v informačním systému veřejné správy, využívá (...),*
+> *- e) uživatelem informačního systému veřejné správy osoba nebo její součást, která do informačního systému veřejné správy zapisuje data nebo data, případně i provozní údaje obsažené v informačním systému veřejné správy, využívá; uživatelem informačního systému veřejné správy je i správce nebo provozovatel informačního systému veřejné správy, pokud informační systém veřejné správy užívá při výkonu veřejné správy v oblasti, pro kterou informační systém veřejné správy poskytuje službu informačního systému veřejné správy,*
 >
 > *- f) vytvářením informačních systémů veřejné správy proces zavádění informačních systémů veřejné správy, včetně jeho právního, organizačního, znalostního a technického zajištění,*
 >
-> *- g) rozvojem informačních systémů veřejné správy proces zlepšování vlastností informačních systémů veřejné správy nebo zlepšování služeb informačních systémů veřejné správy (...),*
+> *- g) rozvojem informačních systémů veřejné správy proces zlepšování vlastností informačních systémů veřejné správy nebo zlepšování služeb informačních systémů veřejné správy, včetně jeho právního, organizačního, znalostního a technického zajištění; rozvojem je i modernizace technických nebo programových prostředků anebo jiných nástrojů umožňujících výkon informační činnosti nebo částečná anebo úplná náhrada technických nebo programových prostředků anebo jiných nástrojů umožňujících výkon informační činnosti za účelem zlepšení vlastností informačních systémů veřejné správy nebo zlepšení služeb informačních systémů veřejné správy,*
 >
 > *- h) službou informačního systému veřejné správy činnost informačního systému veřejné správy uspokojující dané požadavky oprávněné osoby nebo její součásti spojená s funkcí informačního systému veřejné správy,*
 >
-> *- i) referenčním, sdíleným a bezpečným rozhraním informačních systémů veřejné správy (dále jen „referenční rozhraní") souhrn právních, technických, organizačních a jiných opatření vytvářejících jednotné integrační prostředí informačních systémů veřejné správy, které poskytuje kvalitní soustavu společných služeb informačních systémů veřejné správy, včetně služeb výměny oprávněně vyžadovaných informací mezi jednotlivými informačními systémy, a to i se systémy mimo Českou republiku,*
+> *- i) referenčním, sdíleným a bezpečným rozhraním informačních systémů veřejné správy (dále jen „referenční rozhraní“) souhrn právních, technických, organizačních a jiných opatření vytvářejících jednotné integrační prostředí informačních systémů veřejné správy, které poskytuje kvalitní soustavu společných služeb informačních systémů veřejné správy, včetně služeb výměny oprávněně vyžadovaných informací mezi jednotlivými informačními systémy, a to i se systémy mimo Českou republiku,*
 >
 > *- j) atestacemi stanovení shody dlouhodobého řízení informačních systémů veřejné správy s výjimkou provozních informačních systémů uvedených v § 1 odst. 4 písm. a) až d) s požadavky tohoto zákona a prováděcích právních předpisů k tomuto zákonu,*
 >
@@ -137,13 +137,13 @@ Toto vyjmutí má pragmatický důvod — typický kancelářský IT provoz kraj
 >
 > *- q) provozním informačním systémem informační systém veřejné správy zajišťující informační činnosti nutné pro vnitřní provoz příslušného orgánu,*
 >
-> *- r) atestačními podmínkami obchodní podmínky vydané atestačním střediskem, obsahující zejména vymezení předmětu atestace a postupy atestačního střediska při provádění atestací schválené Digitální a informační agenturou (dále jen „Agentura"),*
+> *- r) atestačními podmínkami obchodní podmínky vydané atestačním střediskem, obsahující zejména vymezení předmětu atestace a postupy atestačního střediska při provádění atestací schválené Digitální a informační agenturou (dále jen „Agentura“),*
 >
 > *- s) akreditací postup, na jehož základě se vydává osvědčení o tom, že právnické nebo fyzické osoby, které jsou podnikateli, splňují ve vymezeném rozsahu technické, organizační, ekonomické a personální předpoklady k provádění atestací,*
 >
-> *- t) provozní dokumentací dokumentace informačního systému veřejné správy nebo centrálního místa služeb komunikační infrastruktury veřejné správy (...) která popisuje funkční a technické vlastnosti informačního systému veřejné správy nebo centrálního místa služeb a blíže rozpracovává oprávnění a povinnosti jeho správce, provozovatele a uživatele,*
+> *- t) provozní dokumentací dokumentace informačního systému veřejné správy nebo centrálního místa služeb komunikační infrastruktury veřejné správy (dále jen „centrální místo služeb“), která popisuje funkční a technické vlastnosti informačního systému veřejné správy nebo centrálního místa služeb a blíže rozpracovává oprávnění a povinnosti jeho správce, provozovatele a uživatele,*
 >
-> *- u) přístupem se zaručenou identitou přístup do informačního systému veřejné správy nebo elektronické aplikace s využitím prostředku pro elektronickou identifikaci, při jehož vydání nebo v souvislosti s ním anebo v souvislosti s umožněním jeho využití byla totožnost osoby ověřena státním orgánem, orgánem územního samosprávného celku nebo orgánem veřejné moci (...) (dále jen „veřejný orgán") nebo který byl vydán v rámci kvalifikovaného systému elektronické identifikace,*
+> *- u) přístupem se zaručenou identitou přístup do informačního systému veřejné správy nebo elektronické aplikace s využitím prostředku pro elektronickou identifikaci, při jehož vydání nebo v souvislosti s ním anebo v souvislosti s umožněním jeho využití byla totožnost osoby ověřena státním orgánem, orgánem územního samosprávného celku nebo orgánem veřejné moci, který není státním orgánem ani orgánem územního samosprávného celku, (dále jen „veřejný orgán“) nebo který byl vydán v rámci kvalifikovaného systému elektronické identifikace,*
 >
 > *- v) určeným informačním systémem informační systém veřejné správy, který*
 >
@@ -159,9 +159,21 @@ Toto vyjmutí má pragmatický důvod — typický kancelářský IT provoz kraj
 >
 > *- b) cloud computingem způsob zajištění provozu informačního systému veřejné správy nebo jeho části prostřednictvím dálkového přístupu k sdílenému technickému nebo programovému prostředku, který je zpřístupněný poskytovatelem cloud computingu a nastavitelný správcem informačního systému veřejné správy,*
 >
-> *- c) poptávkou cloud computingu právní jednání orgánu veřejné správy (...),*
+> *- c) poptávkou cloud computingu právní jednání orgánu veřejné správy,*
 >
-> *- d) nabídkou cloud computingu právní jednání poskytovatele cloud computingu (...),*
+> *- 1. jehož předmětem je projev vůle využít cloud computing poskytovaný osobou nebo její součástí, které jsou odlišné od tohoto orgánu veřejné správy, pro potřebu tohoto nebo jiného orgánu veřejné správy a mimo rámec vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek,*
+>
+> *- 2. který obsahuje charakteristiku poptávaného cloud computingu a*
+>
+> *- 3. který předchází právnímu jednání tohoto nebo jiného orgánu veřejné správy podle právního předpisu upravujícího zadávání veřejných zakázek, má-li být cloud computing zadán podle právního předpisu upravujícího zadávání veřejných zakázek,*
+>
+> *- d) nabídkou cloud computingu právní jednání poskytovatele cloud computingu,*
+>
+> *- 1. jehož předmětem je projev vůle poskytnout cloud computing orgánu veřejné správy mimo rámec vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek,*
+>
+> *- 2. který obsahuje charakteristiku nabízeného cloud computingu a*
+>
+> *- 3. který předchází právnímu jednání tohoto poskytovatele cloud computingu podle právního předpisu upravujícího zadávání veřejných zakázek, má-li být cloud computing zadán podle právního předpisu upravujícího zadávání veřejných zakázek,*
 >
 > *- e) státní právnickou osobou státní fond a právnická osoba zřízená nebo založená státem, pokud byla zřízena nebo založena za zvláštním účelem spočívajícím v uspokojování potřeb obecného zájmu, které nemají průmyslovou nebo obchodní povahu, a je financována převážně státem nebo podléhá řídícímu dohledu státu anebo je v jejím správním, řídícím nebo dozorčím orgánu více než polovina členů jmenována státem,*
 >
@@ -331,7 +343,7 @@ Rada nemá vlastní rozhodovací pravomoc — jejím výstupem je doporučení v
 >
 > *- a) kontroluje u orgánů veřejné správy dodržování povinností stanovených tímto zákonem, s výjimkou povinností stanovených v § 6n písm. b) až f) a § 6l odst. 3,*
 >
-> *- b) se vyjadřuje k investičním záměrům akcí pořízení nebo architektonických změn určených informačních systémů (...),*
+> *- b) se vyjadřuje k investičním záměrům akcí pořízení nebo architektonických změn určených informačních systémů; Agentura přitom přihlíží zejména k oprávněným zájmům předkladatele investičního záměru akce, architektuře určených informačních systémů, technickému, ekonomickému a projektovému hledisku, práci s daty, uživatelskému zážitku a k potřebám zajištění řádného výkonu veřejné správy,*
 >
 > *- c) vykonává působnost stanovenou tímto zákonem v oblasti akreditace a atestací,*
 >
@@ -341,13 +353,13 @@ Rada nemá vlastní rozhodovací pravomoc — jejím výstupem je doporučení v
 >
 > *- f) ukládá opatření směřující k nápravě nedostatků,*
 >
-> *- g) vyjadřuje se k projektům určených informačních systémů nebo jejich architektonických změn (...),*
+> *- g) vyjadřuje se k projektům určených informačních systémů nebo jejich architektonických změn, jde-li o určené informační systémy spravované státními orgány nebo státními právnickými osobami anebo určené informační systémy spravované orgány územních samosprávných celků, které slouží k výkonu přenesené působnosti,*
 >
-> *- h) posuzuje, zda informační systémy veřejné správy splňují požadavky kladené na ně právními předpisy upravujícími informační nebo komunikační technologie, informační koncepcí orgánu veřejné správy a provozní dokumentací (...),*
+> *- h) posuzuje, zda informační systémy veřejné správy splňují požadavky kladené na ně právními předpisy upravujícími informační nebo komunikační technologie, informační koncepcí orgánu veřejné správy a provozní dokumentací, a jde-li o informační systémy veřejné správy spravované orgány veřejné správy, pro něž jsou závazná usnesení vlády, rovněž informační koncepcí České republiky a jinými usneseními vlády týkajícími se informačních nebo komunikačních technologií,*
 >
 > *- i) vydává Věstník Agentury, v němž uveřejňuje metodické pokyny [odstavec 1 písm. f)], seznam atestačních středisek, udělení osvědčení o akreditaci a udělení atestů a další dokumenty vztahující se k informačním systémům veřejné správy; vydávání Věstníku Agentury zabezpečuje Agentura prostřednictvím portálu veřejné správy,*
 >
-> *- j) konzultuje návrhy metodických pokynů zejména s dotčenými osobami nebo jejich součástmi formou veřejné konzultace (...),*
+> *- j) konzultuje návrhy metodických pokynů zejména s dotčenými osobami nebo jejich součástmi formou veřejné konzultace, jejímž cílem je získání stanovisek a připomínek dotčených osob nebo jejich součástí k předmětnému návrhu, a za tímto účelem zřídí a spravuje informační systém, kde způsobem umožňujícím dálkový přístup uveřejňuje návrhy metodických pokynů, umožňuje předkládání připomínek a uveřejňuje výsledek konzultace,*
 >
 > *- k) kontroluje výkon působnosti kontaktních míst veřejné správy.*
 
@@ -406,21 +418,21 @@ Tyto okruhy kontroluje **NÚKIB** (§ 6i odst. 3). DIA tedy řeší „architekt
 >
 > *- a) spolupracovat s Agenturou při plnění jejích úkolů podle § 4,*
 >
-> *- b) předložit Agentuře k vyjádření návrhy dokumentací programů obsahujících pořízení nebo architektonické změny určených informačních systémů (...) a investiční záměry akcí pořízení nebo architektonických změn určených informačních systémů,*
+> *- b) předložit Agentuře k vyjádření návrhy dokumentací programů obsahujících pořízení nebo architektonické změny určených informačních systémů vypracovaných podle zvláštního právního předpisu7a) a investiční záměry akcí pořízení nebo architektonických změn určených informačních systémů,*
 >
-> *- c) předložit Agentuře před zahájením poskytování služby informačního systému veřejné správy jimi spravovaným určeným informačním systémem nebo na žádost Agentury provozní dokumentaci určeného informačního systému k posouzení, zda určený informační systém odpovídá jeho projektu nebo projektu jeho architektonických změn (...),*
+> *- c) předložit Agentuře před zahájením poskytování služby informačního systému veřejné správy jimi spravovaným určeným informačním systémem nebo na žádost Agentury provozní dokumentaci určeného informačního systému k posouzení, zda určený informační systém odpovídá jeho projektu nebo projektu jeho architektonických změn, v podobě, v jaké k nim bylo učiněno souhlasné vyjádření Agentury nebo souhlasné rozhodnutí vlády; část věty před středníkem se použije pouze v případě určených informačních systémů spravovaných státními orgány nebo státními právnickými osobami anebo určených informačních systémů spravovaných orgány územních samosprávných celků, které slouží k výkonu přenesené působnosti,*
 >
-> *- d) zajistit, aby vazby jimi spravovaného informačního systému veřejné správy s výjimkou provozního informačního systému uvedeného v § 1 odst. 4 písm. a) až d) na informační systémy veřejné správy jiného správce byly uskutečňovány prostřednictvím referenčního rozhraní (...),*
+> *- d) zajistit, aby vazby jimi spravovaného informačního systému veřejné správy s výjimkou provozního informačního systému uvedeného v § 1 odst. 4 písm. a) až d) na informační systémy veřejné správy jiného správce byly uskutečňovány prostřednictvím referenčního rozhraní. Toto ustanovení se nevztahuje na vazby mezi jimi spravovanými informačními systémy veřejné správy a informačními systémy veřejné správy vedenými zpravodajskými službami,*
 >
 > *- e) odstranit zjištěné nedostatky ve lhůtě stanovené Agenturou,*
 >
 > *- f) předložit Agentuře k vyjádření a v případě určených informačních systémů spravovaných orgány územních samosprávných celků, které slouží výlučně k výkonu samostatné působnosti, na vědomí projekty určených informačních systémů nebo jejich architektonických změn,*
 >
-> *- g) uskutečnit programy obsahující pořízení nebo architektonické změny určených informačních systémů (...) až po souhlasném vyjádření Agentury nebo souhlasném rozhodnutí vlády,*
+> *- g) uskutečnit programy obsahující pořízení nebo architektonické změny určených informačních systémů, jejichž návrhy dokumentace jsou povinny předložit Agentuře k vyjádření, investiční záměry akcí pořízení nebo architektonických změn určených informačních systémů, které jsou povinny předložit Agentuře k vyjádření, a projekty určených informačních systémů nebo jejich architektonických změn, které jsou povinny předložit Agentuře k vyjádření, až po souhlasném vyjádření Agentury nebo souhlasném rozhodnutí vlády,*
 >
-> *- h) oznámit Agentuře zahájení zkušebního provozu určeného informačního systému (...) před tím, než tato skutečnost nastane, vést záznam o průběhu zkušebního provozu a zpřístupnit záznam Agentuře dálkovým přístupem,*
+> *- h) oznámit Agentuře zahájení zkušebního provozu určeného informačního systému souvisejícího s jeho pořízením nebo architektonickými změnami před tím, než tato skutečnost nastane, vést záznam o průběhu zkušebního provozu a zpřístupnit záznam Agentuře dálkovým přístupem,*
 >
-> *- i) zahájit poskytování služby informačního systému veřejné správy jím spravovaným určeným informačním systémem až po vyjádření Agentury, že určený informační systém odpovídá jeho projektu (...),*
+> *- i) zahájit poskytování služby informačního systému veřejné správy jím spravovaným určeným informačním systémem až po vyjádření Agentury, že určený informační systém odpovídá jeho projektu nebo projektu jeho architektonických změn, v podobě, v jaké k nim bylo učiněno souhlasné vyjádření Agentury nebo souhlasné rozhodnutí vlády; část věty před středníkem se nepoužije na službu informačního systému veřejné správy, která se týká výlučně výkonu samostatné působnosti,*
 >
 > *- j) provádět hodnocení ekonomické výhodnosti způsobu provozu jimi spravovaných informačních systémů veřejné správy,*
 >
@@ -485,11 +497,11 @@ Náležitosti hodnocení stanoví vyhláška DIA podle § 12 odst. 1 písm. a).
 >
 > *(1) Rada vlády pro informační společnost vytváří a předkládá vládě ke schválení informační koncepci České republiky. Informační koncepce České republiky stanoví cíle České republiky v oblasti informačních systémů veřejné správy a obecné principy pořizování, architektonických změn, vytváření, správy, provozování, užívání a rozvoje informačních systémů veřejné správy v České republice na období 5 let.*
 >
-> *(2) Orgány veřejné správy vytvářejí a vydávají informační koncepci orgánu veřejné správy, uplatňují ji v praxi a vyhodnocují její dodržování (...). V případě orgánů téhož územního samosprávného celku se vytváří jedna informační koncepce pro všechny orgány územního samosprávného celku. Orgány veřejné správy předkládají informační koncepci orgánu veřejné správy do 3 měsíců ode dne jejího vydání nebo aktualizace Agentuře. (...)*
+> *(2) Orgány veřejné správy vytvářejí a vydávají informační koncepci orgánu veřejné správy, uplatňují ji v praxi a vyhodnocují její dodržování. V informační koncepci orgánu veřejné správy orgány veřejné správy stanoví své dlouhodobé cíle v oblasti řízení spravovaných informačních systémů veřejné správy a vymezí obecné principy pořizování, architektonických změn, vytváření, správy, provozování, užívání a rozvoje svých informačních systémů veřejné správy. V případě orgánů téhož územního samosprávného celku se vytváří jedna informační koncepce pro všechny orgány územního samosprávného celku. Orgány veřejné správy předkládají informační koncepci orgánu veřejné správy do 3 měsíců ode dne jejího vydání nebo aktualizace Agentuře. Strukturu a náležitosti informační koncepce orgánu veřejné správy, jakož i postupy orgánů veřejné správy při jejím vytváření, vydávání a při vyhodnocování jejího dodržování, požadavky na řízení informačních systémů veřejné správy, včetně dekomponování informačních systémů veřejné správy, technické požadavky na informační systémy veřejné správy a pravidla pro strukturování dat v informačních systémech veřejné správy stanoví prováděcí právní předpis.*
 >
-> *(3) Na základě vydané informační koncepce orgánu veřejné správy orgány veřejné správy vytvářejí a vydávají provozní dokumentaci k jednotlivým informačním systémům veřejné správy, uplatňují ji v praxi a vyhodnocují její dodržování. (...)*
+> *(3) Na základě vydané informační koncepce orgánu veřejné správy orgány veřejné správy vytvářejí a vydávají provozní dokumentaci k jednotlivým informačním systémům veřejné správy, uplatňují ji v praxi a vyhodnocují její dodržování. Strukturu a náležitosti provozní dokumentace stanoví prováděcí právní předpis.*
 >
-> *(4) Orgány veřejné správy si zajistí atestaci dlouhodobého řízení informačních systémů veřejné správy s výjimkou provozních informačních systémů uvedených v § 1 odst. 4 písm. a) až d) a prokáží splnění povinností podle odstavců 2 a 3 atestem dlouhodobého řízení informačních systémů veřejné správy. (...) Povinnost podle věty první se nevztahuje na obce, které vykonávají přenesenou působnost pouze v základním rozsahu9a).*
+> *(4) Orgány veřejné správy si zajistí atestaci dlouhodobého řízení informačních systémů veřejné správy s výjimkou provozních informačních systémů uvedených v § 1 odst. 4 písm. a) až d) a prokáží splnění povinností podle odstavců 2 a 3 atestem dlouhodobého řízení informačních systémů veřejné správy. Rozsah provozní dokumentace předkládané při atestaci stanoví prováděcí právní předpis. Povinnost podle věty první se nevztahuje na obce, které vykonávají přenesenou působnost pouze v základním rozsahu9a).*
 
 **Výklad:**
 
@@ -668,7 +680,7 @@ Klíčová věta: záznamy se poskytují **včetně těch, které obsahují neve
 
 > **§ 6**
 >
-> *(1) Akreditaci provádí právnická nebo fyzická osoba, která je členem mezinárodních sdružení zabývajících se akreditací a určených Agenturou podle odstavce 6 a která byla na základě žádosti o pověření k provádění akreditace rozhodnutím Agentury k provádění akreditace pověřena (dále jen „akreditující osoba"). Pověření k provádění akreditace je nepřevoditelné.*
+> *(1) Akreditaci provádí právnická nebo fyzická osoba, která je členem mezinárodních sdružení zabývajících se akreditací a určených Agenturou podle odstavce 6 a která byla na základě žádosti o pověření k provádění akreditace rozhodnutím Agentury k provádění akreditace pověřena (dále jen „akreditující osoba“). Pověření k provádění akreditace je nepřevoditelné.*
 >
 > *(2) K žádosti o pověření k provádění akreditace žadatel přikládá*
 >
@@ -680,9 +692,9 @@ Klíčová věta: záznamy se poskytují **včetně těch, které obsahují neve
 >
 > *- d) doklad o zajištění zdrojů potřebných pro výkon činností akreditující osoby,*
 >
-> *- e) podmínky a postupy posuzování žadatelů o akreditaci (dále jen „akreditační pravidla"), které musí být v souladu s pravidly mezinárodních sdružení zabývajících se akreditací určených Agenturou podle odstavce 6.*
+> *- e) podmínky a postupy posuzování žadatelů o akreditaci (dále jen „akreditační pravidla“), které musí být v souladu s pravidly mezinárodních sdružení zabývajících se akreditací určených Agenturou podle odstavce 6.*
 >
-> *(3) Splňuje-li žadatel všechny podmínky předepsané tímto zákonem pro pověření k provádění akreditace, vydá Agentura rozhodnutí, jímž jej prováděním akreditace pověří. (...). Žadatel je akreditován též marným uplynutím lhůty a způsobem podle § 28 až 30 zákona o volném pohybu služeb.*
+> *(3) Splňuje-li žadatel všechny podmínky předepsané tímto zákonem pro pověření k provádění akreditace, vydá Agentura rozhodnutí, jímž jej prováděním akreditace pověří. V opačném případě žádost o pověření k provádění akreditace zamítne. V rozhodnutí, kterým Agentura pověřuje akreditující osobu prováděním akreditace, vysloví Agentura souhlas s akreditačními pravidly. Žadatel je akreditován též marným uplynutím lhůty a způsobem podle § 28 až 30 zákona o volném pohybu služeb.*
 >
 > *(4) Akreditující osoba je povinna*
 >
@@ -862,7 +874,11 @@ Odst. 4 zavádí **mechanismus „opravy"** — DIA vyzve středisko, aby předl
 >
 > *- b) provádět posuzování dlouhodobého řízení informačních systémů veřejné správy v souladu s tímto zákonem a postupy stanovenými prováděcím právním předpisem.*
 >
-> *(2) Atestační středisko není oprávněno provádět atestace dlouhodobého řízení informačních systémů veřejné správy, na jejichž vývoji, přípravě, výrobě nebo na obchodu se jakkoliv podílelo samo nebo s ním ekonomicky nebo personálně spojená osoba (...).*
+> *(2) Atestační středisko není oprávněno provádět atestace dlouhodobého řízení informačních systémů veřejné správy, na jejichž vývoji, přípravě, výrobě nebo na obchodu se jakkoliv podílelo samo nebo s ním ekonomicky nebo personálně spojená osoba, kdy*
+>
+> *- a) ekonomicky nebo personálně spojenými osobami se pro účely tohoto zákona rozumí, jestliže se jedna osoba podílí přímo nebo nepřímo na vedení, kontrole nebo jmění druhé osoby nebo jestliže se shodné právnické nebo fyzické osoby přímo nebo nepřímo podílejí na vedení, kontrole nebo jmění obou osob anebo fyzické osoby blízké11),*
+>
+> *- b) účastí na kontrole nebo jmění se pro účely tohoto zákona rozumí jakýkoli podíl na základním kapitálu nebo podíl s hlasovacím právem.*
 >
 > *(3) Atestační středisko provádí atestace na základě smlouvy uzavřené s žadatelem o atestaci za úplatu. Cena se sjednává podle zvláštního právního předpisu10).*
 >
@@ -872,7 +888,7 @@ Odst. 4 zavádí **mechanismus „opravy"** — DIA vyzve středisko, aby předl
 >
 > *(6) Atestační středisko, které vystavilo atest, může na základě žádosti držitele atestu před uplynutím platnosti atestu prodloužit jeho platnost o 2 roky, a to i opakovaně. Žadatel i atestační středisko při prodlužování platnosti atestu postupují obdobně jako při provádění atestací.*
 >
-> *(7) Atestační středisko předá v elektronické podobě (...) Agentuře informace o provedené atestaci ve lhůtě 7 pracovních dnů ode dne jejího provedení. Informaci o vydání atestu Agentura uveřejní ve Věstníku Agentury.*
+> *(7) Atestační středisko předá v elektronické podobě prostřednictvím automatizovaného ohlašovacího procesu přístupného dálkovým přístupem na elektronické adrese, kterou Agentura uveřejní ve Věstníku Agentury, Agentuře informace o provedené atestaci ve lhůtě 7 pracovních dnů ode dne jejího provedení. Informaci o vydání atestu Agentura uveřejní ve Věstníku Agentury.*
 >
 > *(8) Kontrolu atestačních středisek při plnění povinností vyplývajících z tohoto zákona vykonává Agentura.*
 
@@ -967,7 +983,7 @@ Toto **zužuje** obecnou definici účastníků podle § 27 SŘ — vylučuje ko
 >
 > *(3) Portál veřejné správy zajišťuje komunikaci s veřejnými orgány prostřednictvím datových schránek, prostřednictvím přístupu se zaručenou identitou do informačních systémů veřejné správy nebo elektronických aplikací spravovaných těmito veřejnými orgány a prostřednictvím kontaktních míst veřejné správy.*
 >
-> *(4) Portál veřejné správy dále zajišťuje přístup k informacím fyzických osob a právnických osob, zejména k formulářům v elektronické podobě těchto osob, a komunikaci s fyzickými osobami a právnickými osobami. (...) Fyzická osoba, k jejímž informacím je zajištěn přístup, a právnická osoba, k jejímž informacím je zajištěn přístup, hradí za zajištění tohoto přístupu úplatu; to neplatí, stanoví-li fyzické osobě nebo právnické osobě povinnost zpřístupnit informaci prostřednictvím portálu veřejné správy zákon. (...).*
+> *(4) Portál veřejné správy dále zajišťuje přístup k informacím fyzických osob a právnických osob, zejména k formulářům v elektronické podobě těchto osob, a komunikaci s fyzickými osobami a právnickými osobami. Portál veřejné správy zajišťuje přístup k informacím fyzických osob a právnických osob na základě písemné smlouvy mezi správcem portálu veřejné správy a fyzickou osobou, k jejímž informacím je zajištěn přístup, nebo právnickou osobou, k jejímž informacím je zajištěn přístup; písemná smlouva se nevyžaduje, stanoví-li fyzické osobě nebo právnické osobě povinnost zpřístupnit informaci prostřednictvím portálu veřejné správy zákon. Fyzická osoba, k jejímž informacím je zajištěn přístup, a právnická osoba, k jejímž informacím je zajištěn přístup, hradí za zajištění tohoto přístupu úplatu; to neplatí, stanoví-li fyzické osobě nebo právnické osobě povinnost zpřístupnit informaci prostřednictvím portálu veřejné správy zákon. Úplata je příjmem státního rozpočtu, vybírá ji správce portálu veřejné správy. Správce portálu veřejné správy stanoví podmínky, za kterých budou informace fyzických osob nebo právnických osob prostřednictvím portálu veřejné správy zpřístupněny, a pravidla pro stanovení výše úplaty a způsob její úhrady a zveřejní je na portálu veřejné správy.*
 >
 > *(5) Portál veřejné správy umožňuje fyzické osobě zápis dokladu, průkazu, osvědčení nebo jiné veřejné listiny za účelem zasílání informace o končící platnosti této veřejné listiny na kontaktní údaj a zápis sériového čísla, vydavatele a platnosti kvalifikovaného certifikátu pro elektronický podpis.*
 >
@@ -1065,7 +1081,7 @@ Klíčové pravidlo — **přístup k referenčnímu rozhraní je možný výlu�
 >
 > *(1) Vláda*
 >
-> *- a) pověřuje osobu nebo jiné právní uspořádání, které jsou zřízené nebo založené státem a které splňují požadavky podle § 6m odst. 1, poskytováním cloud computingu orgánům veřejné správy (dále jen „poskytovatel státního cloud computingu"),*
+> *- a) pověřuje osobu nebo jiné právní uspořádání, které jsou zřízené nebo založené státem a které splňují požadavky podle § 6m odst. 1, poskytováním cloud computingu orgánům veřejné správy (dále jen „poskytovatel státního cloud computingu“),*
 >
 > *- b) schvaluje plán zajištění potřebné kapacity pro poskytování cloud computingu poskytovatelem státního cloud computingu orgánům veřejné správy, včetně rozpočtového výhledu na 5 let.*
 >
@@ -1075,15 +1091,15 @@ Klíčové pravidlo — **přístup k referenčnímu rozhraní je možný výlu�
 >
 > *- b) vydává metodické pokyny pro využívání cloud computingu orgány veřejné správy,*
 >
-> *- c) zpracovává plán zajištění potřebné kapacity (...),*
+> *- c) zpracovává plán zajištění potřebné kapacity pro poskytování cloud computingu poskytovatelem státního cloud computingu orgánům veřejné správy, včetně rozpočtového výhledu na 5 let a předkládá ho vládě,*
 >
 > *- d) navrhuje opatření k zajištění dlouhodobě udržitelného financování využívání cloud computingu orgány veřejné správy,*
 >
 > *- e) kontroluje, zda cloud computing poskytovaný orgánům veřejné správy splňuje požadavky podle § 6n písm. a) a kvalitu tohoto cloud computingu,*
 >
-> *- f) spravuje informační systém cloud computingu pro orgány veřejné správy (dále jen „informační systém cloud computingu"),*
+> *- f) spravuje informační systém cloud computingu pro orgány veřejné správy (dále jen „informační systém cloud computingu“),*
 >
-> *- g) vede katalog cloud computingu pro orgány veřejné správy (dále jen „katalog cloud computingu"),*
+> *- g) vede katalog cloud computingu pro orgány veřejné správy (dále jen „katalog cloud computingu“),*
 >
 > *- h) vykonává působnost správního orgánu příslušného k uplatňování, regulaci a kontrole cen podle právního předpisu upravujícího ceny v případě cen za poskytování cloud computingu orgánům veřejné správy.*
 >
@@ -1095,7 +1111,7 @@ Klíčové pravidlo — **přístup k referenčnímu rozhraní je možný výlu�
 >
 > *- c) kontroluje zajištění dodržování bezpečnostních pravidel orgánem veřejné správy při využívání služby cloud computingu podle § 6l odst. 3.*
 >
-> *(4) Orgán veřejné správy poskytne na žádost Agentury podklady pro zpracování plánu zajištění potřebné kapacity (...).*
+> *(4) Orgán veřejné správy poskytne na žádost Agentury podklady pro zpracování plánu zajištění potřebné kapacity pro poskytování cloud computingu poskytovatelem státního cloud computingu orgánům veřejné správy.*
 
 **Výklad:**
 
@@ -1150,15 +1166,35 @@ Tato kombinace činí z ISCC nejen evidenční nástroj, ale i **plnohodnotnou z
 >
 > *(2) Údaji vedenými v katalogu cloud computingu o*
 >
-> *- a) poptávkách cloud computingu jsou (...) údaje identifikující poptávku (...), údaje identifikující orgán veřejné správy (...) a údaje charakterizující poptávaný cloud computing, včetně údajů o základních parametrech poptávaného cloud computingu a požadované bezpečnostní úrovni,*
+> *- a) poptávkách cloud computingu jsou*
+>
+> *- 1. údaje identifikující poptávku cloud computingu,*
+>
+> *- 2. údaje identifikující orgán veřejné správy, který cloud computing poptává,*
+>
+> *- 3. údaje charakterizující poptávaný cloud computing, včetně údajů o základních parametrech poptávaného cloud computingu a požadované bezpečnostní úrovni,*
 >
 > *- b) poskytovatelích cloud computingu jsou údaje identifikující poskytovatele cloud computingu,*
 >
-> *- c) nabídkách cloud computingu jsou údaje identifikující nabídku (...), poskytovatele (...) a charakterizující nabízený cloud computing, včetně základních parametrů, bezpečnostní úrovně, předpokládaného místa zpracování informací OVS a předpokládané doby, rozsahu a účelu zpracování, případně o tom, že nabízený cloud computing vyžaduje dlouhodobé uložení informací OVS mimo území Evropské unie,*
+> *- c) nabídkách cloud computingu jsou*
 >
-> *- d) využívaném cloud computingu jsou identifikační údaje, parametry, bezpečnostní úroveň a finanční objem nákladů.*
+> *- 1. údaje identifikující nabídku cloud computingu,*
 >
-> *(3) Údaje podle odstavce 2 jsou veřejné s výjimkou údajů charakterizujících poptávaný, nabízený nebo využívaný cloud computing, jejichž zveřejnění by mohlo ohrozit kybernetickou bezpečnost a které určí u konkrétního cloud computingu Agentura na základě požadavku orgánu veřejné správy (...). Po jejich vymazání z katalogu cloud computingu Agentura uchová údaje po dobu 5 let v informačním systému cloud computingu.*
+> *- 2. údaje identifikující poskytovatele cloud computingu, který cloud computing nabízí,*
+>
+> *- 3. údaje charakterizující nabízený cloud computing, včetně údajů o základních parametrech nabízeného cloud computingu a jeho bezpečnostní úrovni a údaje o předpokládaném místu zpracování informací orgánu veřejné správy a předpokládané době, předpokládaném rozsahu a předpokládaném účelu zpracování informací orgánu veřejné správy v tomto místě, případně o tom, že nabízený cloud computing vyžaduje dlouhodobé uložení informací orgánu veřejné správy mimo území Evropské unie,*
+>
+> *- d) využívaném cloud computingu jsou*
+>
+> *- 1. údaje identifikující využívaný cloud computing,*
+>
+> *- 2. údaje identifikující orgán veřejné správy, který cloud computing využívá,*
+>
+> *- 3. údaje identifikující poskytovatele cloud computingu, který cloud computing poskytuje,*
+>
+> *- 4. údaje charakterizující využívaný cloud computing, včetně údajů o základních parametrech využívaného cloud computingu, jeho bezpečnostní úrovni a finančním objemu nákladů vynaložených v souvislosti s využíváním cloud computingu.*
+>
+> *(3) Údaje podle odstavce 2 jsou veřejné s výjimkou údajů charakterizujících poptávaný, nabízený nebo využívaný cloud computing, jejichž zveřejnění by mohlo ohrozit kybernetickou bezpečnost a které určí u konkrétního cloud computingu Agentura na základě požadavku orgánu veřejné správy, který cloud computing poptává nebo využívá. Po jejich vymazání z katalogu cloud computingu Agentura uchová údaje po dobu 5 let v informačním systému cloud computingu.*
 >
 > *(4) Katalog cloud computingu je součástí informačního systému cloud computingu.*
 
@@ -1197,7 +1233,7 @@ Důležitý prvek u nabídek (písm. c bod 3) — **informace o místě zpracov�
 >
 > *(4) Odstavce 1 až 3 se nepoužijí v případě cloud computingu, který slouží výlučně*
 >
-> *- a) ke správě a řešení technických potíží nebo diagnostice programových anebo technických prostředků (...),*
+> *- a) ke správě a řešení technických potíží nebo diagnostice programových anebo technických prostředků, případně k zabezpečení nebo přenosu s tím souvisejících signálů,*
 >
 > *- b) ke správě nebo využívání prostředků pro elektronickou identifikaci využívajících vícefaktorové autentizace,*
 >
@@ -1205,7 +1241,7 @@ Důležitý prvek u nabídek (písm. c bod 3) — **informace o místě zpracov�
 >
 > *- d) ke shromažďování nebo výměně provozních údajů,*
 >
-> *- e) ke zkušebnímu provozu informačního systému veřejné správy (...).*
+> *- e) ke zkušebnímu provozu informačního systému veřejné správy, pokud při něm nebudou využity údaje, které se v informačním systému veřejné správy vedou nebo povedou anebo které jsou nebo budou v souvislosti s poskytováním služby informačního systému veřejné správy využívány.*
 >
 > *(5) Je-li poskytování cloud computingu poskytovatelem státního cloud computingu závislé na využití cloud computingu jiného poskytovatele cloud computingu, použijí se na toto využití ustanovení tohoto zákona o využívání cloud computingu orgány veřejné správy.*
 
@@ -1290,9 +1326,9 @@ Pro **nejvyšší bezpečnostní úroveň** ISVS smí cloud poskytovat **pouze p
 >
 > *- d) jehož bezpečnostní úroveň je stejná nebo vyšší než bezpečnostní úroveň informačního systému veřejné správy nebo jeho části, k zajištění jehož provozu je využíván,*
 >
-> *- e) který v případě, že je jeho poskytování závislé na jiném cloud computingu, je poskytovaný s využitím cloud computingu splňujícího požadavky podle písmen b) až d) a poskytovaného poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu (...),*
+> *- e) který v případě, že je jeho poskytování závislé na jiném cloud computingu, je poskytovaný s využitím cloud computingu splňujícího požadavky podle písmen b) až d) a poskytovaného poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu; část věty před středníkem se nepoužije v případě cloud computingu poskytovaného podle § 6l odst. 1 písm. c),*
 >
-> *- f) u něhož v případě, že je jeho poskytování závislé na více poskytovatelích cloud computingu, je každý poskytovatel cloud computingu poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu (...).*
+> *- f) u něhož v případě, že je jeho poskytování závislé na více poskytovatelích cloud computingu, je každý poskytovatel cloud computingu poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu; část věty před středníkem se nepoužije v případě cloud computingu poskytovaného podle § 6l odst. 1 písm. c).*
 
 **Výklad:**
 
@@ -1386,15 +1422,15 @@ Pravidlo automatické expirace po 1 roce (písm. b) je **„housekeeping"** norm
 >
 > *(5) Poskytovatel cloud computingu k žádosti připojí*
 >
-> *- a) doklad vydaný orgánem státu, v němž má sídlo, obsahující identifikační údaje osob, které jsou jeho skutečným majitelem (...),*
+> *- a) doklad vydaný orgánem státu, v němž má sídlo, obsahující identifikační údaje osob, které jsou jeho skutečným majitelem; část věty před středníkem se nepoužije, má-li poskytovatel cloud computingu sídlo na území České republiky,*
 >
 > *- b) doklad o svých zkušenostech s poskytováním cloud computingu za posledních 5 let,*
 >
-> *- c) doklad o tom, že splňuje požadavky pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací (...),*
+> *- c) doklad o tom, že splňuje požadavky pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2,*
 >
-> *- d) doklad o své bezúhonnosti (...),*
+> *- d) doklad o své bezúhonnosti, nelze-li bezúhonnost potvrdit postupem podle § 12 zákona o Rejstříku trestů; ustanovení právního předpisu upravujícího elektronickou identifikaci o dokladech prokazujících bezúhonnost kvalifikovaného správce kvalifikovaného systému elektronické identifikace se použijí obdobně,*
 >
-> *- e) doklad vydaný orgánem státu, v němž má sídlo, a doklad vydaný orgánem státu, na jehož území předpokládá dlouhodobé uložení informací orgánu veřejné správy, že nemá evidován nedoplatek vůči žádnému z orgánů těchto států (...).*
+> *- e) doklad vydaný orgánem státu, v němž má sídlo, a doklad vydaný orgánem státu, na jehož území předpokládá dlouhodobé uložení informací orgánu veřejné správy, že nemá evidován nedoplatek vůči žádnému z orgánů těchto států; část věty před středníkem se ve vztahu k dokladu vydanému orgánem státu, v němž má poskytovatel cloud computingu sídlo, nepoužije, má-li poskytovatel cloud computingu sídlo na území České republiky.*
 >
 > *(6) Nevydává-li orgán státu doklad podle odstavce 5 písm. a) nebo e), poskytovatel cloud computingu jej může nahradit čestným prohlášením.*
 
@@ -1428,13 +1464,13 @@ Pravidlo automatické expirace po 1 roce (písm. b) je **„housekeeping"** norm
 >
 > *- b) orgánu Celní správy České republiky,*
 >
-> *- c) orgánu sociálního zabezpečení (...) a*
+> *- c) orgánu sociálního zabezpečení na pojistném a na penále na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti a*
 >
-> *- d) zdravotní pojišťovny (...).*
+> *- d) zdravotní pojišťovny na pojistném a na penále na veřejné zdravotní pojištění.*
 >
 > *(3) Pro rozsah údajů poskytnutých podle odstavce 2 se přiměřeně použijí ustanovení daňového řádu o rozsahu údajů v potvrzení o stavu osobního daňového účtu. Poskytnutí těchto údajů není porušením mlčenlivosti podle daňového řádu.*
 >
-> *(4) Agentura si vyžádá pro účely posouzení splnění požadavku podle § 6m odst. 1 písm. c) údaje o skutečném majiteli poskytovatele cloud computingu z evidence údajů o skutečných majitelích (...).*
+> *(4) Agentura si vyžádá pro účely posouzení splnění požadavku podle § 6m odst. 1 písm. c) údaje o skutečném majiteli poskytovatele cloud computingu z evidence údajů o skutečných majitelích; pro tento účel umožní Ministerstvo spravedlnosti Agentuře dálkový přístup k údajům o skutečném majiteli podle právního předpisu upravujícího veřejné rejstříky právnických a fyzických osob.*
 >
 > *(5) Agentura je oprávněna si vyžádat pro účely posouzení splnění požadavku podle § 6m odst. 1 písm. c) informace Národního úřadu pro kybernetickou a informační bezpečnost, Policie České republiky, zpravodajské služby nebo jiného orgánu.*
 >
@@ -1491,33 +1527,59 @@ OVS, který využívá cloud daného poskytovatele, je vyrozuměn — má pak 12
 >
 > *(1) Agentura rozhodne o zápisu nabídky cloud computingu zařazeného do jiné než nejnižší bezpečnostní úrovně do katalogu cloud computingu na základě žádosti poskytovatele státního cloud computingu nebo poskytovatele cloud computingu zapsaného v katalogu cloud computingu, splňuje-li nabízený cloud computing požadavky podle § 6n písm. a), b), d) a f) a požadavek podle § 6n písm. e), pokud jde o požadavky podle § 6n písm. b) a d) a požadavek na poskytování podpůrného cloud computingu poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu. Agentura rozhodne o zápisu nabídky cloud computingu zařazeného do nejnižší bezpečnostní úrovně do katalogu cloud computingu na základě žádosti poskytovatele podle věty první, splňuje-li nabízený cloud computing požadavky podle § 6n písm. a) a f) a požadavek podle § 6n písm. e), pokud jde o požadavek na poskytování podpůrného cloud computingu poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu. O žádosti podle vět první a druhé rozhodne Agentura do 30 dnů ode dne jejího podání; proti rozhodnutí o žádosti není rozklad přípustný.*
 >
-> *(2) Je-li žádosti v plném rozsahu vyhověno, písemné vyhotovení rozhodnutí se nevydává. Takové rozhodnutí nabývá právní moci dnem zápisu nabídky cloud computingu do katalogu cloud computingu. (...)*
+> *(2) Je-li žádosti v plném rozsahu vyhověno, písemné vyhotovení rozhodnutí se nevydává. Takové rozhodnutí nabývá právní moci dnem zápisu nabídky cloud computingu do katalogu cloud computingu. Agentura o zápisu do katalogu cloud computingu vyrozumí poskytovatele cloud computingu, který o zápis požádal.*
 >
 > *(3) Poskytovatel cloud computingu podává žádost elektronicky ve strojově čitelném formátu.*
 >
 > *(4) Poskytovatel cloud computingu může v žádosti uvést pouze jednu nabídku jednoho cloud computingu nebo jednu nabídku více cloud computingů zařazených do stejné bezpečnostní úrovně.*
 >
-> *(5) Poskytovatel cloud computingu uvede v žádosti (...)*
+> *(5) Poskytovatel cloud computingu uvede v žádosti*
+>
+> *- a) údaje o nabídce cloud computingu v rozsahu údajů, které se o nabídce cloud computingu vedou v katalogu cloud computingu,*
+>
+> *- b) údaj, zda je poskytování nabízeného cloud computingu závislé na využití jiného cloud computingu, identifikaci tohoto cloud computingu a jeho poskytovatele a popis využití jiného cloud computingu, včetně rozsahu využití,*
+>
+> *- c) údaj, zda je poskytování nabízeného cloud computingu závislé na více poskytovatelích cloud computingu, identifikaci těchto poskytovatelů cloud computingu a popis jejich zapojení do poskytování nabízeného cloud computingu, včetně rozsahu zapojení.*
 >
 > *(6) Poskytovatel cloud computingu k žádosti připojí*
 >
 > *- a) seznam svých dodavatelů, u kterých předpokládá zpracovávání informací orgánu veřejné správy,*
 >
-> *- b) doklad o tom, že nabízený cloud computing splňuje požadavky pro certifikaci nebo audit (...),*
+> *- b) doklad o tom, že nabízený cloud computing splňuje požadavky pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2,*
 >
 > *- c) dokumentaci nabízeného cloud computingu,*
 >
-> *- d) zprávu o provedení penetračního testu nabízeného cloud computingu (...),*
+> *- d) zprávu o provedení penetračního testu nabízeného cloud computingu, pokud je požadována právním předpisem vydaným podle § 12 odst. 2,*
 >
-> *- e) plán zajištění kontinuity provozu nabízeného cloud computingu a plán na obnovu poskytování nabízeného cloud computingu po havárii (...),*
+> *- e) plán zajištění kontinuity provozu nabízeného cloud computingu a plán na obnovu poskytování nabízeného cloud computingu po havárii, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2; namísto plánů lze připojit auditní zprávu osvědčující jejich existenci,*
 >
-> *- f) doklad o zhodnocení zdrojů rizik nabízeného cloud computingu (...),*
+> *- f) doklad o zhodnocení zdrojů rizik nabízeného cloud computingu, pokud je požadován právním předpisem vydaným podle § 12 odst. 2,*
 >
-> *- g) podklady k ověření splnění požadavku na zajištění důvěrnosti, integrity a dostupnosti informací (...).*
+> *- g) podklady k ověření splnění požadavku na zajištění důvěrnosti, integrity a dostupnosti informací nabízeným cloud computingem, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2.*
 >
-> *(7) Je-li poskytování nabízeného cloud computingu závislé na využití jiného cloud computingu (...), poskytovatel cloud computingu k žádosti dále připojí (...) smlouvu s poskytovatelem podpůrného cloudu a obdobné podklady jako pro nabídku.*
+> *(7) Je-li poskytování nabízeného cloud computingu závislé na využití jiného cloud computingu a není-li jiný cloud computing ke dni podání žádosti předmětem nabídky cloud computingu zapsané v katalogu cloud computingu, poskytovatel cloud computingu k žádosti dále připojí*
 >
-> *(8) Je-li poskytování nabízeného cloud computingu závislé na více poskytovatelích cloud computingu (...).*
+> *- a) smlouvu s poskytovatelem cloud computingu, který poskytuje cloud computing, na jehož využití je závislé poskytování nabízeného cloud computingu, (dále jen „podpůrný cloud computing“),*
+>
+> *- b) seznam dodavatelů poskytovatele podpůrného cloud computingu, u kterých poskytovatel podpůrného cloud computingu předpokládá zpracovávání informací orgánu veřejné správy,*
+>
+> *- c) doklad o tom, že podpůrný cloud computing splňuje požadavky pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací podpůrným cloud computingem, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2,*
+>
+> *- d) dokumentaci podpůrného cloud computingu,*
+>
+> *- e) zprávu o provedení penetračního testu podpůrného cloud computingu, pokud je požadována právním předpisem vydaným podle § 12 odst. 2,*
+>
+> *- f) plán zajištění kontinuity provozu podpůrného cloud comutingu a plán na obnovu poskytování podpůrného cloud computingu po havárii, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2; namísto plánů lze připojit auditní zprávu osvědčující jejich existenci,*
+>
+> *- g) doklad o zhodnocení zdrojů rizik podpůrného cloud computingu, pokud je požadován právním předpisem vydaným podle § 12 odst. 2,*
+>
+> *- h) podklady k ověření splnění požadavku na zajištění důvěrnosti, integrity a dostupnosti informací podpůrným cloud computingem, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2.*
+>
+> *(8) Je-li poskytování nabízeného cloud computingu závislé na více poskytovatelích cloud computingu, poskytovatel cloud computingu k žádosti dále připojí*
+>
+> *- a) smlouvu o poskytování nabízeného cloud computingu s těmito poskytovateli cloud computingu,*
+>
+> *- b) seznam dodavatelů těchto poskytovatelů cloud computingu, u kterých tito poskytovatelé cloud computingu předpokládají zpracovávání informací orgánu veřejné správy.*
 
 **Výklad:**
 
@@ -1584,7 +1646,7 @@ Toto pravidlo brání **„hidden subcontracting"** — všichni dodavatelé mus
 >
 > *(1) Agentura rozhodne o zápisu aktualizace nabídky cloud computingu zapsané v katalogu cloud computingu na základě žádosti poskytovatele cloud computingu, který požádal o její zápis do katalogu cloud computingu, je-li splněna podmínka podle odstavce 4. O žádosti rozhodne Agentura do 30 dnů ode dne jejího podání; proti rozhodnutí o žádosti není rozklad přípustný.*
 >
-> *(2) Je-li žádosti v plném rozsahu vyhověno, písemné vyhotovení rozhodnutí se nevydává. Takové rozhodnutí nabývá právní moci dnem zápisu aktualizace nabídky cloud computingu do katalogu cloud computingu. (...)*
+> *(2) Je-li žádosti v plném rozsahu vyhověno, písemné vyhotovení rozhodnutí se nevydává. Takové rozhodnutí nabývá právní moci dnem zápisu aktualizace nabídky cloud computingu do katalogu cloud computingu. O zápisu do katalogu cloud computingu Agentura vyrozumí poskytovatele cloud computingu, který o zápis požádal.*
 >
 > *(3) Poskytovatel cloud computingu uvede v žádosti údaje o nabídce cloud computingu v rozsahu údajů, které se o nabídce cloud computingu vedou v katalogu cloud computingu a které jsou aktualizací dotčeny. Poskytovatel cloud computingu k žádosti připojí podklady podle § 6t odst. 6 až 8, v nichž jsou vyjádřeny skutečnosti, jež jsou aktualizací dotčeny.*
 >
@@ -1615,21 +1677,21 @@ Tato úprava umožňuje **agilní reakci** na ceny a nabídky bez složitého pr
 >
 > *(1) Agentura rozhodne o výmazu nabídky cloud computingu z katalogu cloud computingu,*
 >
-> *- a) požádá-li o výmaz poskytovatel cloud computingu (...),*
+> *- a) požádá-li o výmaz poskytovatel cloud computingu, o jehož nabídku se jedná, a to do 15 dnů ode dne podání žádosti,*
 >
 > *- b) zjistí-li, že nabízený cloud computing přestal splňovat požadavky podle § 6n a nezjednal-li poskytovatel cloud computingu nápravu ve lhůtě stanovené Agenturou, která nesmí být kratší než 15 dnů,*
 >
-> *- c) uplyne-li doba 3 let ode dne, kdy byla nabídka cloud computingu do katalogu cloud computingu zapsána, pokud poskytovatel cloud computingu nepotvrdil Agentuře, že nabídka cloud computingu je stále platná (...),*
+> *- c) uplyne-li doba 3 let ode dne, kdy byla nabídka cloud computingu do katalogu cloud computingu zapsána, pokud poskytovatel cloud computingu nepotvrdil Agentuře, že nabídka cloud computingu je stále platná, nebo uplyne-li doba 3 let ode dne, kdy poskytovatel cloud computingu naposledy potvrdil Agentuře, že nabídka cloud computingu je stále platná; Agentura vyzve prostřednictvím informačního systému cloud computingu poskytovatele cloud computingu, aby potvrdil platnost nabídky cloud computingu po uplynutí doby 30 měsíců ode dne, kdy byla nabídka cloud computingu do katalogu cloud computingu zapsána, a dále vždy po uplynutí doby 30 měsíců ode dne, kdy mu poskytovatel cloud computingu potvrdil, že nabídka cloud computingu je stále platná,*
 >
-> *- d) o jejíž zápis do katalogu cloud computingu požádal poskytovatel cloud computingu, u něhož došlo k výmazu z katalogu cloud computingu (...),*
+> *- d) o jejíž zápis do katalogu cloud computingu požádal poskytovatel cloud computingu, u něhož došlo k výmazu z katalogu cloud computingu, a to současně s výmazem poskytovatele cloud computingu; je-li poskytování nabízeného cloud computingu závislé na více poskytovatelích cloud computingu zapsaných do katalogu cloud computingu, postačí výmaz kteréhokoliv z těchto poskytovatelů cloud computingu,*
 >
-> *- e) o jejíž zápis do katalogu cloud computingu požádal poskytovatel cloud computingu, a u níž došlo k výmazu poskytovatele podpůrného cloud computingu z katalogu cloud computingu (...).*
+> *- e) o jejíž zápis do katalogu cloud computingu požádal poskytovatel cloud computingu, a u níž došlo k výmazu poskytovatele podpůrného cloud computingu z katalogu cloud computingu, a to současně s výmazem poskytovatele podpůrného cloud computingu.*
 >
 > *(2) Týká-li se žádost o výmaz nabídky cloud computingu podle odstavce 1 písm. a), zjištění podle odstavce 1 písm. b) nebo potvrzení platnosti nabídky cloud computingu podle odstavce 1 písm. c) nabídky cloud computingu obsahující více cloud computingů zařazených do stejné bezpečnostní úrovně, Agentura vymaže z katalogu cloud computingu u nabídky cloud computingu pouze cloud computing, jehož se žádost, zjištění nebo potvrzení platnosti týká.*
 >
 > *(3) Proti rozhodnutí podle odstavce 1 není rozklad přípustný.*
 >
-> *(4) Agentura vyrozumí prostřednictvím informačního systému cloud computingu o výmazu nabídky cloud computingu nebo její části z katalogu cloud computingu orgán veřejné správy, který využívá cloud computing, který je předmětem nabídky (...).*
+> *(4) Agentura vyrozumí prostřednictvím informačního systému cloud computingu o výmazu nabídky cloud computingu nebo její části z katalogu cloud computingu orgán veřejné správy, který využívá cloud computing, který je předmětem nabídky; ve vyrozumění uvede datum výmazu a jeho důvody.*
 >
 > *(5) Ustanovení § 6r odst. 7 se na výmaz nabídky cloud computingu nebo její části z katalogu cloud computingu použije obdobně.*
 
@@ -1675,7 +1737,7 @@ Výjimka — § 6l odst. 1 písm. c) (obecná výjimka ze ZZVZ) — tam se nezap
 >
 > *(1) Dojde-li v době, kdy je cloud computing předmětem nabídky cloud computingu zapsané v katalogu cloud computingu nebo kdy je poskytován orgánu veřejné správy, ke změně údajů vedených v katalogu cloud computingu, které poskytuje poskytovatel cloud computingu, anebo skutečností vyjádřených v podkladech podle § 6q odst. 5 nebo § 6t odst. 6 až 8, poskytovatel cloud computingu o této změně bezodkladně vyrozumí Agenturu a současně mu předloží aktuální podklady.*
 >
-> *(2) Poskytovatel cloud computingu předkládá po dobu, kdy je cloud computing předmětem nabídky cloud computingu zapsané v katalogu cloud computingu nebo kdy je poskytován orgánu veřejné správy, v intervalech stanovených prováděcím právním předpisem Agentuře doklady o splnění požadavku pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací (...) a zprávu o provedení penetračního testu (...).*
+> *(2) Poskytovatel cloud computingu předkládá po dobu, kdy je cloud computing předmětem nabídky cloud computingu zapsané v katalogu cloud computingu nebo kdy je poskytován orgánu veřejné správy, v intervalech stanovených prováděcím právním předpisem Agentuře doklady o splnění požadavku pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací podle § 6q odst. 5 písm. c), § 6t odst. 6 písm. b) a § 6t odst. 7 písm. c) a zprávu o provedení penetračního testu podle § 6t odst. 6 písm. d) a § 6t odst. 7 písm. e).*
 >
 > *(3) Orgán veřejné správy zapíše do katalogu cloud computingu vždy do 3 měsíců od skončení rozpočtového období údaje o finančním objemu nákladů vynaložených v souvislosti s využívaním cloud computingu za uplynulé rozpočtové období za každý informační systém veřejné správy, pro který orgán veřejné správy využívá nebo využíval cloud computing.*
 
@@ -1978,7 +2040,7 @@ Spravuje jej **DIA**. IS Czech POINT je sám **ISVS** ve smyslu § 2 odst. 1 pí
 >
 > *- c) nezaplatí-li osoba autorizovaná Agenturou poplatek za autorizaci k výkonu působnosti kontaktního místa veřejné správy ve stanovené lhůtě.*
 >
-> *(8) Agentura vede seznam osob autorizovaných Agenturou a zveřejňuje jej způsobem umožňujícím dálkový přístup. (...)*
+> *(8) Agentura vede seznam osob autorizovaných Agenturou a zveřejňuje jej způsobem umožňujícím dálkový přístup. Pro potřeby vedení seznamu osoba autorizovaná Agenturou bezodkladně informuje Agenturu o počtu pracovišť, jejichž prostřednictvím vykonává působnost kontaktního místa veřejné správy, adresách těchto pracovišť a o změnách počtu těchto pracovišť a jejich adres.*
 
 **Výklad:**
 
@@ -2013,11 +2075,11 @@ DIA vede a veřejně zpřístupňuje seznam osob autorizovaných DIA. Tím se za
 >
 > *(1) Z informačních systémů veřejné správy nebo jejich částí, které jsou veřejnými evidencemi, rejstříky nebo seznamy, vydávají orgány veřejné správy, které jsou správci těchto systémů, na požádání úplný nebo částečný výpis ze zápisu vedeného v elektronické podobě v tomto informačním systému. Z informačních systémů veřejné správy nebo jejich částí, které jsou neveřejnými evidencemi, rejstříky nebo seznamy, vydávají správci, pokud tak stanoví zvláštní právní předpis, na požádání úplný nebo částečný výpis ze zápisu vedeného v elektronické podobě v tomto informačním systému osobě, které se zápis přímo týká, nebo osobě, která je podle zvláštního právního předpisu oprávněna žádat informaci uvedenou v zápisu, a to v rozsahu tímto zvláštním právním předpisem stanoveném.*
 >
-> *(2) Stanoví-li tak zvláštní právní předpis, výpis podle odstavce 1 nebo potvrzení o tom, že určitý údaj v informačním systému veřejné správy není, v elektronické podobě zabezpečené způsobem zajišťujícím integritu, případně původ dat (dále jen „výstup z informačního systému veřejné správy"), ověřují a ověřené výstupy z informačních systémů veřejné správy na žádost vydávají kontaktní místa veřejné správy. S přihlédnutím k současným technickým podmínkám mohou kontaktní místa veřejné správy vydávat ověřené výstupy i z ostatních informačních systémů veřejné správy, které jsou veřejnými evidencemi, rejstříky nebo seznamy.*
+> *(2) Stanoví-li tak zvláštní právní předpis, výpis podle odstavce 1 nebo potvrzení o tom, že určitý údaj v informačním systému veřejné správy není, v elektronické podobě zabezpečené způsobem zajišťujícím integritu, případně původ dat (dále jen „výstup z informačního systému veřejné správy“), ověřují a ověřené výstupy z informačních systémů veřejné správy na žádost vydávají kontaktní místa veřejné správy. S přihlédnutím k současným technickým podmínkám mohou kontaktní místa veřejné správy vydávat ověřené výstupy i z ostatních informačních systémů veřejné správy, které jsou veřejnými evidencemi, rejstříky nebo seznamy.*
 >
-> *(3) Ověřeným výstupem z informačního systému veřejné správy (dále jen „ověřený výstup") se rozumí listina, která vznikla úplným převodem výstupu z informačního systému veřejné správy z elektronické do listinné podoby (§ 9a).*
+> *(3) Ověřeným výstupem z informačního systému veřejné správy (dále jen „ověřený výstup“) se rozumí listina, která vznikla úplným převodem výstupu z informačního systému veřejné správy z elektronické do listinné podoby (§ 9a).*
 >
-> *(4) Osoba, která je držitelem prostředku pro elektronickou identifikaci, který umožňuje přístup se zaručenou identitou, je oprávněna obstarat si s využitím tohoto prostředku výstup z informačního systému veřejné správy, který je neveřejnou evidencí, rejstříkem nebo seznamem, který se jí přímo týká, nebo údaje vedené o ní v tomto informačním systému veřejné správy, a to alespoň prostřednictvím portálu veřejné správy nebo s využitím národního bodu pro identifikaci a autentizaci, anebo poskytnout tento výstup nebo údaje jiné osobě anebo veřejnému orgánu. (...).*
+> *(4) Osoba, která je držitelem prostředku pro elektronickou identifikaci, který umožňuje přístup se zaručenou identitou, je oprávněna obstarat si s využitím tohoto prostředku výstup z informačního systému veřejné správy, který je neveřejnou evidencí, rejstříkem nebo seznamem, který se jí přímo týká, nebo údaje vedené o ní v tomto informačním systému veřejné správy, a to alespoň prostřednictvím portálu veřejné správy nebo s využitím národního bodu pro identifikaci a autentizaci, anebo poskytnout tento výstup nebo údaje jiné osobě anebo veřejnému orgánu. Správce portálu veřejné správy zveřejní na portálu veřejné správy seznam informačních systémů veřejné správy, z nichž lze výstup nebo údaje takto obstarat anebo poskytnout. Vydání výstupu nebo údajů anebo poskytnutí výstupu nebo údajů zajistí orgán veřejné správy, který je správcem informačního systému veřejné správy; po dohodě s ním může vydání výstupu nebo údajů zajistit správce portálu veřejné správy nebo správce národního bodu pro identifikaci a autentizaci.*
 >
 > *(5) Výpis v listinné podobě, výstup z informačního systému veřejné správy a ověřený výstup podle odstavce 3 jsou veřejnými listinami.*
 
@@ -2386,15 +2448,25 @@ Vyhláška DIA + MV upravuje **záznamy o poskytnutí, využití a přístupech 
 
 ### § 12 (Část druhá) — Novela zákona č. 368/1992 Sb. o správních poplatcích
 
-> **§ 12 (ČÁST DRUHÁ)**
+> **§ 12**
 >
-> *1. V sazebníku správních poplatků uvedeném v příloze k zákonu č. 368/1992 Sb., o správních poplatcích, ve znění (...), se doplňuje část XIV, která zní:*
+> *- 1. V sazebníku správních poplatků uvedeném v příloze k zákonu č. 368/1992 Sb., o správních poplatcích, ve znění zákona č. 10/1993 Sb., zákona č. 85/1994 Sb., zákona č. 273/1994 Sb., zákona č. 36/1995 Sb., zákona č. 301/1995 Sb., zákona č. 305/1997 Sb., zákona č. 149/1998 Sb., zákona č. 157/1998 Sb., zákona č. 167/1998 Sb., zákona č. 63/1999 Sb., zákona č. 166/1999 Sb., zákona č. 167/1999 Sb., zákona č. 326/1999 Sb., zákona č. 352/1999 Sb., zákona č. 357/1999 Sb., zákona č. 360/1999 Sb., zákona č. 363/1999 Sb., zákona č. 62/2000 Sb., zákona č. 117/2000 Sb., zákona č. 133/2000 Sb., zákona č. 151/2000 Sb., zákona č. 153/2000 Sb., zákona č. 154/2000 Sb., zákona č. 156/2000 Sb., zákona č. 158/2000 Sb., zákona č. 227/2000 Sb., zákona č. 241/2000 Sb., zákona č. 242/2000 Sb. a zákona č. 307/2000 Sb., se doplňuje část XIV, která zní:*
 >
-> *„ČÁST XIV — Řízení podle zákona o informačních systémech veřejné správy a o změně některých dalších zákonů — Položka 164 — Podání žádosti o udělení statutu atestačního střediska Kč 100 000".*
+> *„ČÁST XIV*
 >
-> *2. REJSTŘÍK K SAZEBNÍKU se doplňuje o část XIV, která zní: „ČÁST XIV — Řízení podle zákona o informačních systémech veřejné správy a o změně některých dalších zákonů 164".*
+> *Řízení podle zákona o informačních systémech veřejné správy a o změně některých dalších zákonů*
 >
-> *3. Tečka za částí XIII se zrušuje.*
+> *Položka 164*
+>
+> *Podání žádosti o udělení statutu atestačního střediska Kč 100 000“.*
+>
+> *- 2. REJSTŘÍK K SAZEBNÍKU se doplňuje o část XIV, která zní:*
+>
+> *„ČÁST XIV*
+>
+> *Řízení podle zákona o informačních systémech veřejné správy a o změně některých dalších zákonů164“.*
+>
+> *- 3. Tečka za částí XIII se zrušuje.*
 
 **Výklad:**
 
