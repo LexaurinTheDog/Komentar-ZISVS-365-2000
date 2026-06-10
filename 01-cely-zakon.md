@@ -2484,6 +2484,11 @@ Poptávka cloudu se z katalogu vymaže na žádost OVS (do 15 dnů), automaticky
 
 **Náhrada čestným prohlášením** (odst. 6) — pragmatické řešení pro státy, které příslušné doklady nevydávají.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 353/2023 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720000) — 27. 3. 2024
+  > „Následně agentura buď zapíše subjekt do katalogu cloud computingu, o čemž se nevydává písemné rozhodnutí (§ 6q odst. 2 zákona o informačních systémech), nebo žádost o zápis rozhodnutím zamítne. … Proti zamítavému rozhodnutí není přípustný rozklad (§ 6q odst. 1 zákona o informačních systémech). … Veřejným subjektivním právem, které v této věci správní soudy chrání, je primárně právo být při splnění zákonem stanovených předpokladů zapsán do katalogu cloud computingu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Zahraniční poskytovatel cloudu se sídlem mimo ČR podá DIA žádost o zápis do katalogu. K žádosti přiloží doklad o skutečném majiteli, doklad o pětiletých zkušenostech a bezpečnostní certifikace, ale stát jeho sídla nevydává doklad o bezdlužnosti v požadované formě. Žadatel chce chybějící doklad nahradit čestným prohlášením. DIA o žádosti rozhoduje, žadatel po 45 dnech tvrdí, že je zapsán „mlčením". Důkazy: žádost ve strojově čitelném formátu, doklad o skutečném majiteli, certifikace, prohlášení o bezdlužnosti, datum podání.
@@ -3480,6 +3485,11 @@ Pokud ISVS tyto tři vlastnosti má, **podpis ve smyslu hmotného práva NENÍ P
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Af 23/2016 - 205](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/460247) — 28. 3. 2018
+  > „Z § 8a odst. 3 zákona č. 365/2000 Sb., vyplývá, že HK ČR za poskytování služeb CzechPoint může vybírat poplatek, nicméně stanoví jeho maximální výši, která nesmí přesáhnout sazbu dle zákona o správních poplatcích. Je tedy zřejmé, že byť žalobkyně při poskytování těchto služeb určitý příjem generuje, nejsou dané služby vykonávány na ryze konkurenční bázi, neboť zákon limituje výši odměny, jež lze za dané služby inkasovat…"
+
 #### Czech POINT — jednotná „přepážka" digitálního státu
 
 § 8a zakotvuje **Czech POINT** (Český podací ověřovací informační národní terminál) jako **univerzální výdejní místo veřejných listin a podání**. Czech POINT je provozován od **1. ledna 2007** a stal se symbolem české digitalizace.
@@ -3672,6 +3682,11 @@ Autorizace komerčního kontaktního místa se uděluje na 5 let při splnění 
 > *(5) Výpis v listinné podobě, výstup z informačního systému veřejné správy a ověřený výstup podle odstavce 3 jsou veřejnými listinami.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 154/2019 - 114](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/698926) — 9. 3. 2022
+  > „Seznam, který vedla Rada pro výzkum, vývoj a inovace, tedy nemohl být informačním systémem veřejné správy, žádný právní předpis neupravoval podmínky jeho vedení ani kritéria, které musel žadatel o zápis splňovat, ani neuděloval žádnému orgánu veřejné moci oprávnění o zápisu do něj rozhodovat. Výpis z takového seznamu nemohl být veřejnou listinou (srov. § 9 odst. 4 zákona č. 365/2000 Sb. ve znění účinném do 30. 6. 2018) a o zápisu do seznamu se nevedlo správní řízení…"
 
 #### Dvouvrstvý systém výpisů (odst. 1)
 
