@@ -15,3 +15,7 @@
 
 ## Vazby
 [ZDS 300/2008](/home/vojtech/Komentar-ZDS-300-2008/), 111/2009 (základní registry), eIDAS 910/2014, [GDPR 110/2019](/home/vojtech/Komentar-GDPR-110-2019/).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
