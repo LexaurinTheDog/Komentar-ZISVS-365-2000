@@ -142,3 +142,106 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | uloží; určí; vydá | [§ 5c](https://e-sbirka.gov.cz/sb/2000/365#par_5c); [§ 6](https://e-sbirka.gov.cz/sb/2000/365#par_6); [§ 6a](https://e-sbirka.gov.cz/sb/2000/365#par_6a); [§ 6b](https://e-sbirka.gov.cz/sb/2000/365#par_6b) |
 | Oprávnění a povinnost | jsou povinny; povinnost; jsou povinni; je povinen; je povinna | [§ 5](https://e-sbirka.gov.cz/sb/2000/365#par_5); [§ 5a](https://e-sbirka.gov.cz/sb/2000/365#par_5a); [§ 5b](https://e-sbirka.gov.cz/sb/2000/365#par_5b); [§ 5d](https://e-sbirka.gov.cz/sb/2000/365#par_5d); [§ 6](https://e-sbirka.gov.cz/sb/2000/365#par_6) |
 | Domněnky, fikce a účinkové konstrukce | považuje se za | [§ 5c](https://e-sbirka.gov.cz/sb/2000/365#par_5c); [§ 8](https://e-sbirka.gov.cz/sb/2000/365#par_8) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 365/2000 Sb., o ISVS — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality jsou elementární normativní způsoby, jimiž objektivní právo působí na chování adresátů a jimiž zároveň konstruuje jejich právní postavení. Nauka rozlišuje **objektivní modality regulace** — tedy jak norma normuje jednání: **příkaz** (adresátu ukládá aktivní chování, jehož nesplnění je porušením právní povinnosti), **zákaz** (vyžaduje zdržení se jednání nebo vylučuje určitý právní postup), **dovolení** (otevírá prostor volby, popřípadě stanoví, že určité jednání není povinné) a **zmocnění** jako zvláštní kategorii **kompetenčních norem**, které nezakazují ani nepřikazují chování soukromé osoby, nýbrž zakládají pravomoc orgánu veřejné moci autoritativně jednat (vydat vyhlášku, rozhodnout o odnětí pověření, zapsat či nezapsat do katalogu). Kompetenční norma je přitom pro adresáta veřejné moci současně mezí i zdrojem oprávnění: orgán smí konat jen to a jen tak, jak mu zákon svěřuje.
+
+Vedle objektivních modalit stojí **subjektivní modality** — **oprávnění** a **povinnost**. Jsou vzájemně **korelativní**: subjektivnímu právu jednoho subjektu zpravidla odpovídá povinnost subjektu jiného, popřípadě alespoň povinnost veřejné moci takové právo respektovat a chránit. Zákon o ISVS je z hlediska subjektivních modalit asymetrický — těžiště tvoří **povinnosti orgánů veřejné správy a správců ISVS** (typicky „jsou povinny", „jsou povinni"), jimž na druhé straně odpovídají veřejná subjektivní práva dotčených osob (například právo být při splnění zákonných předpokladů zapsán do katalogu). Jazykový výraz přitom není absolutní: „může" u orgánu veřejné moci často neznamená prosté dovolení, nýbrž kompetenci provázenou diskrecí, a „nelze" může působit jednak jako zákaz, jednak jako popis právně relevantní nemožnosti.
+
+Zvláštní skupinu tvoří **domněnky a fikce**. **Domněnka** (praesumptio) předpokládá existenci skutečnosti, dokud není prokázán opak — je-li **vyvratitelná** — anebo bez možnosti důkazu opaku, jde-li o domněnku **nevyvratitelnou**; obojí přesouvá či rozvrhuje **důkazní břemeno**. **Fikce** (fictio iuris) naproti tomu ztotožňuje pro účely práva dvě odlišné skutečnosti — o skutečnost, o níž se ví, že nenastala nebo je jiná, se „hledí jako by" nastala. V komentovaném předpisu se fikční technika projevuje jak u účinků elektronických úkonů (úkon učiněný prostřednictvím ISVS „se považuje za podepsaný"), tak u sankčně-kvalifikačních konstrukcí (realizace bez souhlasu Agentury „se považuje za porušení rozpočtové kázně"). Samotná slovní formule „se považuje za" proto k závěru o povaze konstrukce nestačí; rozhoduje hypotéza a právní následek celé věty.
+
+### Příkaz
+
+Příkazová modalita ukládá adresátu aktivní postup. V zákoně o ISVS má dvojí typickou podobu: buď jako přímý imperativ obstarat určitý výsledek („si zajistí"), anebo jako povinnost něco poskytnout či předat ve prospěch jiného subjektu („jsou povinni předat"). Od prosté povinnostní formule se příkaz liší důrazem na konání — adresát nemá volbu, zda a jak předepsané jednání uskuteční, a jeho nečinnost je sama o sobě porušením právní povinnosti.
+
+Charakteristickým příkazem je atestační povinnost při dlouhodobém řízení ISVS: orgán musí sám aktivně obstarat atestaci a atestem prokázat splnění zákonných povinností. Obdobně je konstruována povinnost správce poskytnout ověřující osobě bezodkladně zabezpečený výstup — příkaz zde slouží jako převodová páka mezi správcem systému a osobou vydávající ověřené výstupy, bez níž by institut ověřených výstupů nemohl fungovat.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5a odst. 4 | si zajistí | „Orgány veřejné správy si zajistí atestaci dlouhodobého řízení informačních systémů veřejné správy" | Ukládá aktivní obstarání atestace a průkaz splnění povinností dlouhodobého řízení ISVS. |
+| § 9c odst. 1 | jsou povinni předat | „Správci informačních systémů veřejné správy jsou povinni předat ověřující osobě na požádání bezodkladně výstup z informačního systému veřejné správy" | Ukládá bezodkladné poskytnutí zabezpečeného a časově označeného výstupu pro účely ověřených výstupů. |
+
+### Zákaz
+
+Zákaz vyžaduje zdržení se jednání nebo vylučuje určitý právní postup či dispozici. V komentovaném předpisu se objevuje ve třech typických funkcích: jako **limit diskrece** orgánu (nápravná lhůta „nesmí přesáhnout 6 měsíců"), jako **ochranné znepřístupnění** (záznam „nelze zpřístupnit" po dobu ohrožení účelu přístupu) a jako **zápověď dispozice** s veřejnoprávním statusem (pověření k akreditaci „je nepřevoditelné"). Zatímco první dva zákazy chrání dotčené osoby a účel řízení, třetí váže veřejnoprávní pověření na konkrétního nositele a brání jeho přenosu na jiný subjekt.
+
+Zákaz překročení stropu se v předpisu neomezuje na lhůty; obdobnou logikou zákon limituje i výši úplaty za vybrané služby veřejné správy, což potvrzuje i judikatura k § 8a (viz níže).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5c odst. 2 | nesmí přesáhnout | „Tato lhůta nesmí přesáhnout 6 měsíců" | Stanoví strop nápravné lhůty a chrání kontrolovaný orgán před nepřiměřeným zásahem. |
+| § 5d odst. 1 | nelze zpřístupnit | „nelze po dobu trvání tohoto ohrožení záznam zpřístupnit" | Zapovídá zpřístupnění záznamu o zvláštním přístupu, hrozí-li ohrožení účelu přístupu. |
+| § 6 odst. 1 | je nepřevoditelné | „Pověření k provádění akreditace je nepřevoditelné." | Váže veřejnoprávní pověření na konkrétní akreditující osobu a zakazuje jeho převod. |
+
+- *NSS* [30 Af 23/2016 - 205](judikatura/NSS-30-Af-23-2016-205.md) — rozsudek z 28. 3. 2018; zákaz překročení stropu úplaty za služby CzechPoint dle § 8a
+  > „Z § 8a odst. 3 zákona č. 365/2000 Sb., vyplývá, že HK ČR za poskytování služeb CzechPoint může vybírat poplatek, nicméně stanoví jeho maximální výši, která nesmí přesáhnout sazbu dle zákona o správních poplatcích"
+
+### Dovolení
+
+Dovolovací modalita otevírá adresátu prostor volby, aniž mu určité jednání ukládá nebo zakazuje. V zákoně o ISVS je nejvýraznějším dovolením možnost správce svěřit provozování systému jinému subjektu (outsourcing) — správce „může pověřit" provozováním jinou osobu, avšak jen tehdy, pokud to jiný zákon nevylučuje. Dovolení je zde tedy podmíněné: prostor volby existuje jen v mezích, které mohou být zúženy zvláštní úpravou. Právě tato konstrukce odlišuje odpovědnostní roli **správce** (nese odpovědnost za systém) od výkonné role **provozovatele** (pověřené osoby), aniž by přenesla veřejnoprávní odpovědnost správce.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 2 písm. d) | může pověřit | „Provozováním informačního systému veřejné správy může správce pověřit jiné osoby nebo jejich součásti, pokud to jiný zákon nevylučuje" | Dovoluje svěřit provozování ISVS jinému subjektu (outsourcing) v mezích zvláštní úpravy. |
+
+### Zmocnění
+
+Zmocnění je kompetenční norma: nezakládá chování soukromé osoby, nýbrž pravomoc orgánu veřejné moci autoritativně jednat. Zákon o ISVS obsahuje jak **normotvorné zmocnění** (Agentura „stanoví vyhláškou" technické, bezpečnostní a dokumentační požadavky), tak **rozhodovací kompetenci** ve správním řízení (Agentura „rozhodne o odnětí pověření k provádění akreditace" při závažném porušení zákona). Obě zmocnění spojuje adresát — Digitální a informační agentura — a společný rys mezí: kompetence je vždy ohraničena účelem a zákonnými předpoklady jejího výkonu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 12 odst. 1 | stanoví vyhláškou | „Agentura stanoví vyhláškou" | Zmocňuje Agenturu k vydání prováděcí vyhlášky k technickým, bezpečnostním a dokumentačním požadavkům na ISVS. |
+| § 6 odst. 5 | rozhodne Agentura | „rozhodne Agentura o odnětí pověření k provádění akreditace" | Zakládá kompetenci rozhodnout o odnětí pověření akreditující osobě při závažném porušení zákona. |
+
+### Oprávnění a povinnost
+
+Subjektivní modality tvoří v zákoně o ISVS jeho normativní páteř. Těžiště leží na **povinnostech** orgánů veřejné správy a správců ISVS: § 5 odst. 2 zakládá základní katalog povinností orgánů veřejné správy jako správců systémů a § 5b vytváří záchytnou síť kybernetické bezpečnosti pro správce, kteří nejsou poskytovateli regulované služby, tím, že je zavazuje zavádět bezpečnostní opatření v nižším režimu dle zákona o kybernetické bezpečnosti. Obě ustanovení užívají formuli „jsou povinny / jsou povinni" — nejde tedy o pouhé dovolení, nýbrž o závazný standard, jehož nesplnění zakládá dozorovou a sankční reakci.
+
+Povinnostem správců na druhé straně korelativně odpovídají **veřejná subjektivní práva** dotčených osob. Nejzřetelněji to vystihuje judikatura ke katalogu cloud computingu: chráněným veřejným subjektivním právem je právo být při splnění zákonných předpokladů zapsán, jemuž odpovídá povinnost Agentury o žádosti rozhodnout zákonem předepsaným způsobem. Kde naproti tomu žádná norma orgánu neukládala vést systém ani neudělovala pravomoc rozhodovat o zápisu, nemohlo vzniknout ani subjektivní právo na zápis, ani veřejnolistinná kvalita výstupu — což NSS vyložil ve věci seznamu vedeného Radou pro výzkum, vývoj a inovace.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 odst. 2 | jsou povinny | „Orgány veřejné správy jsou v rámci informačních systémů veřejné správy povinny" | Zakládá základní katalog povinností orgánů veřejné správy jako správců ISVS. |
+| § 5b | jsou povinni zavádět | „jsou povinni na jimi spravované informační systémy veřejné správy zavádět bezpečnostní opatření pro poskytovatele regulované služby v režimu nižších povinností podle § 8, 13 a 14 zákona o kybernetické bezpečnosti" | Vytváří záchytnou síť kybernetické bezpečnosti pro správce mimo režim poskytovatele regulované služby. |
+
+- *NSS* [2 As 353/2023 - 44](judikatura/NSS-2-As-353-2023-44.md) — rozsudek z 27. 3. 2024; oprávnění (veřejné subjektivní právo) na zápis do katalogu cloud computingu
+  > „Veřejným subjektivním právem, které v této věci správní soudy chrání, je primárně právo být při splnění zákonem stanovených předpokladů zapsán do katalogu cloud computingu"
+- *NSS* [10 A 154/2019 - 114](judikatura/NSS-10-A-154-2019-114.md) — rozsudek z 9. 3. 2022; bez zákonné kompetence rozhodovat o zápisu není subjektivní právo ani veřejná listina
+  > „žádný právní předpis neupravoval podmínky jeho vedení ani kritéria, které musel žadatel o zápis splňovat, ani neuděloval žádnému orgánu veřejné moci oprávnění o zápisu do něj rozhodovat"
+
+### Domněnky a fikce
+
+Účinkové a kvalifikační konstrukce se v zákoně o ISVS objevují v obou funkcích. **Fikce podepsání** podle § 8 zavádí funkční ekvivalent vlastnoručního podpisu: úkon učiněný prostřednictvím ISVS „se považuje za podepsaný", jsou-li splněny identifikační a autorizační podmínky — pro účely práva se tak na elektronický úkon hledí, jako by byl vlastnoručně podepsán, ačkoli o klasický podpis nejde. Naproti tomu § 5c odst. 3 užívá téže slovní formule „se považuje za" v **sankčně-kvalifikační** poloze: realizaci programů bez souhlasného vyjádření Agentury kvalifikuje jako porušení rozpočtové kázně a napojuje ji na rozpočtové sankce. Obě ustanovení dobře ilustrují, že o povaze konstrukce nerozhoduje formule, nýbrž právní následek, který věta spouští.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 8 | se považuje za podepsaný | „se považuje za podepsaný" | Zavádí fikci podepsání — funkční ekvivalent vlastnoručního podpisu úkonu učiněného prostřednictvím ISVS. |
+| § 5c odst. 3 | se považuje za | „se považuje za porušení rozpočtové kázně" | Kvalifikuje realizaci programů bez souhlasu Agentury jako porušení rozpočtové kázně a napojuje ji na rozpočtové sankce. |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Jednotlivé modality v zákoně o ISVS nestojí izolovaně; klíčové instituty je záměrně kombinují do funkčních celků.
+
+- **Dlouhodobé řízení a kontrola ISVS** spojuje **příkaz** (§ 5a odst. 4 „si zajistí" atestaci), **zákaz** limitující diskreci dozoru (§ 5c odst. 2 nápravná lhůta „nesmí přesáhnout 6 měsíců") a **fikci** vynucující respekt k souhlasu Agentury (§ 5c odst. 3 realizace bez souhlasu „se považuje za porušení rozpočtové kázně"). Příkaz zakládá povinnost, zákaz chrání kontrolovaný orgán před nepřiměřeným zásahem a fikce dodává celému mechanismu rozpočtově-sankční vynutitelnost.
+- **Akreditace** kombinuje **zákaz** dispozice se statusem (§ 6 odst. 1 pověření „je nepřevoditelné") se **zmocněním** k jeho odnětí (§ 6 odst. 5 „rozhodne Agentura o odnětí pověření"). Nepřevoditelnost drží pověření u konkrétní osoby, kompetence k odnětí umožňuje reagovat na závažné porušení zákona — statická zápověď a dynamická pravomoc se tak doplňují.
+- **Provozování a bezpečnost** propojují **dovolení** svěřit provoz jinému subjektu (§ 2 písm. d) „může pověřit", pokud to jiný zákon nevylučuje) s **povinností** zavádět bezpečnostní opatření (§ 5b „jsou povinni zavádět"). Volnost outsourcingu je vyvážena nepřenositelným bezpečnostním standardem, který nese správce bez ohledu na to, kdo systém fakticky provozuje.
+- **Ověřené výstupy** navazují **příkaz** správce předat výstup (§ 9c odst. 1 „jsou povinni předat" bezodkladně) na **oprávnění** dotčených osob domoci se zápisu a služeb — povinnost jednoho subjektu je zde nástrojem realizace práva jiného, jak potvrzuje i judikatura ke katalogu cloud computingu.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | si zajistí; jsou povinni předat | § 5a odst. 4; § 9c odst. 1 |
+| Zákaz | nesmí přesáhnout; nelze zpřístupnit; je nepřevoditelné | § 5c odst. 2; § 5d odst. 1; § 6 odst. 1 |
+| Dovolení | může pověřit | § 2 písm. d) |
+| Zmocnění | stanoví vyhláškou; rozhodne Agentura | § 12 odst. 1; § 6 odst. 5 |
+| Oprávnění a povinnost | jsou povinny; jsou povinni zavádět | § 5 odst. 2; § 5b |
+| Domněnky a fikce | se považuje za podepsaný; se považuje za | § 8; § 5c odst. 3 |
