@@ -134,6 +134,94 @@ Provozní systémy (personalistika, mzdy, účetnictví, e-mail) státních org�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bed43eafe6baef03c11f generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon stanoví práva a povinnosti, které souvisejí s vytvářením, správou, provozem, užíváním a rozvojem informačních systémů veřejné správy spravovaných státními orgány, orgány územních samosprávných celků nebo státními právnickými osobami (dále jen „orgán veřejné správy“).
+>
+> (2) Tento zákon se nevztahuje na informační systémy veřejné správy spravované
+>
+> - a) pro potřeby nakládání s utajovanými informacemi,
+>
+> - b) zpravodajskými službami,
+>
+> - c) Národním bezpečnostním úřadem,
+>
+> - d) Národním úřadem pro kybernetickou a informační bezpečnost.
+>
+> (3) Tento zákon se s výjimkou vazeb na jiné informační systémy veřejné správy nevztahuje na informační systémy veřejné správy spravované
+>
+> - a) pro potřeby zajišťování obrany státu,
+>
+> - b) pro potřeby podpory krizového řízení,
+>
+> - c) orgány činnými v trestním řízení pro potřeby trestního řízení; zákon se vztahuje na evidenci Rejstříku trestů,
+>
+> - d) bezpečnostními sbory,
+>
+> - e) ozbrojenými silami České republiky nebo Vojenskou policií,
+>
+> - f) Českou národní bankou,
+>
+> - g) Finančním analytickým úřadem pro potřeby boje proti legalizaci výnosů z trestné činnosti nebo provádění mezinárodních sankcí za účelem udržování mezinárodního míru a bezpečnosti, ochrany základních lidských práv a boje proti terorismu,
+>
+> - h) Ministerstvem vnitra pro potřeby provádění bezpečnostního řízení a vedení evidencí podle zákona upravujícího ochranu utajovaných informací a bezpečnostní způsobilost,
+>
+> - i) Ministerstvem vnitra, Ministerstvem financí nebo Ministerstvem spravedlnosti pro potřeby zpracování osobních údajů příslušníků bezpečnostních sborů.
+>
+> (4) Tento zákon se nevztahuje na provozní informační systémy s výjimkou státními orgány spravovaných
+>
+> - a) informačních systémů pro řízení a rozvoj lidských zdrojů a odměňování,
+>
+> - b) elektronických systémů spisové služby,
+>
+> - c) informačních systémů pro vedení účetnictví nebo řízení finančních zdrojů,
+>
+> - d) systémů elektronické pošty.
+>
+> (5) Tento zákon se nevztahuje na vazby provozních informačních systémů; to neplatí, jedná-li se o vazby provozních informačních systémů na jiné informační systémy veřejné správy, které nejsou provozními informačními systémy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bed43eafe6baef03c11f -->
+
 ### § 2 — Vymezení pojmů
 
 > **§ 2**
@@ -335,6 +423,130 @@ Status „určeného IS" se posuzuje objektivně podle tří alternativních zna
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=45f4703e0877465ba591 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 2 — Vymezení pojmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Pro účely tohoto zákona se rozumí
+>
+> - a) informační činností získávání a poskytování informací, reprezentace informací daty, shromažďování, vyhodnocování a ukládání dat na nosiče a uchovávání, vyhledávání, úprava nebo pozměňování dat, jejich předávání, šíření, zpřístupňování, výměna, třídění nebo kombinování, blokování a likvidace dat ukládaných na nosičích. Informační činnost je prováděna správci, provozovateli a uživateli informačních systémů veřejné správy prostřednictvím technických a programových prostředků,
+>
+> - b) informačním systémem veřejné správy funkční celek nebo jeho část zabezpečující cílevědomou a systematickou informační činnost pro účely výkonu veřejné správy nebo plnění jiných funkcí státu anebo dalších veřejnoprávních korporací. Každý informační systém veřejné správy zahrnuje data, která jsou uspořádána tak, aby bylo možné jejich zpracování a zpřístupnění, provozní údaje a dále technické a programové prostředky, případně jiné nástroje umožňující výkon informačních činností,
+>
+> - c) správcem informačního systému veřejné správy osoba nebo její součást, která poskytuje služby informačního systému veřejné správy a za informační systém veřejné správy odpovídá,
+>
+> - d) provozovatelem informačního systému veřejné správy osoba nebo její součást, která zajišťuje funkčnost technických a programových prostředků tvořících informační systém veřejné správy. Provozováním informačního systému veřejné správy může správce pověřit jiné osoby nebo jejich součásti, pokud to jiný zákon nevylučuje,
+>
+> - e) uživatelem informačního systému veřejné správy osoba nebo její součást, která do informačního systému veřejné správy zapisuje data nebo data, případně i provozní údaje obsažené v informačním systému veřejné správy, využívá; uživatelem informačního systému veřejné správy je i správce nebo provozovatel informačního systému veřejné správy, pokud informační systém veřejné správy užívá při výkonu veřejné správy v oblasti, pro kterou informační systém veřejné správy poskytuje službu informačního systému veřejné správy,
+>
+> - f) vytvářením informačních systémů veřejné správy proces zavádění informačních systémů veřejné správy, včetně jeho právního, organizačního, znalostního a technického zajištění,
+>
+> - g) rozvojem informačních systémů veřejné správy proces zlepšování vlastností informačních systémů veřejné správy nebo zlepšování služeb informačních systémů veřejné správy, včetně jeho právního, organizačního, znalostního a technického zajištění; rozvojem je i modernizace technických nebo programových prostředků anebo jiných nástrojů umožňujících výkon informační činnosti nebo částečná anebo úplná náhrada technických nebo programových prostředků anebo jiných nástrojů umožňujících výkon informační činnosti za účelem zlepšení vlastností informačních systémů veřejné správy nebo zlepšení služeb informačních systémů veřejné správy,
+>
+> - h) službou informačního systému veřejné správy činnost informačního systému veřejné správy uspokojující dané požadavky oprávněné osoby nebo její součásti spojená s funkcí informačního systému veřejné správy,
+>
+> - i) referenčním, sdíleným a bezpečným rozhraním informačních systémů veřejné správy (dále jen „referenční rozhraní“) souhrn právních, technických, organizačních a jiných opatření vytvářejících jednotné integrační prostředí informačních systémů veřejné správy, které poskytuje kvalitní soustavu společných služeb informačních systémů veřejné správy, včetně služeb výměny oprávněně vyžadovaných informací mezi jednotlivými informačními systémy, a to i se systémy mimo Českou republiku,
+>
+> - j) atestacemi stanovení shody dlouhodobého řízení informačních systémů veřejné správy s výjimkou provozních informačních systémů uvedených v § 1 odst. 4 písm. a) až d) s požadavky tohoto zákona a prováděcích právních předpisů k tomuto zákonu,
+>
+> - k) produktem souhrnný název pro technické a programové prostředky, dokumentaci informačních systémů veřejné správy nebo služby informačního systému veřejné správy nebo jejich kombinaci,
+>
+> - l) atestem doklad osvědčující kladný výsledek atestace,
+>
+> - m) atestačním střediskem právnická nebo fyzická osoba, kteří jsou podnikateli, provádějící atestace,
+>
+> - n) dálkovým přístupem přístup prostřednictvím sítě nebo služby elektronických komunikací (například s využitím internetu),
+>
+> - o) sdílením dat umožnění přístupu k daným datům prostřednictvím referenčního rozhraní, případně i mimo referenční rozhraní více osobám nebo jejich součástem současně,
+>
+> - p) vazbou mezi informačními systémy veřejné správy vzájemné nebo jednostranné poskytování služeb informačních systémů veřejné správy, například sdílení dat,
+>
+> - q) provozním informačním systémem informační systém veřejné správy zajišťující informační činnosti nutné pro vnitřní provoz příslušného orgánu,
+>
+> - r) atestačními podmínkami obchodní podmínky vydané atestačním střediskem, obsahující zejména vymezení předmětu atestace a postupy atestačního střediska při provádění atestací schválené Digitální a informační agenturou (dále jen „Agentura“),
+>
+> - s) akreditací postup, na jehož základě se vydává osvědčení o tom, že právnické nebo fyzické osoby, které jsou podnikateli, splňují ve vymezeném rozsahu technické, organizační, ekonomické a personální předpoklady k provádění atestací,
+>
+> - t) provozní dokumentací dokumentace informačního systému veřejné správy nebo centrálního místa služeb komunikační infrastruktury veřejné správy (dále jen „centrální místo služeb“), která popisuje funkční a technické vlastnosti informačního systému veřejné správy nebo centrálního místa služeb a blíže rozpracovává oprávnění a povinnosti jeho správce, provozovatele a uživatele,
+>
+> - u) přístupem se zaručenou identitou přístup do informačního systému veřejné správy nebo elektronické aplikace s využitím prostředku pro elektronickou identifikaci, při jehož vydání nebo v souvislosti s ním anebo v souvislosti s umožněním jeho využití byla totožnost osoby ověřena státním orgánem, orgánem územního samosprávného celku nebo orgánem veřejné moci, který není státním orgánem ani orgánem územního samosprávného celku, (dále jen „veřejný orgán“) nebo který byl vydán v rámci kvalifikovaného systému elektronické identifikace,
+>
+> - v) určeným informačním systémem informační systém veřejné správy, který
+>
+> - 1. využívá služby referenčního rozhraní nebo poskytuje služby referenčnímu rozhraní,
+>
+> - 2. má vazby na informační systém veřejné správy podle bodu 1, nebo
+>
+> - 3. je určený k poskytování služby informačního systému veřejné správy fyzickým nebo právnickým osobám s předpokládaným počtem uživatelů, kteří využívají přístup se zaručenou identitou, alespoň 5 000 ročně.
+>
+> (2) Pro účely tohoto zákona se dále rozumí
+>
+> - a) bezpečnostní úrovní bezpečnostní úroveň informačního systému veřejné správy vyjadřující možné dopady kybernetického bezpečnostního incidentu na informační systém veřejné správy, k zajištění jehož provozu má být využíván cloud computing,
+>
+> - b) cloud computingem způsob zajištění provozu informačního systému veřejné správy nebo jeho části prostřednictvím dálkového přístupu k sdílenému technickému nebo programovému prostředku, který je zpřístupněný poskytovatelem cloud computingu a nastavitelný správcem informačního systému veřejné správy,
+>
+> - c) poptávkou cloud computingu právní jednání orgánu veřejné správy,
+>
+> - 1. jehož předmětem je projev vůle využít cloud computing poskytovaný osobou nebo její součástí, které jsou odlišné od tohoto orgánu veřejné správy, pro potřebu tohoto nebo jiného orgánu veřejné správy a mimo rámec vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek,
+>
+> - 2. který obsahuje charakteristiku poptávaného cloud computingu a
+>
+> - 3. který předchází právnímu jednání tohoto nebo jiného orgánu veřejné správy podle právního předpisu upravujícího zadávání veřejných zakázek, má-li být cloud computing zadán podle právního předpisu upravujícího zadávání veřejných zakázek,
+>
+> - d) nabídkou cloud computingu právní jednání poskytovatele cloud computingu,
+>
+> - 1. jehož předmětem je projev vůle poskytnout cloud computing orgánu veřejné správy mimo rámec vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek,
+>
+> - 2. který obsahuje charakteristiku nabízeného cloud computingu a
+>
+> - 3. který předchází právnímu jednání tohoto poskytovatele cloud computingu podle právního předpisu upravujícího zadávání veřejných zakázek, má-li být cloud computing zadán podle právního předpisu upravujícího zadávání veřejných zakázek,
+>
+> - e) státní právnickou osobou státní fond a právnická osoba zřízená nebo založená státem, pokud byla zřízena nebo založena za zvláštním účelem spočívajícím v uspokojování potřeb obecného zájmu, které nemají průmyslovou nebo obchodní povahu, a je financována převážně státem nebo podléhá řídícímu dohledu státu anebo je v jejím správním, řídícím nebo dozorčím orgánu více než polovina členů jmenována státem,
+>
+> - f) architektonickou změnou technické zhodnocení informačního systému veřejné správy spočívající ve změně jeho vnitřní struktury, části informačního systému veřejné správy nebo jejích vlastností, vazby na jiný informační systém veřejné správy nebo vazby mezi částmi téhož informačního systému veřejné správy,
+>
+> - g) bezpečnostními pravidly pravidla pro orgány veřejné správy využívající služby poskytovatelů cloud computingu stanovující minimální požadavky pro využívání služby cloud computingu orgánem veřejné správy s cílem zajistit bezpečnost informací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=45f4703e0877465ba591 -->
+
 ### HLAVA II — Působnost a povinnosti v oblasti vytváření, správy, provozu, užívání a rozvoje ISVS
 
 ### § 3 — Vláda
@@ -406,6 +618,60 @@ Odkaz na **z. č. 218/2000 Sb.** propojuje rozhodovací působnost vlády podle 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9d3c459a94abd7e0a1f0 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 3 — Vláda
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Vláda
+>
+> - a) schvaluje informační koncepci České republiky,
+>
+> - b) rozhoduje o programech obsahujících pořízení nebo architektonické změny určených informačních systémů vypracovaných podle zvláštního právního předpisu7a) v případě nesouhlasného vyjádření Agentury k návrhům dokumentací těchto programů,
+>
+> - c) rozhoduje o investičních záměrech akcí pořízení nebo architektonických změn určených informačních systémů v případě nesouhlasného vyjádření Agentury k těmto investičním záměrům,
+>
+> - d) rozhoduje o projektech určených informačních systémů nebo jejich architektonických změn, jde-li o určené informační systémy spravované státními orgány nebo státními právnickými osobami, v případě nesouhlasného vyjádření Agentury k těmto projektům.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9d3c459a94abd7e0a1f0 -->
+
 ### § 3a — Rada vlády pro informační společnost
 
 > **§ 3a**
@@ -469,6 +735,60 @@ RVIS je poradní a koordinační orgán vlády bez vlastní rozhodovací pravomo
 **Typicky rozhodné důkazy / podklady:** zadání záměru, statut a jednací řád RVIS, návrh strategického dokumentu, usnesení vlády, podklady k mezinárodní (eIDAS) dimenzi.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d18de1d0eb20c87f8fa1 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 3a — Rada vlády pro informační společnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Vláda zřizuje jako svůj poradní orgán Radu vlády pro informační společnost. V jejím čele stojí člen vlády.
+>
+> (2) Rada vlády pro informační společnost
+>
+> - a) zpracovává návrhy strategických dokumentů v oblasti informačních systémů veřejné správy, a to i z hlediska bezpečnosti těchto systémů, a předkládá tyto dokumenty vládě, sleduje a analyzuje informační potřeby veřejné správy a stav informačních systémů veřejné správy,
+>
+> - b) připravuje nebo koordinuje přípravu záměrů pro vytváření nebo rozvoj informačních systémů veřejné správy spravovaných státními orgány nebo státními právnickými osobami anebo informačních systémů veřejné správy spravovaných orgány územních samosprávných celků, které slouží k výkonu přenesené působnosti, vyvolané společnou potřebou více správců informačních systémů veřejné správy nebo potřebou spolupráce a koordinace na mezinárodní úrovni a
+>
+> - c) předkládá vládě k rozhodnutí programy obsahující pořízení nebo architektonické změny určených informačních systémů, investiční záměry akcí pořízení nebo architektonických změn určených informačních systémů a projekty určených informačních systémů nebo jejich architektonických změn v případě nesouhlasného vyjádření Agentury, nesouhlasí-li orgán veřejné správy s tímto vyjádřením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d18de1d0eb20c87f8fa1 -->
 
 ### § 4 — Agentura
 
@@ -592,6 +912,86 @@ DIA je ústředním správním úřadem s širokou, ale nikoli neomezenou kontro
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0409ef43d08fac8c84fd generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 4 — Agentura
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura ve spolupráci s orgány veřejné správy
+>
+> - a) vyhledává, zpracovává, ukládá a vytváří nové informace, které jsou znalostní základnou pro kvalitní vytváření a rozvoj informačních systémů veřejné správy,
+>
+> - b) se vyjadřuje k návrhům dokumentací programů obsahujících pořízení nebo architektonické změny určených informačních systémů vypracovaných podle zvláštního právního předpisu7a); Agentura přitom přihlíží zejména k oprávněným zájmům předkladatele dokumentace programu, architektuře určených informačních systémů, technickému, ekonomickému a projektovému hledisku, práci s daty, uživatelskému zážitku a k potřebám zajištění řádného výkonu veřejné správy,
+>
+> - c) zajišťuje tvorbu metodických pokynů pro výkon odborných činností spojených s vytvářením, správou, provozem, užíváním a rozvojem informačních systémů veřejné správy,
+>
+> - d) koordinuje a vytváří podmínky pro činnost veřejné správy prostřednictvím veřejně přístupných informačních systémů veřejné správy, včetně dálkového přístupu,
+>
+> - e) koordinuje a vytváří podmínky pro činnost kontaktních míst veřejné správy.
+>
+> (2) Agentura
+>
+> - a) kontroluje u orgánů veřejné správy dodržování povinností stanovených tímto zákonem, s výjimkou povinností stanovených v § 6n písm. b) až f) a § 6l odst. 3,
+>
+> - b) se vyjadřuje k investičním záměrům akcí pořízení nebo architektonických změn určených informačních systémů; Agentura přitom přihlíží zejména k oprávněným zájmům předkladatele investičního záměru akce, architektuře určených informačních systémů, technickému, ekonomickému a projektovému hledisku, práci s daty, uživatelskému zážitku a k potřebám zajištění řádného výkonu veřejné správy,
+>
+> - c) vykonává působnost stanovenou tímto zákonem v oblasti akreditace a atestací,
+>
+> - d) stanoví a spravuje referenční rozhraní a stanoví a ve Věstníku Agentury zveřejní pravidla užívání referenčního rozhraní,
+>
+> - e) ukládá správní tresty za přestupky podle [[#§ 7|§ 7]],
+>
+> - f) ukládá opatření směřující k nápravě nedostatků,
+>
+> - g) vyjadřuje se k projektům určených informačních systémů nebo jejich architektonických změn, jde-li o určené informační systémy spravované státními orgány nebo státními právnickými osobami anebo určené informační systémy spravované orgány územních samosprávných celků, které slouží k výkonu přenesené působnosti,
+>
+> - h) posuzuje, zda informační systémy veřejné správy splňují požadavky kladené na ně právními předpisy upravujícími informační nebo komunikační technologie, informační koncepcí orgánu veřejné správy a provozní dokumentací, a jde-li o informační systémy veřejné správy spravované orgány veřejné správy, pro něž jsou závazná usnesení vlády, rovněž informační koncepcí České republiky a jinými usneseními vlády týkajícími se informačních nebo komunikačních technologií,
+>
+> - i) vydává Věstník Agentury, v němž uveřejňuje metodické pokyny [odstavec 1 písm. f)], seznam atestačních středisek, udělení osvědčení o akreditaci a udělení atestů a další dokumenty vztahující se k informačním systémům veřejné správy; vydávání Věstníku Agentury zabezpečuje Agentura prostřednictvím portálu veřejné správy,
+>
+> - j) konzultuje návrhy metodických pokynů zejména s dotčenými osobami nebo jejich součástmi formou veřejné konzultace, jejímž cílem je získání stanovisek a připomínek dotčených osob nebo jejich součástí k předmětnému návrhu, a za tímto účelem zřídí a spravuje informační systém, kde způsobem umožňujícím dálkový přístup uveřejňuje návrhy metodických pokynů, umožňuje předkládání připomínek a uveřejňuje výsledek konzultace,
+>
+> - k) kontroluje výkon působnosti kontaktních míst veřejné správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6n, § 6l, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0409ef43d08fac8c84fd -->
+
 ### § 5 — Orgány veřejné správy
 
 > **§ 5**
@@ -712,6 +1112,82 @@ Správce určeného IS musí dodržet fázovaný řetězec: souhlasné vyjádře
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b9a96cf86bbc4e080e67 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 5 — Orgány veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Orgány veřejné správy v rozsahu své zákonné působnosti provádějí výběr technických a programových prostředků a dalších produktů pro provoz jimi vytvářených a spravovaných informačních systémů veřejné správy; to neplatí pro orgány veřejné správy, pro něž jsou závazná usnesení vlády, předpokládá-li informační koncepce České republiky užití produktu určitých vlastností.
+>
+> (2) Orgány veřejné správy jsou v rámci informačních systémů veřejné správy povinny
+>
+> - a) spolupracovat s Agenturou při plnění jejích úkolů podle [[#§ 4|§ 4]],
+>
+> - b) předložit Agentuře k vyjádření návrhy dokumentací programů obsahujících pořízení nebo architektonické změny určených informačních systémů vypracovaných podle zvláštního právního předpisu7a) a investiční záměry akcí pořízení nebo architektonických změn určených informačních systémů,
+>
+> - c) předložit Agentuře před zahájením poskytování služby informačního systému veřejné správy jimi spravovaným určeným informačním systémem nebo na žádost Agentury provozní dokumentaci určeného informačního systému k posouzení, zda určený informační systém odpovídá jeho projektu nebo projektu jeho architektonických změn, v podobě, v jaké k nim bylo učiněno souhlasné vyjádření Agentury nebo souhlasné rozhodnutí vlády; část věty před středníkem se použije pouze v případě určených informačních systémů spravovaných státními orgány nebo státními právnickými osobami anebo určených informačních systémů spravovaných orgány územních samosprávných celků, které slouží k výkonu přenesené působnosti,
+>
+> - d) zajistit, aby vazby jimi spravovaného informačního systému veřejné správy s výjimkou provozního informačního systému uvedeného v § 1 odst. 4 písm. a) až d) na informační systémy veřejné správy jiného správce byly uskutečňovány prostřednictvím referenčního rozhraní. Toto ustanovení se nevztahuje na vazby mezi jimi spravovanými informačními systémy veřejné správy a informačními systémy veřejné správy vedenými zpravodajskými službami,
+>
+> - e) odstranit zjištěné nedostatky ve lhůtě stanovené Agenturou,
+>
+> - f) předložit Agentuře k vyjádření a v případě určených informačních systémů spravovaných orgány územních samosprávných celků, které slouží výlučně k výkonu samostatné působnosti, na vědomí projekty určených informačních systémů nebo jejich architektonických změn,
+>
+> - g) uskutečnit programy obsahující pořízení nebo architektonické změny určených informačních systémů, jejichž návrhy dokumentace jsou povinny předložit Agentuře k vyjádření, investiční záměry akcí pořízení nebo architektonických změn určených informačních systémů, které jsou povinny předložit Agentuře k vyjádření, a projekty určených informačních systémů nebo jejich architektonických změn, které jsou povinny předložit Agentuře k vyjádření, až po souhlasném vyjádření Agentury nebo souhlasném rozhodnutí vlády,
+>
+> - h) oznámit Agentuře zahájení zkušebního provozu určeného informačního systému souvisejícího s jeho pořízením nebo architektonickými změnami před tím, než tato skutečnost nastane, vést záznam o průběhu zkušebního provozu a zpřístupnit záznam Agentuře dálkovým přístupem,
+>
+> - i) zahájit poskytování služby informačního systému veřejné správy jím spravovaným určeným informačním systémem až po vyjádření Agentury, že určený informační systém odpovídá jeho projektu nebo projektu jeho architektonických změn, v podobě, v jaké k nim bylo učiněno souhlasné vyjádření Agentury nebo souhlasné rozhodnutí vlády; část věty před středníkem se nepoužije na službu informačního systému veřejné správy, která se týká výlučně výkonu samostatné působnosti,
+>
+> - j) provádět hodnocení ekonomické výhodnosti způsobu provozu jimi spravovaných informačních systémů veřejné správy,
+>
+> - k) provádět před pořízením informačního systému veřejné správy nebo v rámci architektonických změn anebo rozvoje jimi spravovaného informačního systému veřejné správy hodnocení ekonomické výhodnosti jeho provozu.
+>
+> (3) Ústřední správní úřady zveřejňují věstníky vydávané ve své působnosti na portálu veřejné správy.
+>
+> (4) Orgány veřejné správy vykonávají informační činnost tak, aby nebyla ohrožena činnost zpravodajské služby.
+>
+> (5) Orgány veřejné správy mohou při zkušebním provozu informačního systému veřejné správy využívat v nezbytném rozsahu údaje, které se v informačním systému veřejné správy vedou nebo povedou nebo které jsou nebo budou v souvislosti s poskytováním služby informačního systému veřejné správy využívány.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 1
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b9a96cf86bbc4e080e67 -->
+
 ### § 5a — Dlouhodobé řízení informačních systémů veřejné správy
 
 > **§ 5a**
@@ -798,6 +1274,58 @@ Trojvrstvá koncepční hierarchie (IKČR → IKOVS → provozní dokumentace) j
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fbc5047527bd9091185a generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 5a — Dlouhodobé řízení informačních systémů veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Rada vlády pro informační společnost vytváří a předkládá vládě ke schválení informační koncepci České republiky. Informační koncepce České republiky stanoví cíle České republiky v oblasti informačních systémů veřejné správy a obecné principy pořizování, architektonických změn, vytváření, správy, provozování, užívání a rozvoje informačních systémů veřejné správy v České republice na období 5 let.
+>
+> (2) Orgány veřejné správy vytvářejí a vydávají informační koncepci orgánu veřejné správy, uplatňují ji v praxi a vyhodnocují její dodržování. V informační koncepci orgánu veřejné správy orgány veřejné správy stanoví své dlouhodobé cíle v oblasti řízení spravovaných informačních systémů veřejné správy a vymezí obecné principy pořizování, architektonických změn, vytváření, správy, provozování, užívání a rozvoje svých informačních systémů veřejné správy. V případě orgánů téhož územního samosprávného celku se vytváří jedna informační koncepce pro všechny orgány územního samosprávného celku. Orgány veřejné správy předkládají informační koncepci orgánu veřejné správy do 3 měsíců ode dne jejího vydání nebo aktualizace Agentuře. Strukturu a náležitosti informační koncepce orgánu veřejné správy, jakož i postupy orgánů veřejné správy při jejím vytváření, vydávání a při vyhodnocování jejího dodržování, požadavky na řízení informačních systémů veřejné správy, včetně dekomponování informačních systémů veřejné správy, technické požadavky na informační systémy veřejné správy a pravidla pro strukturování dat v informačních systémech veřejné správy stanoví prováděcí právní předpis.
+>
+> (3) Na základě vydané informační koncepce orgánu veřejné správy orgány veřejné správy vytvářejí a vydávají provozní dokumentaci k jednotlivým informačním systémům veřejné správy, uplatňují ji v praxi a vyhodnocují její dodržování. Strukturu a náležitosti provozní dokumentace stanoví prováděcí právní předpis.
+>
+> (4) Orgány veřejné správy si zajistí atestaci dlouhodobého řízení informačních systémů veřejné správy s výjimkou provozních informačních systémů uvedených v § 1 odst. 4 písm. a) až d) a prokáží splnění povinností podle odstavců 2 a [[#§ 3|3]] atestem dlouhodobého řízení informačních systémů veřejné správy. Rozsah provozní dokumentace předkládané při atestaci stanoví prováděcí právní předpis. Povinnost podle věty první se nevztahuje na obce, které vykonávají přenesenou působnost pouze v základním rozsahu9a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fbc5047527bd9091185a -->
+
 ### § 5b — Bezpečnostní opatření přiměřená kybernetické bezpečnosti
 
 > **§ 5b**
@@ -866,6 +1394,52 @@ Každý správce ISVS má bezpečnostní povinnosti — i mimo režim ZKB. § 5b
 **Typicky rozhodné důkazy / podklady:** dokumentace bezpečnostních opatření, analýza rizik a kategorizace dopadů CIA, evidence aktiv a přístupů, záznamy o zálohování, plán reakce na incident, doklady o ohlášení případného porušení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5ffe4a06ac743b37b6a9 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 5b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Správci informačních systémů veřejné správy, kteří nejsou poskytovateli regulované služby podle zákona [[o kybernetické bezpečnosti|o kybernetické bezpečnosti]], jsou povinni na jimi spravované informační systémy veřejné správy zavádět bezpečnostní opatření pro poskytovatele regulované služby v režimu nižších povinností podle [[§ 8|§ 8]], [[13|13]] a [[14|14]] zákona [[o kybernetické bezpečnosti|o kybernetické bezpečnosti]], a to přiměřeně s ohledem na možné dopady narušení důvěrnosti, integrity a dostupnosti konkrétního informačního systému veřejné správy na činnost jeho správce a jeho schopnost poskytovat své služby občanům, a dále vhodnost a proveditelnost těchto opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5ffe4a06ac743b37b6a9 -->
 
 ### § 5c — Kontrola dodržování povinností OVS
 
@@ -938,6 +1512,56 @@ Tato sankce je výrazně přísnější než pokuta podle § 7 ZISVS — typicky
 **Typicky rozhodné důkazy / podklady:** vyjádření DIA, usnesení vlády, smlouva a faktury dodavatele, doklad o financování z programu, IKČR a IKOVS, protokol o kontrole, opatření k nápravě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=108fc7ebc74d71bb9186 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 5c — Kontrola dodržování povinností orgánů veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Zjistí-li Agentura při kontrole podle § 4 odst. 2 písm. a) u orgánu veřejné správy nedostatky, uloží orgánu veřejné správy, aby přijal opatření k nápravě těchto nedostatků.
+>
+> (2) Agentura při ukládání opatření podle odstavce 1 specifikuje zjištěné nedostatky a stanoví opatření, která mají být orgánem veřejné správy přijata k nápravě těchto nedostatků, a určí orgánu veřejné správy přiměřenou lhůtu k přijetí těchto opatření. Tato lhůta nesmí přesáhnout 6 měsíců a v případě nedostatku v podobě nesouladu informační koncepce orgánu veřejné správy s informační koncepcí České republiky 3 měsíce.
+>
+> (3) Realizace programů obsahujících pořízení nebo architektonické změny určených informačních systémů, investičních záměrů akcí pořízení nebo architektonických změn určených informačních systémů anebo projektů určených informačních systémů nebo jejich architektonických změn bez souhlasného vyjádření Agentury nebo souhlasného rozhodnutí vlády, jsou-li vyžadovány, se považuje za porušení rozpočtové kázně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=108fc7ebc74d71bb9186 -->
 
 ### § 5d — Záznamy o zvláštních přístupech
 
@@ -1016,6 +1640,54 @@ Tento výčet odpovídá výjimkám z čl. 23 GDPR a čl. 13 odst. 3 směrnice 2
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0a2be0ea233841f9c1c5 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 5d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) V případech, kdy byl z informačního systému veřejné správy poskytnut nebo využit údaj anebo bylo do informačního systému veřejné správy přistoupeno na základě umožnění zvláštního přístupu a ten, komu byl zvláštní přístup umožněn, písemně prohlásí, že zpřístupnění záznamu o umožnění zvláštního přístupu další osobě nebo její součásti by mohlo ohrozit zajištění účelu, pro který byl zvláštní přístup umožněn, nelze po dobu trvání tohoto ohrožení záznam zpřístupnit. To neplatí pro zpřístupnění záznamu orgánu činnému v trestním řízení, jde-li o trestný čin související s účelem, pro který byl umožněn zvláštní přístup, nebo orgánu vykonávajícímu dozor nad zpracováním osobních údajů v rámci jeho působnosti. Zvláštním přístupem se pro účely tohoto zákona rozumí přístup do informačního systému veřejné správy v souvislosti se zajišťováním bezpečnosti České republiky, veřejného pořádku nebo vnitřní bezpečnosti, s předcházením, vyhledáváním nebo odhalováním trestné činnosti anebo stíháním trestných činů, se zajišťováním významného hospodářského nebo finančního zájmu České republiky anebo Evropské unie, včetně měnové, rozpočtové a daňové oblasti, nebo se zajišťováním ochrany subjektu údajů.
+>
+> (2) Ten, kdo učinil prohlášení podle odstavce 1, je povinen správci informačního systému veřejné správy bez zbytečného odkladu oznámit, že pominuly důvody pro znepřístupnění záznamu o umožnění zvláštního přístupu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a2be0ea233841f9c1c5 -->
+
 ### § 5e — Evidenční ochrana údajů
 
 > **§ 5e**
@@ -1079,6 +1751,52 @@ Klíčová věta: záznamy se poskytují **včetně těch, které obsahují neve
 **Typicky rozhodné důkazy / podklady:** požadavek oprávněného orgánu s odkazem na evidenční ochranu, popis technického rozhraní pro předávání záznamů, evidence přístupů (logy), platná vyhláška ke struktuře záznamů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e1e8aa5af1a7e4e382c2 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 5e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Správce informačního systému veřejné správy poskytuje Ministerstvu vnitra, Policii České republiky nebo zpravodajským službám za účelem provádění opatření k evidenční ochraně údajů na základě jejich požadavku záznamy o poskytnutí a využití údajů a o přístupu do informačního systému veřejné správy, včetně záznamů, které obsahují neveřejné nebo znepřístupněné údaje, a to způsobem umožňujícím nepřetržitý a dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1e8aa5af1a7e4e382c2 -->
 
 ### HLAVA III — Akreditace a atestace v oblasti ISVS
 
@@ -1207,6 +1925,92 @@ Pověření k provádění akreditace předpokládá členství žadatele v mezi
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5d2967d2295331ad542c generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6 — Pověření k provádění akreditace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Akreditaci provádí právnická nebo fyzická osoba, která je členem mezinárodních sdružení zabývajících se akreditací a určených Agenturou podle odstavce 6 a která byla na základě žádosti o pověření k provádění akreditace rozhodnutím Agentury k provádění akreditace pověřena (dále jen „akreditující osoba“). Pověření k provádění akreditace je nepřevoditelné.
+>
+> (2) K žádosti o pověření k provádění akreditace žadatel přikládá
+>
+> - a) zakladatelský dokument, jde-li o právnickou osobu,
+>
+> - b) doklad o věcných, personálních a organizačních předpokladech pro činnost akreditující osoby,
+>
+> - c) doklad o členství v mezinárodních sdruženích zabývajících se akreditací a určených Agenturou podle odstavce 6 a způsob a rozsah plnění povinností z členství vyplývajících,
+>
+> - d) doklad o zajištění zdrojů potřebných pro výkon činností akreditující osoby,
+>
+> - e) podmínky a postupy posuzování žadatelů o akreditaci (dále jen „akreditační pravidla“), které musí být v souladu s pravidly mezinárodních sdružení zabývajících se akreditací určených Agenturou podle odstavce 6.
+>
+> (3) Splňuje-li žadatel všechny podmínky předepsané tímto zákonem pro pověření k provádění akreditace, vydá Agentura rozhodnutí, jímž jej prováděním akreditace pověří. V opačném případě žádost o pověření k provádění akreditace zamítne. V rozhodnutí, kterým Agentura pověřuje akreditující osobu prováděním akreditace, vysloví Agentura souhlas s akreditačními pravidly. Žadatel je akreditován též marným uplynutím lhůty a způsobem podle [[§ 28 až 30|§ 28 až 30]] zákona [[o volném pohybu služeb|o volném pohybu služeb]].
+>
+> (4) Akreditující osoba je povinna
+>
+> - a) postupovat při provádění akreditace v souladu s akreditačními pravidly, s nimiž Agentura vyslovila souhlas,
+>
+> - b) plnit povinnosti vyplývající z členství v mezinárodních sdruženích zabývajících se akreditací určených Agenturou podle odstavce 6,
+>
+> - c) mít zajištěné zdroje potřebné pro výkon svých činností,
+>
+> - d) personálně zajišťovat své činnosti osobami, které mají odborné znalosti, zkušenosti a kvalifikaci nezbytnou pro provádění akreditací a které jsou obeznámeny s akreditačními pravidly,
+>
+> - e) jednat v průběhu akreditace nestranně a nepodjatě, zejména se zdržet všeho, co by mohlo ohrozit důvěru v její nestrannost,
+>
+> - f) ohlásit bezodkladně Agentuře, že není schopna po dobu delší než 3 měsíce plnit povinnosti podle písmene c).
+>
+> (5) Neplní-li akreditující osoba povinnosti stanovené v tomto zákoně a
+>
+> - a) byla jí v uplynulém kalendářním roce nejméně dvakrát Agenturou uložena pokuta podle [[#§ 7|§ 7]], nebo
+>
+> - b) porušení zákona je natolik závažné, že již nelze očekávat nápravu závadného stavu a řádné plnění povinností akreditující osoby,
+>
+> rozhodne Agentura o odnětí pověření k provádění akreditace; Agentura vždy rozhodne o odnětí pověření k provádění akreditace, pokud o to akreditující osoba písemně požádá.
+>
+> (6) Seznam určených mezinárodních sdružení zabývajících se akreditací, rozhodnutí o pověření akreditující osoby k provádění akreditace a rozhodnutí o odnětí pověření k provádění akreditace uveřejní Agentura ve Věstníku Agentury.
+>
+> (7) Kontrolu akreditující osoby při plnění povinností vyplývajících z tohoto zákona vykonává Agentura.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5d2967d2295331ad542c -->
+
 ### § 6a — Osvědčení o akreditaci
 
 > **§ 6a**
@@ -1269,6 +2073,58 @@ Osvědčení o akreditaci je vstupenkou pro atestační středisko: vymezuje př
 **Typicky rozhodné důkazy / podklady:** osvědčení o akreditaci, doklad o živnostenském oprávnění, smlouva o akreditaci a doklad o úplatě, evidence předání informací DIA s daty, dohledová zjištění a akreditační pravidla.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aea89766586dbaac48ad generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6a — Osvědčení o akreditaci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Akreditaci zahájí akreditující osoba na žádost právnické nebo fyzické osoby, pokud jsou podnikateli. Akreditace se provádí za úplatu. Cena se sjednává podle zvláštního právního předpisu10).
+>
+> (2) Na základě provedené akreditace vydá akreditující osoba osvědčení o akreditaci, pokud má žadatel o akreditaci oprávnění podnikat v oblasti atestací a splňuje podmínky akreditačních pravidel. Osvědčení o akreditaci vymezuje předmět, rozsah a podmínky zabezpečení předpokladů podle věty první a dobu, na kterou bylo vydáno.
+>
+> (3) Akreditující osoba předá v elektronické podobě Agentuře informace o vydaném osvědčení o akreditaci ve lhůtě 7 pracovních dnů ode dne jeho vydání.
+>
+> (4) Akreditující osoba dohlíží u atestačních středisek nad dodržováním podmínek v akreditačních pravidlech. Zjistí-li nedostatky v jejich plnění, podle závažnosti nedostatků v souladu s akreditačními pravidly, osvědčení o akreditaci odejme. Tuto skutečnost akreditující osoba bezodkladně sdělí Agentuře v elektronické podobě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aea89766586dbaac48ad -->
 
 ### § 6b — Pověření k provádění atestací
 
@@ -1340,6 +2196,66 @@ Pověření k atestacím předpokládá akreditaci, schválené atestační podm
 **Typicky rozhodné důkazy / podklady:** žádost s přílohami, osvědčení o akreditaci, návrh atestačních podmínek, potvrzení finančního úřadu, celní správy, ČSSZ a zdravotní pojišťovny o bezdlužnosti, rozhodnutí o pověření a jeho doba.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ba3c8a08fac97f7a1aed generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6b — Pověření k provádění atestací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Atestace provádí atestační středisko podle § 2 písm. l), které bylo na základě žádosti o pověření k provádění atestací rozhodnutím Agentury pověřeno k provádění atestací.
+>
+> (2) Agentura vydá rozhodnutí o pověření atestačního střediska k provádění atestací, pokud k žádosti o pověření k provádění atestací předloží
+>
+> - a) návrh atestačních podmínek, jež obsahují náležitosti podle § 2 písm. r),
+>
+> - b) osvědčení o akreditaci podle [[#§ 6a|§ 6a]] a
+>
+> - c) potvrzení příslušných orgánů, že nemá splatný nedoplatek na pojistném na veřejné zdravotní pojištění, na pojistném na sociální zabezpečení, na příspěvku na státní politiku zaměstnanosti a nemá v evidenci daní zachyceny daňové nedoplatky.
+>
+> (3) V pověření k provádění atestací Agentura stanoví období, na které se pověření uděluje, a schválí postupy atestačního střediska při provádění atestací obsažené v atestačních podmínkách, které žadatel o pověření k provádění atestací předložil.
+>
+> (4) Atestační středisko je pověřeno k provádění atestace též marným uplynutím lhůty a způsobem podle [[§ 28 až 30|§ 28 až 30]] zákona [[o volném pohybu služeb|o volném pohybu služeb]].
+>
+> (5) Pověření k provádění atestací nelze bez souhlasu Agentury převést na jinou osobu. Pověření k provádění atestací se uděluje na období nejvýše 5 let. Agentura rozhodnutím prodlouží období, na které bylo pověření k provádění atestací uděleno, nejvýše však o 5 let, a to i opakovaně, pokud atestační středisko splňuje podmínky stanovené v odstavci 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 6a, § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba3c8a08fac97f7a1aed -->
 
 ### § 6c — Odnětí pověření k provádění atestací
 
@@ -1417,6 +2333,72 @@ Odst. 4 zavádí **mechanismus „opravy"** — DIA vyzve středisko, aby předl
 **Typicky rozhodné důkazy / podklady:** schválené atestační podmínky, písemné upozornění DIA s lhůtou, doklad o (ne)nápravě, oznámení akreditující osoby o odnětí osvědčení, doklad o případném ohrožení ISVS nebo mezinárodních závazků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=63b29861c57ffe7dd53c generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura odejme pověření k provádění atestací, jestliže atestační středisko
+>
+> - a) pozbylo osvědčení o akreditaci, na jehož základě mu bylo pověření k provádění atestací uděleno,
+>
+> - b) pozbylo oprávnění k podnikání, na základě kterého bylo oprávněno podnikat v oblasti atestací,
+>
+> - c) neplní povinnosti stanovené tímto zákonem, nepostupuje podle atestačních podmínek, nebo nedodržuje ustanovení prováděcích právních předpisů k tomuto zákonu, ačkoliv bylo na možnost odnětí pověření k provádění atestací z těchto důvodů Agenturou písemně upozorněno a nápravu nezjednalo ani v přiměřené lhůtě stanovené Agenturou, nebo
+>
+> - d) ve stanovené lhůtě nepředložilo Agentuře upravené znění atestačních podmínek podle odstavce 4.
+>
+> (2) Agentura odejme pověření k provádění atestací, jestliže o to atestační středisko písemně požádá.
+>
+> (3) Agentura může z vlastního podnětu zrušit rozhodnutí o schválení postupů atestačního střediska podle § 6b odst. 3,
+>
+> - a) dojde-li k ohrožení nebo omezení provozu informačních systémů veřejné správy,
+>
+> - b) je-li to nezbytné k dodržení mezinárodních smluv, jimiž je Česká republika vázána.
+>
+> (4) Jestliže Agentura zruší rozhodnutí o schválení postupů atestačního střediska při provádění atestací, sdělí atestačnímu středisku důvody, proč bylo rozhodnutí zrušeno, a vyzve ho, aby ve stanovené přiměřené lhůtě předložilo Agentuře upravené znění atestačních podmínek ke schválení postupů atestačního střediska při provádění atestací.
+>
+> (5) Agentura schvaluje postupy atestačního střediska při provádění atestací, jestliže atestační středisko předloží návrh jejich nového znění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=63b29861c57ffe7dd53c -->
 
 ### § 6d — Provádění atestací
 
@@ -1511,6 +2493,74 @@ Atestační středisko nesmí atestovat ISVS, na jehož vývoji, přípravě, v�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4485eacf3f9072047d2d generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6d — Provádění atestací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Atestační střediska jsou při provádění atestací povinna
+>
+> - a) postupovat podle atestačních podmínek a
+>
+> - b) provádět posuzování dlouhodobého řízení informačních systémů veřejné správy v souladu s tímto zákonem a postupy stanovenými prováděcím právním předpisem.
+>
+> (2) Atestační středisko není oprávněno provádět atestace dlouhodobého řízení informačních systémů veřejné správy, na jejichž vývoji, přípravě, výrobě nebo na obchodu se jakkoliv podílelo samo nebo s ním ekonomicky nebo personálně spojená osoba, kdy
+>
+> - a) ekonomicky nebo personálně spojenými osobami se pro účely tohoto zákona rozumí, jestliže se jedna osoba podílí přímo nebo nepřímo na vedení, kontrole nebo jmění druhé osoby nebo jestliže se shodné právnické nebo fyzické osoby přímo nebo nepřímo podílejí na vedení, kontrole nebo jmění obou osob anebo fyzické osoby blízké11),
+>
+> - b) účastí na kontrole nebo jmění se pro účely tohoto zákona rozumí jakýkoli podíl na základním kapitálu nebo podíl s hlasovacím právem.
+>
+> (3) Atestační středisko provádí atestace na základě smlouvy uzavřené s žadatelem o atestaci za úplatu. Cena se sjednává podle zvláštního právního předpisu10).
+>
+> (4) Atestační středisko vydá žadateli o atestaci protokol o provedené zkoušce ve lhůtě 7 pracovních dnů ode dne ukončení této zkoušky. Atestační středisko vydá o kladném výsledku atestace žadateli atest. Atest musí obsahovat podmínky platnosti atestu.
+>
+> (5) Atest se vydává na dobu nejvýše 5 let.
+>
+> (6) Atestační středisko, které vystavilo atest, může na základě žádosti držitele atestu před uplynutím platnosti atestu prodloužit jeho platnost o 2 roky, a to i opakovaně. Žadatel i atestační středisko při prodlužování platnosti atestu postupují obdobně jako při provádění atestací.
+>
+> (7) Atestační středisko předá v elektronické podobě prostřednictvím automatizovaného ohlašovacího procesu přístupného dálkovým přístupem na elektronické adrese, kterou Agentura uveřejní ve Věstníku Agentury, Agentuře informace o provedené atestaci ve lhůtě 7 pracovních dnů ode dne jejího provedení. Informaci o vydání atestu Agentura uveřejní ve Věstníku Agentury.
+>
+> (8) Kontrolu atestačních středisek při plnění povinností vyplývajících z tohoto zákona vykonává Agentura.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4485eacf3f9072047d2d -->
+
 ### § 6e — Uzavření smlouvy o provedení atestace
 
 > **§ 6e**
@@ -1575,6 +2625,58 @@ Atestační středisko je v kvazimonopolním postavení a má kontraktační pov
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9acf3fe315faf9f9c67d generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6e — Uzavření smlouvy o provedení atestace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Atestační středisko zveřejní atestační podmínky, každou jejich změnu, odejmutí pověření k provádění atestací (§ 6c odst. 1 a [[#§ 2|2]]) nebo zrušení rozhodnutí o schválení postupů atestačního střediska (§ 6c odst. 3) ve své provozovně a způsobem umožňujícím dálkový přístup do 7 pracovních dnů od vydání příslušného rozhodnutí Agentury.
+>
+> (2) Atestační středisko navrhne uzavření smlouvy a provedení atestace každému, kdo jej způsobem stanoveným v atestačních podmínkách vyzve k uzavření smlouvy podle zveřejněných atestačních podmínek.
+>
+> (3) Odchylky od atestačních podmínek lze pro jednotlivý případ sjednat jen tehdy, jestliže to atestační podmínky připouštějí a jestliže se těmito změnami nemění povaha nabízené atestační služby.
+>
+> (4) Atestačnímu středisku nevzniká povinnost navrhnout uzavření smlouvy o provedení atestace, jestliže jejím obsahem mají být také odchylky od atestačních podmínek podle odstavce 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6c, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9acf3fe315faf9f9c67d -->
+
 ### § 6f — Zvláštní ustanovení o účastenství v řízení
 
 > **§ 6f**
@@ -1634,6 +2736,56 @@ Toto **zužuje** obecnou definici účastníků podle § 27 SŘ — vylučuje ko
 **Typicky rozhodné důkazy / podklady:** žádost o přiznání postavení účastníka, spis příslušného řízení, vymezení tvrzeného dotčení práv, rozhodnutí o pověření / odnětí, usnesení o účastenství.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ee6856080a57d6bb5875 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6f — Zvláštní ustanovení o účastenství v řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Účastníkem řízení o udělení pověření k provádění akreditace je žadatel o pověření k provádění akreditace. Účastníkem řízení o odnětí pověření k provádění akreditace je akreditující osoba, které má být rozhodnutím pověření odňato.
+>
+> (2) Účastníkem řízení o udělení pověření k provádění atestací je žadatel o pověření k provádění atestací. Účastníkem řízení o odnětí pověření k provádění atestací je atestační středisko, kterému má být rozhodnutím pověření odňato.
+>
+> (3) Účastníkem řízení o vyslovení souhlasu se změnou postupů atestačního střediska a o zrušení rozhodnutí o schválení postupů atestačního střediska je atestační středisko, jehož postupů se řízení týká.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ee6856080a57d6bb5875 -->
 
 ### HLAVA IV — Portál veřejné správy
 
@@ -1722,6 +2874,62 @@ Portál veřejné správy (správce DIA) je jednotnou digitální branou občana
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=24b82dcc2e60576c8e3b generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Portálem veřejné správy je informační systém veřejné správy zajišťující přístup k informacím veřejných orgánů a komunikaci s veřejnými orgány. Správcem portálu veřejné správy je Agentura.
+>
+> (2) Portál veřejné správy zajišťuje přístup k informacím získaným na základě informační činnosti [§ 2 písm. a)] veřejných orgánů zejména v oblasti sociálního zabezpečení, zdravotnického zabezpečení, správy veřejných financí, dotací, veřejných zakázek, státní statistické služby, evidence a identifikace osob, jejich součástí a práv a povinností těchto osob či jejich součástí a tvorby a publikace právních předpisů.
+>
+> (3) Portál veřejné správy zajišťuje komunikaci s veřejnými orgány prostřednictvím datových schránek, prostřednictvím přístupu se zaručenou identitou do informačních systémů veřejné správy nebo elektronických aplikací spravovaných těmito veřejnými orgány a prostřednictvím kontaktních míst veřejné správy.
+>
+> (4) Portál veřejné správy dále zajišťuje přístup k informacím fyzických osob a právnických osob, zejména k formulářům v elektronické podobě těchto osob, a komunikaci s fyzickými osobami a právnickými osobami. Portál veřejné správy zajišťuje přístup k informacím fyzických osob a právnických osob na základě písemné smlouvy mezi správcem portálu veřejné správy a fyzickou osobou, k jejímž informacím je zajištěn přístup, nebo právnickou osobou, k jejímž informacím je zajištěn přístup; písemná smlouva se nevyžaduje, stanoví-li fyzické osobě nebo právnické osobě povinnost zpřístupnit informaci prostřednictvím portálu veřejné správy zákon. Fyzická osoba, k jejímž informacím je zajištěn přístup, a právnická osoba, k jejímž informacím je zajištěn přístup, hradí za zajištění tohoto přístupu úplatu; to neplatí, stanoví-li fyzické osobě nebo právnické osobě povinnost zpřístupnit informaci prostřednictvím portálu veřejné správy zákon. Úplata je příjmem státního rozpočtu, vybírá ji správce portálu veřejné správy. Správce portálu veřejné správy stanoví podmínky, za kterých budou informace fyzických osob nebo právnických osob prostřednictvím portálu veřejné správy zpřístupněny, a pravidla pro stanovení výše úplaty a způsob její úhrady a zveřejní je na portálu veřejné správy.
+>
+> (5) Portál veřejné správy umožňuje fyzické osobě zápis dokladu, průkazu, osvědčení nebo jiné veřejné listiny za účelem zasílání informace o končící platnosti této veřejné listiny na kontaktní údaj a zápis sériového čísla, vydavatele a platnosti kvalifikovaného certifikátu pro elektronický podpis.
+>
+> (6) Portál veřejné správy zajišťuje poskytování digitálního stejnopisu průkazu k prokázání totožnosti nebo jiné skutečnosti prostřednictvím mobilní aplikace pro prokazování a elektronické aplikace pro ověřování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=24b82dcc2e60576c8e3b -->
+
 ### HLAVA V — Centrální místo služeb
 
 ### § 6h — Centrální místo služeb
@@ -1808,6 +3016,62 @@ Centrální místo služeb (správce DIA, provoz typicky NAKIT/KIVS) je povinnou
 **Typicky rozhodné důkazy / podklady:** popis síťové a integrační architektury, smlouva o připojení k CMS/KIVS, logy komunikace s referenčním rozhraním, provozní dokumentace ISVS, protokol o kontrole DIA.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5852af9ce8005d33ab5b generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Centrálním místem služeb se rozumí soubor technických a programových prostředků, jehož prostřednictvím jsou poskytovány nebo využívány služby informačních systémů veřejné správy a jehož prostřednictvím jsou využívány a propojovány sítě elektronických komunikací.
+>
+> (2) Centrální místo služeb spravuje Agentura. Agentura může svěřit provozování centrálního místa služeb právnické osobě nebo fyzické osobě.
+>
+> (3) Správce centrálního místa služeb vytváří a vydá provozní dokumentaci centrálního místa služeb, uplatňuje ji v praxi a vyhodnocuje její dodržování.
+>
+> (4) Orgány veřejné správy zajistí, aby jimi spravované informační systémy veřejné správy s výjimkou provozních informačních systémů uvedených v § 1 odst. 4 písm. a) až d) uskutečňovaly vazbu mezi informačními systémy veřejné správy na informační systémy veřejné správy spravované jinými orgány veřejné správy nebo na informační systémy soukromoprávních uživatelů údajů prostřednictvím centrálního místa služeb.
+>
+> (5) Poskytují-li nebo využívají-li orgány veřejné správy služby informačních systémů veřejné správy s využitím sítě elektronických komunikací, zajistí, aby se tak stalo prostřednictvím centrálního místa služeb.
+>
+> (6) Správce centrálního místa služeb a správce referenčního rozhraní zajistí, aby přístup k referenčnímu rozhraní byl možný výlučně prostřednictvím centrálního místa služeb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5852af9ce8005d33ab5b -->
 
 ### HLAVA VI — Využívání cloud computingu orgány veřejné správy
 
@@ -1909,6 +3173,84 @@ Působnost u cloudu je rozdělena mezi vládu (pověření poskytovatele státn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=830a1f02e5cfca673a57 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6i — Působnost v oblasti využívání cloud computingu orgány veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Vláda
+>
+> - a) pověřuje osobu nebo jiné právní uspořádání, které jsou zřízené nebo založené státem a které splňují požadavky podle § 6m odst. 1, poskytováním cloud computingu orgánům veřejné správy (dále jen „poskytovatel státního cloud computingu“),
+>
+> - b) schvaluje plán zajištění potřebné kapacity pro poskytování cloud computingu poskytovatelem státního cloud computingu orgánům veřejné správy, včetně rozpočtového výhledu na 5 let.
+>
+> (2) Agentura
+>
+> - a) koordinuje využívání cloud computingu orgány veřejné správy,
+>
+> - b) vydává metodické pokyny pro využívání cloud computingu orgány veřejné správy,
+>
+> - c) zpracovává plán zajištění potřebné kapacity pro poskytování cloud computingu poskytovatelem státního cloud computingu orgánům veřejné správy, včetně rozpočtového výhledu na 5 let a předkládá ho vládě,
+>
+> - d) navrhuje opatření k zajištění dlouhodobě udržitelného financování využívání cloud computingu orgány veřejné správy,
+>
+> - e) kontroluje, zda cloud computing poskytovaný orgánům veřejné správy splňuje požadavky podle § 6n písm. a) a kvalitu tohoto cloud computingu,
+>
+> - f) spravuje informační systém cloud computingu pro orgány veřejné správy (dále jen „informační systém cloud computingu“),
+>
+> - g) vede katalog cloud computingu pro orgány veřejné správy (dále jen „katalog cloud computingu“),
+>
+> - h) vykonává působnost správního orgánu příslušného k uplatňování, regulaci a kontrole cen podle právního předpisu upravujícího ceny v případě cen za poskytování cloud computingu orgánům veřejné správy.
+>
+> (3) Národní úřad pro kybernetickou a informační bezpečnost
+>
+> - a) kontroluje, zda cloud computing poskytovaný orgánům veřejné správy splňuje požadavky podle § 6n písm. b) až f),
+>
+> - b) kontroluje zařazení informačního systému veřejné správy do bezpečnostní úrovně podle § 6l odst. 3,
+>
+> - c) kontroluje zajištění dodržování bezpečnostních pravidel orgánem veřejné správy při využívání služby cloud computingu podle § 6l odst. 3.
+>
+> (4) Orgán veřejné správy poskytne na žádost Agentury podklady pro zpracování plánu zajištění potřebné kapacity pro poskytování cloud computingu poskytovatelem státního cloud computingu orgánům veřejné správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6m, § 6n, § 6l
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=830a1f02e5cfca673a57 -->
+
 ### § 6j — Informační systém cloud computingu
 
 > **§ 6j**
@@ -1969,6 +3311,58 @@ ISCC je ISVS spravovaný DIA, který nejen vede katalog cloudu (§ 6k), ale mů�
 **Typicky rozhodné důkazy / podklady:** dokumentace ISCC a jeho funkcí, nastavení a certifikace DNS / elektronického nástroje, poptávky a zadávací dokumentace OVS, záznamy z katalogu cloudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a62f35f1290892a32a51 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6j — Informační systém cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Zřizuje se informační systém cloud computingu, který je informačním systémem veřejné správy sloužícím k podpoře řízení využívání cloud computingu orgány veřejné správy.
+>
+> (2) Správcem informačního systému cloud computingu je Agentura.
+>
+> (3) Správce informačního systému cloud computingu může prostřednictvím informačního systému cloud computingu poskytovat službu dynamického nákupního systému podle právního předpisu upravujícího zadávání veřejných zakázek.
+>
+> (4) Správce informačního systému cloud computingu může prostřednictvím informačního systému cloud computingu poskytovat službu elektronického nástroje podle právního předpisu upravujícího zadávání veřejných zakázek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a62f35f1290892a32a51 -->
 
 ### § 6k — Katalog cloud computingu
 
@@ -2063,6 +3457,86 @@ Katalog cloud computingu je transparentní čtyřvrstvý registr (poptávky, pos
 **Typicky rozhodné důkazy / podklady:** zápisy v katalogu cloudu, žádost OVS o neveřejnost a její odůvodnění, posouzení rizika kybernetické bezpečnosti, žádost o informace podle InfZ a rozhodnutí o ní.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3cfe7ce9ab1a375bba71 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6k — Katalog cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Katalog cloud computingu je seznam, ve kterém se vedou údaje o poptávkách cloud computingu, poskytovatelích cloud computingu, nabídkách cloud computingu a o cloud computingu využívaném orgány veřejné správy.
+>
+> (2) Údaji vedenými v katalogu cloud computingu o
+>
+> - a) poptávkách cloud computingu jsou
+>
+> - 1. údaje identifikující poptávku cloud computingu,
+>
+> - 2. údaje identifikující orgán veřejné správy, který cloud computing poptává,
+>
+> - 3. údaje charakterizující poptávaný cloud computing, včetně údajů o základních parametrech poptávaného cloud computingu a požadované bezpečnostní úrovni,
+>
+> - b) poskytovatelích cloud computingu jsou údaje identifikující poskytovatele cloud computingu,
+>
+> - c) nabídkách cloud computingu jsou
+>
+> - 1. údaje identifikující nabídku cloud computingu,
+>
+> - 2. údaje identifikující poskytovatele cloud computingu, který cloud computing nabízí,
+>
+> - 3. údaje charakterizující nabízený cloud computing, včetně údajů o základních parametrech nabízeného cloud computingu a jeho bezpečnostní úrovni a údaje o předpokládaném místu zpracování informací orgánu veřejné správy a předpokládané době, předpokládaném rozsahu a předpokládaném účelu zpracování informací orgánu veřejné správy v tomto místě, případně o tom, že nabízený cloud computing vyžaduje dlouhodobé uložení informací orgánu veřejné správy mimo území Evropské unie,
+>
+> - d) využívaném cloud computingu jsou
+>
+> - 1. údaje identifikující využívaný cloud computing,
+>
+> - 2. údaje identifikující orgán veřejné správy, který cloud computing využívá,
+>
+> - 3. údaje identifikující poskytovatele cloud computingu, který cloud computing poskytuje,
+>
+> - 4. údaje charakterizující využívaný cloud computing, včetně údajů o základních parametrech využívaného cloud computingu, jeho bezpečnostní úrovni a finančním objemu nákladů vynaložených v souvislosti s využíváním cloud computingu.
+>
+> (3) Údaje podle odstavce 2 jsou veřejné s výjimkou údajů charakterizujících poptávaný, nabízený nebo využívaný cloud computing, jejichž zveřejnění by mohlo ohrozit kybernetickou bezpečnost a které určí u konkrétního cloud computingu Agentura na základě požadavku orgánu veřejné správy, který cloud computing poptává nebo využívá. Po jejich vymazání z katalogu cloud computingu Agentura uchová údaje po dobu 5 let v informačním systému cloud computingu.
+>
+> (4) Katalog cloud computingu je součástí informačního systému cloud computingu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3cfe7ce9ab1a375bba71 -->
 
 ### § 6l — Základní pravidla využívání cloud computingu OVS
 
@@ -2170,6 +3644,76 @@ OVS smí cloud využívat jen třemi legálními cestami (katalog / vertikální
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=60c3867a1fc380b2553d generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6l — Základní pravidla využívání cloud computingu orgánem veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Orgán veřejné správy může využívat pouze cloud computing, který splňuje požadavky podle [[#§ 6n|§ 6n]] a je poskytovaný
+>
+> - a) poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu na základě nabídky cloud computingu tohoto poskytovatele zapsané v okamžiku jejího přijetí orgánem veřejné správy v katalogu cloud computingu,
+>
+> - b) v rámci vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo
+>
+> - c) v rámci obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek.
+>
+> (2) Přestane-li cloud computing využívaný orgánem veřejné správy splňovat podmínky podle odstavce 1, orgán veřejné správy ukončí jeho využívání nejpozději do 12 měsíců ode dne, kdy se o této skutečnosti dozvěděl.
+>
+> (3) Orgán veřejné správy využívá cloud computing poskytovaný poskytovatelem cloud computingu na základě písemné smlouvy o poskytování cloud computingu orgánu veřejné správy. Orgán veřejné správy je povinen před uzavřením smlouvy s poskytovatelem cloud computingu zařadit informační systém veřejné správy nebo jeho část, k zajištění jehož provozu má být cloud computing využíván, do bezpečnostní úrovně s ohledem na povahu dotčeného informačního systému veřejné správy podle prováděcího právního předpisu. Orgán veřejné správy je dále povinen zajišťovat, že budou po celou dobu využívání služeb cloud computingu dodržována bezpečnostní pravidla.
+>
+> (4) Odstavce 1 až 3 se nepoužijí v případě cloud computingu, který slouží výlučně
+>
+> - a) ke správě a řešení technických potíží nebo diagnostice programových anebo technických prostředků, případně k zabezpečení nebo přenosu s tím souvisejících signálů,
+>
+> - b) ke správě nebo využívání prostředků pro elektronickou identifikaci využívajících vícefaktorové autentizace,
+>
+> - c) k aktualizaci nebo opravě programového prostředku, nebo
+>
+> - d) ke shromažďování nebo výměně provozních údajů,
+>
+> - e) ke zkušebnímu provozu informačního systému veřejné správy, pokud při něm nebudou využity údaje, které se v informačním systému veřejné správy vedou nebo povedou anebo které jsou nebo budou v souvislosti s poskytováním služby informačního systému veřejné správy využívány.
+>
+> (5) Je-li poskytování cloud computingu poskytovatelem státního cloud computingu závislé na využití cloud computingu jiného poskytovatele cloud computingu, použijí se na toto využití ustanovení tohoto zákona o využívání cloud computingu orgány veřejné správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6n
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60c3867a1fc380b2553d -->
+
 ### § 6m — Požadavky na poskytovatele cloud computingu
 
 > **§ 6m**
@@ -2234,6 +3778,60 @@ Poskytovatel cloudu pro OVS musí projít třídílným testem § 6m odst. 1: be
 **Typicky rozhodné důkazy / podklady:** doklad o skutečném majiteli, bezpečnostní certifikace/audity, doklad o bezúhonnosti, závazné stanovisko NÚKIB a informace bezpečnostních složek, popis vlastnické a ovládací struktury.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6eac30aa5913fac5d72a generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6m — Požadavky na poskytovatele cloud computingu poskytujícího cloud computing orgánu veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatelem cloud computingu poskytujícím cloud computing orgánu veřejné správy může být pouze osoba nebo jiné právní uspořádání, které jsou
+>
+> - a) způsobilé zajistit základní úroveň ochrany důvěrnosti, integrity a dostupnosti informací orgánu veřejné správy,
+>
+> - b) bezúhonné v rozsahu bezúhonnosti požadované po kvalifikovaném správci kvalifikovaného systému elektronické identifikace,
+>
+> - c) způsobilé pro poskytnutí cloud computingu orgánu veřejné správy z hlediska veřejného pořádku, bezpečnosti a dodržování práv třetích osob.
+>
+> (2) Poskytovatelem cloud computingu poskytujícím orgánu veřejné správy cloud computing zařazený do nejvyšší bezpečnostní úrovně může být pouze poskytovatel státního cloud computingu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6eac30aa5913fac5d72a -->
 
 ### § 6n — Požadavky na cloud computing využívaný OVS
 
@@ -2307,6 +3905,64 @@ Pravidla **e** a **f** tvoří **„secure supply chain"** — žádný článek
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=24f04e20982bbd397367 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6n — Požadavky na cloud computing využívaný orgánem veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Orgán veřejné správy může využívat a poskytovatel cloud computingu může orgánu veřejné správy nebo poskytovateli státního cloud computingu poskytovat pouze cloud computing,
+>
+> - a) který umožňuje splnění požadavků kladených na informační systém veřejné správy informační koncepcí České republiky,
+>
+> - b) který umožňuje dosažení alespoň základní úrovně ochrany důvěrnosti, integrity a dostupnosti informací orgánu veřejné správy,
+>
+> - c) který umožňuje orgánu veřejné správy zajistit dodržování bezpečnostních pravidel stanovených prováděcím právním předpisem,
+>
+> - d) jehož bezpečnostní úroveň je stejná nebo vyšší než bezpečnostní úroveň informačního systému veřejné správy nebo jeho části, k zajištění jehož provozu je využíván,
+>
+> - e) který v případě, že je jeho poskytování závislé na jiném cloud computingu, je poskytovaný s využitím cloud computingu splňujícího požadavky podle písmen b) až d) a poskytovaného poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu; část věty před středníkem se nepoužije v případě cloud computingu poskytovaného podle § 6l odst. 1 písm. c),
+>
+> - f) u něhož v případě, že je jeho poskytování závislé na více poskytovatelích cloud computingu, je každý poskytovatel cloud computingu poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu; část věty před středníkem se nepoužije v případě cloud computingu poskytovaného podle § 6l odst. 1 písm. c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6l
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=24f04e20982bbd397367 -->
+
 ### § 6o — Zápis poptávky cloud computingu do katalogu
 
 > **§ 6o**
@@ -2369,6 +4025,60 @@ Poptávku cloudu zapisuje DIA do 15 dnů na žádost OVS (elektronicky, strojov�
 **Typicky rozhodné důkazy / podklady:** požadavek na zápis poptávky (strojově čitelný), hodnocení ekonomické výhodnosti, charakteristika poptávaného cloudu a požadované bezpečnostní úrovně, záznam o zápisu/sdružení v katalogu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b0c4ce59cd450e866902 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6o — Zápis poptávky cloud computingu do katalogu cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura zapíše poptávku cloud computingu do katalogu cloud computingu na základě požadavku orgánu veřejné správy, který poptává poskytnutí cloud computingu, a to do 15 dnů ode dne uplatnění požadavku. Agentura dále zapíše poptávku cloud computingu do katalogu cloud computingu na základě vlastního vyhodnocení potřeby využívání cloud computingu orgány veřejné správy.
+>
+> (2) Orgán veřejné správy uplatňuje požadavek elektronicky ve strojově čitelném formátu.
+>
+> (3) Orgán veřejné správy uvede v požadavku údaje o poptávce cloud computingu v rozsahu údajů, které se o poptávce cloud computingu vedou v katalogu cloud computingu.
+>
+> (4) Orgán veřejné správy připojí k požadavku hodnocení ekonomické výhodnosti využití poptávaného cloud computingu.
+>
+> (5) Odpovídá-li poptávka cloud computingu zapsaná v katalogu cloud computingu charakteristikou poptávaného cloud computingu jiné poptávce cloud computingu zapsané v katalogu cloud computingu, Agentura tyto poptávky sdruží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b0c4ce59cd450e866902 -->
 
 ### § 6p — Výmaz poptávky cloud computingu z katalogu
 
@@ -2437,6 +4147,62 @@ Poptávka cloudu se z katalogu vymaže na žádost OVS (do 15 dnů), automaticky
 **Typicky rozhodné důkazy / podklady:** zápis poptávky s datem, zápis využívaného cloudu (§ 6x), případná žádost o výmaz, vyrozumění z informačního systému cloud computingu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1950347dd24ea68bc4f4 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6p — Výmaz poptávky cloud computingu z katalogu cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura vymaže z katalogu cloud computingu poptávku cloud computingu,
+>
+> - a) o jejíž zápis do katalogu cloud computingu požádal orgán veřejné správy, na základě požadavku tohoto orgánu veřejné správy, a to do 15 dnů ode dne uplatnění požadavku,
+>
+> - b) o jejíž zápis do katalogu cloud computingu požádal orgán veřejné správy, po uplynutí doby 1 roku ode dne, kdy byla poptávka cloud computingu do katalogu cloud computingu zapsána,
+>
+> - c) o jejíž zápis do katalogu cloud computingu požádal orgán veřejné správy, na základě zápisu cloud computingu, který je předmětem poptávky cloud computingu, do katalogu cloud computingu podle [[#§ 6x|§ 6x]],
+>
+> - d) kterou zapsalo do katalogu cloud computingu podle § 6o odst. 1 věty druhé, na základě vlastního vyhodnocení potřeby využívání cloud computingu orgány veřejné správy.
+>
+> (2) Agentura vyrozumí prostřednictvím informačního systému cloud computingu orgán veřejné správy, na základě jehož požadavku byla poptávka cloud computingu do katalogu cloud computingu zapsána, o výmazu poptávky cloud computingu podle odstavce 1 písm. a) a b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6x, § 6o
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1950347dd24ea68bc4f4 -->
 
 ### § 6q — Zápis poskytovatele cloud computingu do katalogu
 
@@ -2528,6 +4294,76 @@ Zápis poskytovatele do katalogu je vstupní branou: DIA rozhoduje do 45 dnů (b
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bf9f740151e756907a90 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6q
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura rozhodne o zápisu poskytovatele cloud computingu do katalogu cloud computingu na základě jeho žádosti, splňuje-li poskytovatel cloud computingu požadavky podle § 6m odst. 1. O žádosti rozhodne Agentura do 45 dnů ode dne jejího podání; proti rozhodnutí o žádosti není rozklad přípustný.
+>
+> (2) Je-li žádosti v plném rozsahu vyhověno, písemné vyhotovení rozhodnutí se nevydává. Takové rozhodnutí nabývá právní moci dnem zápisu poskytovatele cloud computingu do katalogu cloud computingu. O zápisu do katalogu cloud computingu Agentura vyrozumí poskytovatele cloud computingu, který o zápis požádal.
+>
+> (3) Poskytovatel cloud computingu podává žádost elektronicky ve strojově čitelném formátu.
+>
+> (4) Poskytovatel cloud computingu uvede v žádosti
+>
+> - a) údaje o sobě v rozsahu údajů, které se o poskytovateli cloud computingu vedou v katalogu cloud computingu,
+>
+> - b) adresu svého sídla, má-li jej mimo území České republiky.
+>
+> (5) Poskytovatel cloud computingu k žádosti připojí
+>
+> - a) doklad vydaný orgánem státu, v němž má sídlo, obsahující identifikační údaje osob, které jsou jeho skutečným majitelem; část věty před středníkem se nepoužije, má-li poskytovatel cloud computingu sídlo na území České republiky,
+>
+> - b) doklad o svých zkušenostech s poskytováním cloud computingu za posledních 5 let,
+>
+> - c) doklad o tom, že splňuje požadavky pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2,
+>
+> - d) doklad o své bezúhonnosti, nelze-li bezúhonnost potvrdit postupem podle [[#§ 12|§ 12]] zákona o Rejstříku trestů; ustanovení právního předpisu upravujícího elektronickou identifikaci o dokladech prokazujících bezúhonnost kvalifikovaného správce kvalifikovaného systému elektronické identifikace se použijí obdobně,
+>
+> - e) doklad vydaný orgánem státu, v němž má sídlo, a doklad vydaný orgánem státu, na jehož území předpokládá dlouhodobé uložení informací orgánu veřejné správy, že nemá evidován nedoplatek vůči žádnému z orgánů těchto států; část věty před středníkem se ve vztahu k dokladu vydanému orgánem státu, v němž má poskytovatel cloud computingu sídlo, nepoužije, má-li poskytovatel cloud computingu sídlo na území České republiky.
+>
+> (6) Nevydává-li orgán státu doklad podle odstavce 5 písm. a) nebo e), poskytovatel cloud computingu jej může nahradit čestným prohlášením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6m, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf9f740151e756907a90 -->
+
 ### § 6r — Stanoviska a součinnost při zápisu poskytovatele
 
 > **§ 6r**
@@ -2604,6 +4440,72 @@ Při zápisu (i výmazu) poskytovatele DIA získává závazné stanovisko NÚKI
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3bb6512c31c691027aad generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6r
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura si vyžádá pro účely posouzení splnění požadavků podle § 6m odst. 1 písm. a) závazné stanovisko Národního úřadu pro kybernetickou a informační bezpečnost. Národní úřad pro kybernetickou a informační bezpečnost vydá závazné stanovisko do 3 měsíců od jeho vyžádání.
+>
+> (2) Agentura si vyžádá pro účely posouzení splnění požadavku podle § 6m odst. 1 písm. c) informace o tom, zda poskytovatel cloud computingu nemá evidovaný nedoplatek u
+>
+> - a) orgánu Finanční správy České republiky,
+>
+> - b) orgánu Celní správy České republiky,
+>
+> - c) orgánu sociálního zabezpečení na pojistném a na penále na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti a
+>
+> - d) zdravotní pojišťovny na pojistném a na penále na veřejné [[zdravotní pojištění|zdravotní pojištění]].
+>
+> (3) Pro rozsah údajů poskytnutých podle odstavce 2 se přiměřeně použijí ustanovení [[daňového řádu|daňového řádu]] o rozsahu údajů v potvrzení o stavu osobního daňového účtu. Poskytnutí těchto údajů není porušením mlčenlivosti podle [[daňového řádu|daňového řádu]].
+>
+> (4) Agentura si vyžádá pro účely posouzení splnění požadavku podle § 6m odst. 1 písm. c) údaje o skutečném majiteli poskytovatele cloud computingu z evidence údajů o skutečných majitelích; pro tento účel umožní Ministerstvo spravedlnosti Agentuře dálkový přístup k údajům o skutečném majiteli podle právního předpisu upravujícího veřejné rejstříky právnických a fyzických osob.
+>
+> (5) Agentura je oprávněna si vyžádat pro účely posouzení splnění požadavku podle § 6m odst. 1 písm. c) informace Národního úřadu pro kybernetickou a informační bezpečnost, Policie České republiky, zpravodajské služby nebo jiného orgánu.
+>
+> (6) Po dobu od vyžádání vyjádření nebo informace podle odstavců 2, [[#§ 4|4]] a [[#§ 5|5]] do jejich poskytnutí lhůta podle § 6q odst. 1 neběží, nejdéle však po dobu 3 měsíců.
+>
+> (7) Dokumenty týkající se posuzování splnění požadavků podle § 6m odst. 1, které obsahují utajované informace nebo jiné informace, na něž se vztahuje zákonem uložená nebo uznaná povinnost mlčenlivosti, se uchovávají odděleně mimo spis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6m, § 4, § 5, § 6q
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3bb6512c31c691027aad -->
+
 ### § 6s — Výmaz poskytovatele cloud computingu z katalogu
 
 > **§ 6s**
@@ -2670,6 +4572,62 @@ DIA vymaže poskytovatele z katalogu na žádost (do 15 dnů), nebo z moci úře
 **Typicky rozhodné důkazy / podklady:** doklad o pozbytí způsobilosti/bezúhonnosti, upozornění DIA s nápravnou lhůtou, doklad o (ne)nápravě, vyrozumění OVS přes ISCC, evidence výmazu poskytovatele a navazujících nabídek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=383d5ed7be67ec02dbeb generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6s — Výmaz poskytovatele cloud computingu z katalogu cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura rozhodne o výmazu poskytovatele cloud computingu z katalogu cloud computingu,
+>
+> - a) požádá-li o to poskytovatel cloud computingu, a to do 15 dnů ode dne podání žádosti, nebo
+>
+> - b) zjistí-li, že poskytovatel cloud computingu přestal splňovat požadavek podle § 6m odst. 1 písm. a) a nezjednal-li nápravu ve lhůtě stanovené Agenturou, která nesmí být kratší než 30 dnů, nebo zjistí-li, že poskytovatel cloud computingu přestal splňovat požadavek podle § 6m odst. 1 písm. b) nebo c).
+>
+> (2) Proti rozhodnutí podle odstavce 1 není rozklad přípustný.
+>
+> (3) Agentura vyrozumí prostřednictvím informačního systému cloud computingu o výmazu poskytovatele cloud computingu z katalogu cloud computingu orgán veřejné správy, který využívá cloud computing tohoto poskytovatele cloud computingu; ve vyrozumění uvede datum výmazu a jeho důvody.
+>
+> (4) Ustanovení [[#§ 6r|§ 6r]] se na výmaz poskytovatele cloud computingu z katalogu cloud computingu použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6m, § 6r
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=383d5ed7be67ec02dbeb -->
 
 ### § 6t — Zápis nabídky cloud computingu do katalogu
 
@@ -2810,6 +4768,106 @@ Zápis nabídky cloudu je administrativně nejnáročnější: poskytovatel při
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=525380f05ca90fdc7a31 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6t
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura rozhodne o zápisu nabídky cloud computingu zařazeného do jiné než nejnižší bezpečnostní úrovně do katalogu cloud computingu na základě žádosti poskytovatele státního cloud computingu nebo poskytovatele cloud computingu zapsaného v katalogu cloud computingu, splňuje-li nabízený cloud computing požadavky podle § 6n písm. a), b), d) a f) a požadavek podle § 6n písm. e), pokud jde o požadavky podle § 6n písm. b) a d) a požadavek na poskytování podpůrného cloud computingu poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu. Agentura rozhodne o zápisu nabídky cloud computingu zařazeného do nejnižší bezpečnostní úrovně do katalogu cloud computingu na základě žádosti poskytovatele podle věty první, splňuje-li nabízený cloud computing požadavky podle § 6n písm. a) a f) a požadavek podle § 6n písm. e), pokud jde o požadavek na poskytování podpůrného cloud computingu poskytovatelem státního cloud computingu nebo poskytovatelem cloud computingu zapsaným v katalogu cloud computingu. O žádosti podle vět první a druhé rozhodne Agentura do 30 dnů ode dne jejího podání; proti rozhodnutí o žádosti není rozklad přípustný.
+>
+> (2) Je-li žádosti v plném rozsahu vyhověno, písemné vyhotovení rozhodnutí se nevydává. Takové rozhodnutí nabývá právní moci dnem zápisu nabídky cloud computingu do katalogu cloud computingu. Agentura o zápisu do katalogu cloud computingu vyrozumí poskytovatele cloud computingu, který o zápis požádal.
+>
+> (3) Poskytovatel cloud computingu podává žádost elektronicky ve strojově čitelném formátu.
+>
+> (4) Poskytovatel cloud computingu může v žádosti uvést pouze jednu nabídku jednoho cloud computingu nebo jednu nabídku více cloud computingů zařazených do stejné bezpečnostní úrovně.
+>
+> (5) Poskytovatel cloud computingu uvede v žádosti
+>
+> - a) údaje o nabídce cloud computingu v rozsahu údajů, které se o nabídce cloud computingu vedou v katalogu cloud computingu,
+>
+> - b) údaj, zda je poskytování nabízeného cloud computingu závislé na využití jiného cloud computingu, identifikaci tohoto cloud computingu a jeho poskytovatele a popis využití jiného cloud computingu, včetně rozsahu využití,
+>
+> - c) údaj, zda je poskytování nabízeného cloud computingu závislé na více poskytovatelích cloud computingu, identifikaci těchto poskytovatelů cloud computingu a popis jejich zapojení do poskytování nabízeného cloud computingu, včetně rozsahu zapojení.
+>
+> (6) Poskytovatel cloud computingu k žádosti připojí
+>
+> - a) seznam svých dodavatelů, u kterých předpokládá zpracovávání informací orgánu veřejné správy,
+>
+> - b) doklad o tom, že nabízený cloud computing splňuje požadavky pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2,
+>
+> - c) dokumentaci nabízeného cloud computingu,
+>
+> - d) zprávu o provedení penetračního testu nabízeného cloud computingu, pokud je požadována právním předpisem vydaným podle § 12 odst. 2,
+>
+> - e) plán zajištění kontinuity provozu nabízeného cloud computingu a plán na obnovu poskytování nabízeného cloud computingu po havárii, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2; namísto plánů lze připojit auditní zprávu osvědčující jejich existenci,
+>
+> - f) doklad o zhodnocení zdrojů rizik nabízeného cloud computingu, pokud je požadován právním předpisem vydaným podle § 12 odst. 2,
+>
+> - g) podklady k ověření splnění požadavku na zajištění důvěrnosti, integrity a dostupnosti informací nabízeným cloud computingem, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2.
+>
+> (7) Je-li poskytování nabízeného cloud computingu závislé na využití jiného cloud computingu a není-li jiný cloud computing ke dni podání žádosti předmětem nabídky cloud computingu zapsané v katalogu cloud computingu, poskytovatel cloud computingu k žádosti dále připojí
+>
+> - a) smlouvu s poskytovatelem cloud computingu, který poskytuje cloud computing, na jehož využití je závislé poskytování nabízeného cloud computingu, (dále jen „podpůrný cloud computing“),
+>
+> - b) seznam dodavatelů poskytovatele podpůrného cloud computingu, u kterých poskytovatel podpůrného cloud computingu předpokládá zpracovávání informací orgánu veřejné správy,
+>
+> - c) doklad o tom, že podpůrný cloud computing splňuje požadavky pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací podpůrným cloud computingem, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2,
+>
+> - d) dokumentaci podpůrného cloud computingu,
+>
+> - e) zprávu o provedení penetračního testu podpůrného cloud computingu, pokud je požadována právním předpisem vydaným podle § 12 odst. 2,
+>
+> - f) plán zajištění kontinuity provozu podpůrného cloud comutingu a plán na obnovu poskytování podpůrného cloud computingu po havárii, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2; namísto plánů lze připojit auditní zprávu osvědčující jejich existenci,
+>
+> - g) doklad o zhodnocení zdrojů rizik podpůrného cloud computingu, pokud je požadován právním předpisem vydaným podle § 12 odst. 2,
+>
+> - h) podklady k ověření splnění požadavku na zajištění důvěrnosti, integrity a dostupnosti informací podpůrným cloud computingem, pokud jsou požadovány právním předpisem vydaným podle § 12 odst. 2.
+>
+> (8) Je-li poskytování nabízeného cloud computingu závislé na více poskytovatelích cloud computingu, poskytovatel cloud computingu k žádosti dále připojí
+>
+> - a) smlouvu o poskytování nabízeného cloud computingu s těmito poskytovateli cloud computingu,
+>
+> - b) seznam dodavatelů těchto poskytovatelů cloud computingu, u kterých tito poskytovatelé cloud computingu předpokládají zpracovávání informací orgánu veřejné správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6n, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=525380f05ca90fdc7a31 -->
+
 ### § 6u — Stanoviska při zápisu nabídky
 
 > **§ 6u**
@@ -2863,6 +4921,54 @@ Závazné stanovisko NÚKIB se k nabídce cloudu vyžaduje jen u nabídek vyšš
 **Typicky rozhodné důkazy / podklady:** žádost o zápis/aktualizaci nabídky, doklad o zařazení do bezpečnostní úrovně, žádost o stanovisko NÚKIB a samotné stanovisko, evidence běhu/stavení lhůty, oddělená část spisu s utajovanými informacemi.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ddf6e015b9b678d8b199 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6u
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura si vyžádá pro účely posouzení splnění požadavků podle § 6n písm. b) a e) závazné stanovisko Národního úřadu pro kybernetickou a informační bezpečnost; část věty před středníkem se nepoužije v případě žádosti o zápis nabídky cloud computingu zařazeného do nejnižší bezpečnostní úrovně. Národní úřad pro kybernetickou a informační bezpečnost vydá závazné stanovisko podle věty první do 30 dnů od jeho vyžádání.
+>
+> (2) Ustanovení § 6r odst. 7 se na zápis nabídky cloud computingu do katalogu cloud computingu použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6n, § 6r
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ddf6e015b9b678d8b199 -->
 
 ### § 6v — Aktualizace nabídky cloud computingu zapsané v katalogu
 
@@ -2931,6 +5037,64 @@ Aktualizace zapsané nabídky je „lehký" 30denní režim (bez rozkladu) urče
 **Typicky rozhodné důkazy / podklady:** žádost o aktualizaci, popis a rozsah změn, dotčené podklady (certifikace, dokumentace), původní zápis nabídky, doklad o trvajícím splnění § 6n.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e8e3c12fcd1f487af009 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6v — Aktualizace nabídky cloud computingu zapsané v katalogu cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura rozhodne o zápisu aktualizace nabídky cloud computingu zapsané v katalogu cloud computingu na základě žádosti poskytovatele cloud computingu, který požádal o její zápis do katalogu cloud computingu, je-li splněna podmínka podle odstavce 4. O žádosti rozhodne Agentura do 30 dnů ode dne jejího podání; proti rozhodnutí o žádosti není rozklad přípustný.
+>
+> (2) Je-li žádosti v plném rozsahu vyhověno, písemné vyhotovení rozhodnutí se nevydává. Takové rozhodnutí nabývá právní moci dnem zápisu aktualizace nabídky cloud computingu do katalogu cloud computingu. O zápisu do katalogu cloud computingu Agentura vyrozumí poskytovatele cloud computingu, který o zápis požádal.
+>
+> (3) Poskytovatel cloud computingu uvede v žádosti údaje o nabídce cloud computingu v rozsahu údajů, které se o nabídce cloud computingu vedou v katalogu cloud computingu a které jsou aktualizací dotčeny. Poskytovatel cloud computingu k žádosti připojí podklady podle § 6t odst. 6 až 8, v nichž jsou vyjádřeny skutečnosti, jež jsou aktualizací dotčeny.
+>
+> (4) Podmínkou aktualizace nabídky cloud computingu zapsané v katalogu cloud computingu je, že
+>
+> - a) nabízený cloud computing bude po aktualizaci nadále splňovat podmínky pro zápis do katalogu cloud computingu,
+>
+> - b) aktualizace se nedotýká údajů charakterizujících nabízený cloud computing s výjimkou objemu, rámcové ceny nebo názvu konkrétní cloudové služby.
+>
+> (5) Ustanovení § 6r odst. 7 a § 6u odst. 1 se na aktualizaci nabídky cloud computingu zapsané v katalogu cloud computingu použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6t, § 6r, § 6u
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e8e3c12fcd1f487af009 -->
 
 ### § 6w — Výmaz nabídky cloud computingu z katalogu
 
@@ -3011,6 +5175,70 @@ Nabídka cloudu se z katalogu vymaže na žádost (15 dnů), pro nesoulad s § 6
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2f6dccde535e102e42b3 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6w — Výmaz nabídky cloud computingu z katalogu cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura rozhodne o výmazu nabídky cloud computingu z katalogu cloud computingu,
+>
+> - a) požádá-li o výmaz poskytovatel cloud computingu, o jehož nabídku se jedná, a to do 15 dnů ode dne podání žádosti,
+>
+> - b) zjistí-li, že nabízený cloud computing přestal splňovat požadavky podle [[#§ 6n|§ 6n]] a nezjednal-li poskytovatel cloud computingu nápravu ve lhůtě stanovené Agenturou, která nesmí být kratší než 15 dnů,
+>
+> - c) uplyne-li doba 3 let ode dne, kdy byla nabídka cloud computingu do katalogu cloud computingu zapsána, pokud poskytovatel cloud computingu nepotvrdil Agentuře, že nabídka cloud computingu je stále platná, nebo uplyne-li doba 3 let ode dne, kdy poskytovatel cloud computingu naposledy potvrdil Agentuře, že nabídka cloud computingu je stále platná; Agentura vyzve prostřednictvím informačního systému cloud computingu poskytovatele cloud computingu, aby potvrdil platnost nabídky cloud computingu po uplynutí doby 30 měsíců ode dne, kdy byla nabídka cloud computingu do katalogu cloud computingu zapsána, a dále vždy po uplynutí doby 30 měsíců ode dne, kdy mu poskytovatel cloud computingu potvrdil, že nabídka cloud computingu je stále platná,
+>
+> - d) o jejíž zápis do katalogu cloud computingu požádal poskytovatel cloud computingu, u něhož došlo k výmazu z katalogu cloud computingu, a to současně s výmazem poskytovatele cloud computingu; je-li poskytování nabízeného cloud computingu závislé na více poskytovatelích cloud computingu zapsaných do katalogu cloud computingu, postačí výmaz kteréhokoliv z těchto poskytovatelů cloud computingu,
+>
+> - e) o jejíž zápis do katalogu cloud computingu požádal poskytovatel cloud computingu, a u níž došlo k výmazu poskytovatele podpůrného cloud computingu z katalogu cloud computingu, a to současně s výmazem poskytovatele podpůrného cloud computingu.
+>
+> (2) Týká-li se žádost o výmaz nabídky cloud computingu podle odstavce 1 písm. a), zjištění podle odstavce 1 písm. b) nebo potvrzení platnosti nabídky cloud computingu podle odstavce 1 písm. c) nabídky cloud computingu obsahující více cloud computingů zařazených do stejné bezpečnostní úrovně, Agentura vymaže z katalogu cloud computingu u nabídky cloud computingu pouze cloud computing, jehož se žádost, zjištění nebo potvrzení platnosti týká.
+>
+> (3) Proti rozhodnutí podle odstavce 1 není rozklad přípustný.
+>
+> (4) Agentura vyrozumí prostřednictvím informačního systému cloud computingu o výmazu nabídky cloud computingu nebo její části z katalogu cloud computingu orgán veřejné správy, který využívá cloud computing, který je předmětem nabídky; ve vyrozumění uvede datum výmazu a jeho důvody.
+>
+> (5) Ustanovení § 6r odst. 7 se na výmaz nabídky cloud computingu nebo její části z katalogu cloud computingu použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6n, § 6r
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f6dccde535e102e42b3 -->
+
 ### § 6x — Zápis využívaného cloud computingu do katalogu
 
 > **§ 6x**
@@ -3065,6 +5293,52 @@ OVS musí zapsat využívaný cloud do katalogu do 45 dnů od nabytí platnosti 
 **Typicky rozhodné důkazy / podklady:** smlouva o poskytnutí cloudu s datem nabytí platnosti, záznam o zápisu využívaného cloudu (datum), doklad o právním titulu využití (katalog / spolupráce / obecná výjimka).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f1d653581dc1ca11b413 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6x — Zápis využívaného cloud computingu do katalogu cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Orgán veřejné správy zapíše cloud computing, který využívá, do katalogu cloud computingu, a to do 45 dnů ode dne nabytí platnosti smlouvy o poskytnutí cloud computingu. Věta první se nepoužije v případě cloud computingu poskytovaného podle § 6l odst. 1 písm. c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6l
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f1d653581dc1ca11b413 -->
 
 ### § 6y — Poskytování informací a podkladů týkajících se poskytovatelů cloudu, nabídky cloudu nebo využívaného cloudu
 
@@ -3125,6 +5399,56 @@ Po zápisu nabídky má poskytovatel průběžné povinnosti: bezodkladně oznam
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=061f993a7d6aaf3c68b2 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6y — Poskytování informací a podkladů týkajících se poskytovatelů cloud computingu, nabídky cloud computingu nebo využívaného cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li v době, kdy je cloud computing předmětem nabídky cloud computingu zapsané v katalogu cloud computingu nebo kdy je poskytován orgánu veřejné správy, ke změně údajů vedených v katalogu cloud computingu, které poskytuje poskytovatel cloud computingu, anebo skutečností vyjádřených v podkladech podle § 6q odst. 5 nebo § 6t odst. 6 až 8, poskytovatel cloud computingu o této změně bezodkladně vyrozumí Agenturu a současně mu předloží aktuální podklady.
+>
+> (2) Poskytovatel cloud computingu předkládá po dobu, kdy je cloud computing předmětem nabídky cloud computingu zapsané v katalogu cloud computingu nebo kdy je poskytován orgánu veřejné správy, v intervalech stanovených prováděcím právním předpisem Agentuře doklady o splnění požadavku pro certifikaci nebo audit pro oblast ochrany důvěrnosti, integrity a dostupnosti informací podle § 6q odst. 5 písm. c), § 6t odst. 6 písm. b) a § 6t odst. 7 písm. c) a zprávu o provedení penetračního testu podle § 6t odst. 6 písm. d) a § 6t odst. 7 písm. e).
+>
+> (3) Orgán veřejné správy zapíše do katalogu cloud computingu vždy do 3 měsíců od skončení rozpočtového období údaje o finančním objemu nákladů vynaložených v souvislosti s využívaním cloud computingu za uplynulé rozpočtové období za každý informační systém veřejné správy, pro který orgán veřejné správy využívá nebo využíval cloud computing.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6q, § 6t
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=061f993a7d6aaf3c68b2 -->
+
 ### § 6z — Výmaz využívaného cloud computingu z katalogu
 
 > **§ 6z**
@@ -3172,6 +5496,52 @@ OVS musí sám vymazat již nevyužívaný cloud z katalogu do 45 dnů od pozbyt
 **Typicky rozhodné důkazy / podklady:** smlouva o poskytnutí cloudu a datum pozbytí platnosti, záznam o výmazu využívaného cloudu z katalogu, doklad o ukončení využívání, vykázané náklady za poslední rozpočtové období.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c0cf562a8028653652e5 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 6z — Výmaz využívaného cloud computingu z katalogu cloud computingu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Orgán veřejné správy vymaže cloud computing, jehož využívání ukončil, z katalogu cloud computingu, a to do 45 dnů ode dne pozbytí platnosti smlouvy o poskytnutí cloud computingu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c0cf562a8028653652e5 -->
 
 ### HLAVA VII — Přestupky
 
@@ -3323,6 +5693,112 @@ Pokuty podle § 7 odst. 5 **nevylučují** sankci za porušení rozpočtové ká
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0ced2c62883568a4f040 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 7 — Přestupky právnických a podnikajících fyzických osob a orgánů veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Akreditující osobě, která
+>
+> - a) neprovádí akreditaci podle akreditačních pravidel, s nimiž Agentura vyslovila souhlas [§ 6 odst. 4 písm. a)],
+>
+> - b) vydá osvědčení o akreditaci, aniž by splňovala personální požadavky [§ 6 odst. 4 písm. d)],
+>
+> - c) neohlásí bezodkladně Agentuře, že nemá po dobu delší než 3 měsíce zajištěné zdroje potřebné pro výkon svých činností [§ 6 odst. 4 písm. f)],
+>
+> - d) nepostupuje při provádění akreditace nestranně [§ 6 odst. 4 písm. e)], nebo
+>
+> - e) nesplní ve stanovené lhůtě povinnost předání informací Agentuře (§ 6a odst. 3),
+>
+> lze uložit pokutu do 100 000 Kč.
+>
+> (2) Atestační středisko se dopustí přestupku tím, že
+>
+> - a) neprovádí atestaci podle postupů atestačního střediska schválených Agenturou (§ 6b odst. 3),
+>
+> - b) vyhodnotilo způsob dlouhodobého řízení informačních systémů veřejné správy v rozporu s osvědčením o akreditaci ([[#§ 6a|§ 6a]]) nebo tímto zákonem,
+>
+> - c) vydá atest na dlouhodobé řízení informačních systémů veřejné správy, na jejichž vývoji, přípravě, výrobě nebo na obchodu se jakkoliv podílelo samo nebo s ním ekonomicky nebo personálně spojená osoba (§ 6d odst. 2),
+>
+> - d) nesplní ve stanovené lhůtě povinnost vydání protokolu o provedené zkoušce (§ 6d odst. 4),
+>
+> - e) nesplní ve stanovené lhůtě povinnost předání informací Agentuře (§ 6d odst. 7), nebo
+>
+> - f) nesplní ve stanovené lhůtě povinnost zveřejnění atestačních podmínek (§ 6e odst. 1).
+>
+> (3) Právnická nebo podnikající fyzická osoba se jako provozovatel informačního systému veřejné správy dopustí přestupku tím, že
+>
+> - a) nepředá data a provozní údaje na vyžádání správce informačního systému veřejné správy podle § 9e odst. 1, nebo
+>
+> - b) v rozporu s § 9e odst. 2 nebo [[#§ 3|3]]
+>
+> - 1. nepředá data a provozní údaje po ukončení provozování informačního systému veřejné správy,
+>
+> - 2. nezlikviduje kopie dat a provozních údajů, nebo
+>
+> - 3. neumožní správci informačního systému veřejné správy dohled nad průběhem likvidace kopií dat a provozních údajů.
+>
+> (4) Poskytovatel cloud computingu se dopustí přestupku tím, že poskytuje orgánu veřejné správy nebo poskytovateli státního cloud computingu cloud computing, který nesplňuje požadavky na cloud computing využívaný orgánem veřejné správy podle [[#§ 6n|§ 6n]].
+>
+> (5) Orgán veřejné správy se dopustí přestupku tím, že
+>
+> - a) využívá cloud computing v rozporu s § 6l odst. 1,
+>
+> - b) nesplní ve stanovené lhůtě povinnost ukončit využívání cloud computingu podle § 6l odst. 2,
+>
+> - c) nesplní povinnost zařadit informační systém nebo jeho část do bezpečnostní úrovně podle § 6l odst. 3, nebo
+>
+> - d) nezajišťuje dodržování bezpečnostních pravidel podle § 6l odst. 3.
+>
+> (6) Za přestupek lze uložit pokutu do
+>
+> - a) 10 000 000 Kč, jde-li o přestupek podle odstavce 4 nebo [[#§ 5|5]],
+>
+> - b) 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a) až c) nebo odstavce 3 písm. b) bodu 1 nebo [[#§ 2|2]],
+>
+> - c) 200 000 Kč, jde-li o přestupek podle odstavce 3 písm. a) nebo písm. b) bodu 3,
+>
+> - d) 100 000 Kč, jde-li o přestupek podle odstavce 2 písm. d) až f).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6, § 6a, § 6b, § 6d, § 6e, § 9e, § 3, § 6n, § 6l, § 5, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ced2c62883568a4f040 -->
+
 ### § 7a — Společná ustanovení k přestupkům
 
 > **§ 7a**
@@ -3380,6 +5856,52 @@ Všechny přestupky podle ZISVS projednává DIA (§ 7a) — od akreditujících
 **Typicky rozhodné důkazy / podklady:** oznámení o zahájení přestupkového řízení, vymezení skutku a jeho právní kvalifikace, rozhodnutí o přestupku, případné rozhodnutí o rozkladu, podklady kontroly DIA.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=31be9779dd870658fe92 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 7a — Společná ustanovení k přestupkům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Přestupky podle tohoto zákona projednává Agentura.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=31be9779dd870658fe92 -->
 
 ### HLAVA VIII — Účinky podpisu
 
@@ -3450,6 +5972,52 @@ Pokud ISVS tyto tři vlastnosti má, **podpis ve smyslu hmotného práva NENÍ P
 **Typicky rozhodné důkazy / podklady:** záznam o přihlášení se zaručenou identitou (NIA), log autorizace úkonu, auditní stopa o projevu vůle, technická dokumentace/konfigurace formulářové aplikace ISVS.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ed091bc52e9a71ce20a6 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Úkon, jehož náležitostí má být podpis toho, kdo jej činí, učiněný prostřednictvím informačního systému veřejné správy se považuje za podepsaný, umožňuje-li informační systém veřejné správy prokázání totožnosti toho, kdo úkon činí, s využitím elektronické identifikace, autorizaci úkonu tím, kdo úkon činí, a zpětné prokázání projevu vůle toho, kdo úkon činí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed091bc52e9a71ce20a6 -->
 
 ### HLAVA IX — Kontaktní místa veřejné správy
 
@@ -3577,6 +6145,76 @@ Kontaktní místa veřejné správy (Czech POINT) tvoří taxativní okruh sedmi
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=63999e1eafd7d7e2a2af generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 8a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Podání správním orgánům lze činit v rozsahu a za podmínek stanovených jinými právními předpisy prostřednictvím kontaktního místa veřejné správy (Českého podacího ověřovacího informačního národního terminálu - Czech POINT). Kontaktní místo veřejné správy může dále doručovat dokumenty veřejných orgánů.
+>
+> (2) Kontaktními místy veřejné správy jsou
+>
+> - a) notáři,
+>
+> - b) krajské úřady,
+>
+> - c) matriční úřady,
+>
+> - d) obecní úřady, úřady městských částí nebo městských obvodů územně členěných statutárních měst a úřady městských částí hlavního města Prahy, jejichž seznam stanoví prováděcí právní předpis,
+>
+> - e) zastupitelské úřady určené ministrem zahraničních věcí; Ministerstvo zahraničních věcí zveřejní seznam takových zastupitelských úřadů na svých internetových stránkách,
+>
+> - f) držitel poštovní licence15), Hospodářská komora České republiky a Agrární komora České republiky,
+>
+> - g) banka, pojišťovna, zdravotní pojišťovna a poskytovatel univerzální služby podle právního předpisu upravujícího elektronické komunikace, kterým byla Agenturou udělena autorizace k výkonu působnosti kontaktního místa veřejné správy (dále jen „osoba autorizovaná Agenturou“).
+>
+> (3) Držitel poštovní licence, Hospodářská komora České republiky, Agrární komora České republiky a osoba autorizovaná Agenturou mohou za provedení správního úkonu kontaktního místa veřejné správy nebo jiného správního úkonu svěřeného jim zvláštním zákonem požadovat poplatek, jehož výše nesmí přesáhnout sazbu správního poplatku stanovenou pro tento správní úkon v právním předpisu upravujícím správní poplatky.
+>
+> (4) Nestanoví-li tento zákon nebo jiný právní předpis jinak, je působnost kontaktního místa veřejné správy výkonem přenesené působnosti krajských a obecních úřadů.
+>
+> (5) Označení Český podací ověřovací informační národní terminál nebo Czech POINT lze užít jen pro kontaktní místo veřejné správy.
+>
+> (6) Informační systém, jehož prostřednictvím je zajišťován výkon působnosti kontaktních míst veřejné správy, spravuje Agentura. Tento informační systém je informačním systémem veřejné správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=63999e1eafd7d7e2a2af -->
+
 ### § 8b — Autorizace k výkonu působnosti kontaktního místa veřejné správy
 
 > **§ 8b**
@@ -3664,6 +6302,72 @@ Autorizace komerčního kontaktního místa se uděluje na 5 let při splnění 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o autorizaci, doklad o úhradě poplatku, zveřejnění podmínek ve Věstníku DIA, popis škodní události a přijatých opatření, seznam autorizovaných osob a počtu pracovišť.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=92e8f9f35e4422ef85b6 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 8b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Agentura udělí na žádost banky, pojišťovny, zdravotní pojišťovny nebo poskytovatele univerzální služby podle právního předpisu upravujícího elektronické komunikace autorizaci k výkonu působnosti kontaktního místa veřejné správy, splňuje-li věcné, personální, technické, bezpečnostní a organizační podmínky pro výkon této působnosti. Agentura rozhodne o žádosti o udělení autorizace do 3 měsíců ode dne jejího podání. Autorizace se uděluje na dobu 5 let.
+>
+> (2) Agentura stanovuje věcné, personální, technické, bezpečnostní a organizační podmínky pro výkon působnosti kontaktního místa veřejné správy a zveřejňuje je ve Věstníku Agentury a způsobem umožňujícím dálkový přístup. Stanoví-li Agentura nové podmínky podle věty první, povinnost osoby autorizované Agenturou splňovat tyto podmínky nastane nejdříve prvním dnem šestého kalendářního měsíce následujícího po kalendářním měsíci, v němž došlo k jejich zveřejnění, nestanoví-li Agentura delší dobu.
+>
+> (3) Osoba autorizovaná Agenturou je povinna uhradit za autorizaci k výkonu působnosti kontaktního místa veřejné správy poplatek 200 000 Kč. Osoba autorizovaná Agenturou uhradí poplatek do 30 dnů ode dne, kdy rozhodnutí Agentury o udělení autorizace nabylo právní moci. Poplatek je příjmem státního rozpočtu, vybírá jej Agentura.
+>
+> (4) Osoba autorizovaná Agenturou odpovídá za škodu způsobenou v souvislosti s výkonem působnosti kontaktního místa veřejné správy. Osoba autorizovaná Agenturou se odpovědnosti zprostí, prokáže-li, že škodě nemohlo být zabráněno ani při vynaložení veškerého úsilí, které lze na ní požadovat.
+>
+> (5) Agentura kontroluje u osoby autorizované Agenturou plnění věcných, personálních, technických, bezpečnostních a organizačních podmínek pro výkon působnosti kontaktního místa veřejné správy.
+>
+> (6) Agentura je oprávněna omezit osobě autorizované Agenturou na nezbytně nutnou dobu přístup do informačního systému, jehož prostřednictvím je zajišťován výkon působnosti kontaktních míst veřejné správy, porušila-li osoba autorizovaná Agenturou věcné, personální, technické, bezpečnostní nebo organizační podmínky pro výkon působnosti kontaktního místa veřejné správy způsobem vážně ohrožujícím funkčnost informačního systému, jehož prostřednictvím je zajišťován výkon působnosti kontaktních míst veřejné správy.
+>
+> (7) Agentura odejme autorizaci k výkonu působnosti kontaktního místa veřejné správy,
+>
+> - a) nesplňuje-li osoba autorizovaná Agenturou věcné, personální, technické, bezpečnostní nebo organizační podmínky pro výkon působnosti kontaktního místa veřejné správy a nedojde-li do 3 měsíců ode dne, kdy Agentura na tuto skutečnost upozornila, k nápravě,
+>
+> - b) požádá-li o to osoba autorizovaná Agenturou, nebo
+>
+> - c) nezaplatí-li osoba autorizovaná Agenturou poplatek za autorizaci k výkonu působnosti kontaktního místa veřejné správy ve stanovené lhůtě.
+>
+> (8) Agentura vede seznam osob autorizovaných Agenturou a zveřejňuje jej způsobem umožňujícím dálkový přístup. Pro potřeby vedení seznamu osoba autorizovaná Agenturou bezodkladně informuje Agenturu o počtu pracovišť, jejichž prostřednictvím vykonává působnost kontaktního místa veřejné správy, adresách těchto pracovišť a o změnách počtu těchto pracovišť a jejich adres.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92e8f9f35e4422ef85b6 -->
 
 ### HLAVA X — Vydávání výpisů a ověřených výstupů z ISVS
 
@@ -3766,6 +6470,60 @@ Výpisy z veřejných evidencí (OR, KN, ŽR) se vydávají komukoli, z neveřej
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1ba21ae5aefeb3f32c0e generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Z informačních systémů veřejné správy nebo jejich částí, které jsou veřejnými evidencemi, rejstříky nebo seznamy, vydávají orgány veřejné správy, které jsou správci těchto systémů, na požádání úplný nebo částečný výpis ze zápisu vedeného v elektronické podobě v tomto informačním systému. Z informačních systémů veřejné správy nebo jejich částí, které jsou neveřejnými evidencemi, rejstříky nebo seznamy, vydávají správci, pokud tak stanoví zvláštní právní předpis, na požádání úplný nebo částečný výpis ze zápisu vedeného v elektronické podobě v tomto informačním systému osobě, které se zápis přímo týká, nebo osobě, která je podle zvláštního právního předpisu oprávněna žádat informaci uvedenou v zápisu, a to v rozsahu tímto zvláštním právním předpisem stanoveném.
+>
+> (2) Stanoví-li tak zvláštní právní předpis, výpis podle odstavce 1 nebo potvrzení o tom, že určitý údaj v informačním systému veřejné správy není, v elektronické podobě zabezpečené způsobem zajišťujícím integritu, případně původ dat (dále jen „výstup z informačního systému veřejné správy“), ověřují a ověřené výstupy z informačních systémů veřejné správy na žádost vydávají kontaktní místa veřejné správy. S přihlédnutím k současným technickým podmínkám mohou kontaktní místa veřejné správy vydávat ověřené výstupy i z ostatních informačních systémů veřejné správy, které jsou veřejnými evidencemi, rejstříky nebo seznamy.
+>
+> (3) Ověřeným výstupem z informačního systému veřejné správy (dále jen „ověřený výstup“) se rozumí listina, která vznikla úplným převodem výstupu z informačního systému veřejné správy z elektronické do listinné podoby ([[#§ 9a|§ 9a]]).
+>
+> (4) Osoba, která je držitelem prostředku pro elektronickou identifikaci, který umožňuje přístup se zaručenou identitou, je oprávněna obstarat si s využitím tohoto prostředku výstup z informačního systému veřejné správy, který je neveřejnou evidencí, rejstříkem nebo seznamem, který se jí přímo týká, nebo údaje vedené o ní v tomto informačním systému veřejné správy, a to alespoň prostřednictvím portálu veřejné správy nebo s využitím národního bodu pro identifikaci a autentizaci, anebo poskytnout tento výstup nebo údaje jiné osobě anebo veřejnému orgánu. Správce portálu veřejné správy zveřejní na portálu veřejné správy seznam informačních systémů veřejné správy, z nichž lze výstup nebo údaje takto obstarat anebo poskytnout. Vydání výstupu nebo údajů anebo poskytnutí výstupu nebo údajů zajistí orgán veřejné správy, který je správcem informačního systému veřejné správy; po dohodě s ním může vydání výstupu nebo údajů zajistit správce portálu veřejné správy nebo správce národního bodu pro identifikaci a autentizaci.
+>
+> (5) Výpis v listinné podobě, výstup z informačního systému veřejné správy a ověřený výstup podle odstavce 3 jsou veřejnými listinami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ba21ae5aefeb3f32c0e -->
+
 ### § 9a — Ověřovací doložka
 
 > **§ 9a**
@@ -3840,6 +6598,66 @@ Ověřovací doložka musí obsahovat šest náležitostí (údaj o ověření, 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d0ab477fa3e2da0f8ff3 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 9a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Ověřením výstupu z informačního systému veřejné správy se rozumí ověření té skutečnosti, že listina vznikla převedením výstupu z informačního systému veřejné správy z elektronické do listinné podoby. Ověření se provede ověřovací doložkou, která obsahuje
+>
+> - a) údaj o ověření toho, že ověřený výstup odpovídá výstupu z informačního systému veřejné správy,
+>
+> - b) údaj o tom, z kolika listů se skládá ověřený výstup,
+>
+> - c) údaj o tom, že ověřený výstup obsahuje částečný výpis z informačního systému veřejné správy, pokud neobsahuje výstup úplný,
+>
+> - d) místo a datum vyhotovení doložky o ověření,
+>
+> - e) pořadové číslo, pod kterým je ověření vedeno v evidenci ověření výstupu z informačního systému veřejné správy,
+>
+> - f) otisk úředního razítka a podpis ověřujícího.
+>
+> (2) Ověřovací doložku vyhotoví ověřující na listině, která vznikla převedením výstupu z informačního systému veřejné správy z elektronické do listinné podoby, nebo ověřovací doložku vyhotoví zvlášť a s touto listinou ji pevně spojí. Listina, která vznikla převedením výstupu z informačního systému veřejné správy z elektronické do listinné podoby, a na ní vyhotovená nebo s ní pevně spojená ověřovací doložka, se považují za jednu listinu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0ab477fa3e2da0f8ff3 -->
+
 ### § 9b — Povinnosti ověřujícího
 
 > **§ 9b**
@@ -3910,6 +6728,64 @@ Ověřující musí používat zařízení zobrazující výstup čitelně a vě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=29e224a72acc79c44134 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 9b — Povinnosti ověřujícího
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Ti, kteří vydávají ověřené výstupy (dále jen „ověřující“), jsou povinni při ověřování výstupu z informačního systému veřejné správy používat pouze takové technické zařízení, které výstup z informačního systému veřejné správy, který má být ověřen, zobrazí do formy, v níž je jeho obsah pro fyzickou osobu čitelný tak, aby jeho interpretace odpovídala zápisu v informačním systému veřejné správy.
+>
+> (2) Ověřující je povinen provést veškeré úkony potřebné k tomu, aby ověřil tu skutečnost, že výstup z informačního systému veřejné správy je zabezpečen způsobem zajišťujícím integritu, případně původ dat.
+>
+> (3) Při vydávání ověřených výstupů na základě výpisů podle § 9 odst. 1 věty druhé je ověřující povinen prověřit oprávnění žadatele a zjistit jeho totožnost. Jde-li o právnickou osobu, zjišťuje její existenci a totožnost osob jednajících jejím jménem.
+>
+> (4) Ověřující je povinen vést evidenci vydaných ověřených výstupů. Evidence obsahuje alespoň tyto údaje:
+>
+> - a) pořadové číslo, pod kterým je ověření vedeno v evidenci ověření výstupu z informačního systému veřejné správy,
+>
+> - b) datum vyhotovení doložky o ověření,
+>
+> - c) je-li žadatelem fyzická osoba jméno, příjmení, datum narození a dále jméno, příjmení a datum narození osoby, jejíž totožnost byla pro účely vydání ověřeného výstupu ověřena, včetně druhu a čísla průkazu, jímž byla totožnost zjištěna, je-li ověření totožnosti předepsáno; je-li žadatelem právnická osoba, její obchodní firmu nebo název, adresu sídla, identifikační číslo, je-li přiděleno, a jméno, příjmení, datum narození osoby nebo osob, jednajících jménem této právnické osoby, nebo osoby jednající za právnickou osobu jejím jménem na základě zastoupení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=29e224a72acc79c44134 -->
+
 ### § 9c — Povinnosti správců ISVS
 
 > **§ 9c**
@@ -3975,6 +6851,56 @@ Správce ISVS musí ověřujícímu předat výstup opatřený časem vytvořen�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=db03d4512d66948870d7 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 9c — Povinnosti orgánů veřejné správy, které jsou správci informačních systémů veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Správci informačních systémů veřejné správy jsou povinni předat ověřující osobě na požádání bezodkladně výstup z informačního systému veřejné správy opatřený datem a časem s uvedením hodiny, minuty a sekundy, kdy byl výstup vytvořen, a datem a časem s uvedením hodiny, minuty a sekundy okamžiku, ke kterému správce odpovídá za soulad výstupu se stavem zápisu v informačním systému veřejné správy (dále jen „okamžik platnosti údajů“), a zabezpečený způsobem zajišťujícím integritu, případně původ dat.
+>
+> (2) Správci informačních systémů veřejné správy odpovídají za soulad výpisu, který vydávají podle [[#§ 9|§ 9]], nebo výstupu z informačního systému veřejné správy se stavem zápisu v informačním systému veřejné správy k okamžiku platnosti údajů.
+>
+> (3) Správci informačních systémů veřejné správy, které jsou neveřejnými evidencemi, rejstříky nebo seznamy, jsou povinni předat ověřující osobě výstup z informačního systému veřejné správy tak, aby byl tento výstup z informačního systému veřejné správy v průběhu předání odpovídajícím způsobem skryt před třetími osobami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db03d4512d66948870d7 -->
+
 ### § 9d — Zpoplatnění ověřování výstupu z ISVS
 
 > **§ 9d**
@@ -4033,6 +6959,56 @@ Zpoplatnění ověřených výstupů má tři roviny: „velkoobchodní" úplata
 **Typicky rozhodné důkazy / podklady:** ceník kontaktního místa, Sazebník správních poplatků (položka pro ZISVS), notářský tarif, doklad o vydání výstupu a o zaplaceném poplatku, doklad o „velkoobchodní" úplatě mezi správcem a ověřujícím.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c1dce6ddfc8bfaae38aa generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 9d — Zpoplatnění ověřování výstupu z informačního systému veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Správce informačního systému veřejné správy je oprávněn požadovat za poskytnutí výstupu z informačního systému veřejné správy ověřujícímu úplatu, a to za každý poskytnutý výstup z informačního systému veřejné správy částku, která je stanovena zvláštním právním předpisem jako poplatek za vydání výpisu z předmětného záznamu, jenž má jednu stránku16).
+>
+> (2) Správní poplatek za vydání ověřeného výstupu vydaného ověřujícím podle § 8a odst. 2 písm. b) až e) stanoví zvláštní právní předpis16).
+>
+> (3) Odměnu notáře za vydávání ověřených výstupů stanoví zvláštní právní předpis17).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c1dce6ddfc8bfaae38aa -->
 
 ### HLAVA XI — Součinnost provozovatele ISVS
 
@@ -4114,6 +7090,60 @@ Porušení § 9e je přestupkem podle § 7 odst. 3 (pokuta až 1 mil. Kč pro pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=df239d5dd28d75c86f58 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 9e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel informačního systému veřejné správy předá bezodkladně na vyžádání správce informačního systému veřejné správy data a provozní údaje týkající se provozovaného informačního systému veřejné správy.
+>
+> (2) Provozovatel informačního systému veřejné správy předá bezodkladně po ukončení provozování informačního systému veřejné správy data a provozní údaje týkající se provozovaného informačního systému veřejné správy správci informačního systému veřejné správy a kopie těchto dat a provozních údajů zlikviduje.
+>
+> (3) Provozovatel informačního systému veřejné správy postupuje při likvidaci kopií dat a provozních údajů týkajících se provozovaného informačního systému veřejné správy podle pravidel stanovených právním předpisem upravujícím kybernetickou bezpečnost pro likvidaci dat, provozních údajů, informací a jejich kopií. Provozovatel informačního systému veřejné správy umožní správci informačního systému veřejné správy dohled nad průběhem likvidace kopií dat a provozních údajů, nevylučuje-li to způsob provozování informačního systému veřejné správy.
+>
+> (4) Provozovatel informačního systému veřejné správy má právo na úhradu účelně vynaložených nákladů za předání dat a provozních údajů podle odstavců 1 a [[#§ 2|2.]]
+>
+> (5) Ustanovení právního předpisu upravujícího práva k duševnímu vlastnictví nejsou předáním dat a provozních údajů podle odstavců 1 a [[#§ 2|2]] dotčena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=df239d5dd28d75c86f58 -->
+
 ### HLAVA XII — Společná, přechodná, zrušovací a zmocňovací ustanovení
 
 ### § 10 — Přechodná ustanovení
@@ -4184,6 +7214,54 @@ Tato úleva chrání malé obce před plnou administrativní zátěží.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d57a5a249c9c7218b115 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 10 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Informační systémy, které orgány veřejné správy ke dni účinnosti tohoto zákona již spravují, provozují nebo budují, musí orgány veřejné správy nejpozději do 2 let ode dne účinnosti tohoto zákona uvést do souladu s tímto zákonem nebo ukončit jejich činnost.
+>
+> (2) V případě informačních systémů veřejné správy, jejichž správci jsou orgány územní samosprávy, které nevykonávají státní správu v přenesené působnosti, se na tyto správce povinnosti uvedené v § 5 odst. 2 písm. c), f), g) a h) vztahují po uplynutí doby 2 let ode dne nabytí účinnosti těchto ustanovení zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d57a5a249c9c7218b115 -->
+
 ### § 11 — Zrušení Úřadu pro státní informační systém
 
 > **§ 11**
@@ -4245,6 +7323,56 @@ Pro výklad **současného znění** ZISVS je § 11 reziduálním ustanovením s
 **Typicky rozhodné důkazy / podklady:** text § 11 a § 13, řetězec novel ZISVS a kompetenčního zákona (zejména z. č. 471/2022 Sb.), aktuální organizační uspořádání a vymezení působnosti DIA.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0af2dcfcddc2474c0ffa generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 11 — Zrušení Úřadu pro státní informační systém
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> (1) Úřad pro státní informační systém se zrušuje.
+>
+> (2) Dosavadní působnost Úřadu pro státní informační systém stanovená zvláštními zákony13) přechází na Úřad.
+>
+> (3) Práva a povinnosti z pracovněprávních a jiných právních vztahů přecházejí z Úřadu pro státní informační systém na Úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0af2dcfcddc2474c0ffa -->
 
 ### Zmocňovací ustanovení
 
@@ -4502,6 +7630,53 @@ Toto ustanovení má opět **pouze historickou hodnotu** — bylo „spotřebov�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=08ccbd307358873e86e7 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> V [[§ 2 odst. 1 bodu 6|§ 2 odst. 1 bodu 6]] [[zákona č. 2/1969 Sb|zákona č. 2/1969 Sb.]], o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění [[zákona č. 272/1996 Sb|zákona č. 272/1996 Sb.]], se slova „Úřad pro státní informační systém“ nahrazují slovy „Úřad pro veřejné informační systémy“.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- zákon č. 2/1969 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 272/1996 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08ccbd307358873e86e7 -->
+
 ## ČÁST ČTVRTÁ — Účinnost
 
 ### § 14 — Účinnost
@@ -4584,6 +7759,62 @@ Tato podpisová formule je dnes součástí historického znění zákona č. 36
 **Typicky rozhodné důkazy / podklady:** text § 14 s daty účinnosti, datum vyhlášení zákona (částka 99/2000 Sb.), přehled novel a kód konsolidovaného znění, navazující prováděcí předpisy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b587502a9ec6489a42b8 generator=2026-07-17.4 source_sha256=97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2000/365-2000 Zákon o informačních systémech veřejné správy a o změně některých dalších zákonů.md`; identifikátor verze: `SB-2000-00365_2026-01-01`; SHA-256: `97685fa22a4833b52de49acb900ddaa42f33f6b0afa766440a916e88bd44c1c2`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem vyhlášení, s výjimkou ustanovení
+>
+> - a) § 5 odst. 2 písm. c), které nabývá účinnosti dnem 1. července 2001;
+>
+> - b) § 5 odst. 2 písm. f), které nabývá účinnosti dnem 1. ledna 2001;
+>
+> - c) § 5 odst. 2 písm. g), které nabývá účinnosti dnem 1. ledna 2002;
+>
+> - d) § 5 odst. 2 písm. h), které nabývá účinnosti dnem 1. ledna 2001 a pro zveřejňování informací dálkovým přístupem nabývá účinnosti dnem 1. ledna 2002;
+>
+> - e) [[#§ 6|§ 6]], které nabývá účinnosti dnem 1. července 2001.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b587502a9ec6489a42b8 -->
 
 ## Závěrečné poznámky ke komentáři
 
